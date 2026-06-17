@@ -1,0 +1,102 @@
+{
+  "Cardiovascular": [
+    "arrhythmia",
+    "anticoagulant",
+    "coronary",
+    "hypertension",
+    "cardiac",
+    "statin",
+    "heart",
+    "heart failure"
+  ],
+  "Diabetes/Metabolic": [
+    "hyperglycemia",
+    "glucose",
+    "glp",
+    "hba1c",
+    "insulin",
+    "pancreatic",
+    "obesity",
+    "precision medicine"
+  ],
+  "Immunology/Autoimmune": [
+    "tnf",
+    "jak",
+    "inflammation",
+    "rheumatoid",
+    "autoimmune",
+    "biologics",
+    "cytokine",
+    "precision medicine"
+  ],
+  "Infectious Disease": [
+    "antibiotic",
+    "vaccine",
+    "pathogen",
+    "antiviral",
+    "bacterial",
+    "hiv",
+    "viral",
+    "sepsis"
+  ],
+  "Mental Health": [
+    "bipolar",
+    "depression",
+    "schizophrenia",
+    "anxiety",
+    "ssri",
+    "neurotransmitter",
+    "precision",
+    "precision medicine"
+  ],
+  "Neurology": [
+    "parkinson",
+    "neuropathy",
+    "alzheimer",
+    "dementia",
+    "cognitive",
+    "dopamine",
+    "seizure",
+    "neuropathy dopamine"
+  ],
+  "Oncology": [
+    "tumor",
+    "radiation",
+    "cancer",
+    "egfr",
+    "metastatic",
+    "chemotherapy",
+    "immunotherapy",
+    "pd l1"
+  ],
+  "Other": [
+    "randomized",
+    "safety",
+    "clinical",
+    "patient",
+    "treatment",
+    "efficacy",
+    "dose",
+    "precision"
+  ],
+  "Rare Disease": [
+    "orphan",
+    "monogenic",
+    "variant",
+    "rare variant",
+    "rare",
+    "replacement",
+    "enzyme",
+    "enzyme replacement"
+  ],
+  "Respiratory": [
+    "inhaler",
+    "bronchial",
+    "asthma",
+    "copd",
+    "pulmonary",
+    "fibrosis",
+    "fev1",
+    "precision"
+  ]
+}
