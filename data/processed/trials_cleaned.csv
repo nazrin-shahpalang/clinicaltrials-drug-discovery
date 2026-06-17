@@ -1,0 +1,2001 @@
+nct_id,start_year,disease_area,phase,status,intervention_type,lead_sponsor,enrollment,duration_months,ai_designed,multinational,has_biomarker
+NCT2013000000,2019,Other,Phase 2,Withdrawn,Biological,AstraZeneca,46,29,False,True,True
+NCT2013000001,2016,Diabetes/Metabolic,Phase 1,"Active, not recruiting",Drug,Bristol-Myers Squibb,63,19,False,False,True
+NCT2013000002,2023,Diabetes/Metabolic,Phase 4,Recruiting,Behavioral,Biotech Startup,31,54,False,True,False
+NCT2013000003,2020,Infectious Disease,Phase 4,"Active, not recruiting",Drug,AbbVie,252,10,False,True,True
+NCT2013000004,2017,Neurology,N/A,Completed,Behavioral,Sanofi,205,17,False,False,False
+NCT2013000005,2019,Oncology,Phase 1,"Active, not recruiting",Drug,University Hospital,41,19,False,False,False
+NCT2013000006,2022,Immunology/Autoimmune,Phase 1,Recruiting,Drug,Amgen,9,22,False,True,True
+NCT2013000007,2015,Neurology,Phase 1,Terminated,Behavioral,Boehringer Ingelheim,55,37,False,True,True
+NCT2013000008,2019,Mental Health,Phase 1,Completed,Drug,GSK,34,14,False,True,False
+NCT2013000009,2023,Immunology/Autoimmune,Phase 1,Recruiting,Drug,GSK,36,25,False,True,True
+NCT2013000010,2023,Diabetes/Metabolic,Phase 2,Withdrawn,Drug,Gilead,46,27,False,False,True
+NCT2013000011,2020,Infectious Disease,Phase 3,Terminated,Biological,Pfizer,393,54,False,False,False
+NCT2013000012,2017,Diabetes/Metabolic,Phase 1,Completed,Biological,Biotech Startup,17,45,True,False,True
+NCT2013000013,2016,Diabetes/Metabolic,Phase 4,Unknown,Drug,Bristol-Myers Squibb,208,41,False,False,False
+NCT2013000014,2020,Oncology,Phase 3,Recruiting,Drug,Bristol-Myers Squibb,1132,17,False,False,False
+NCT2013000015,2020,Cardiovascular,Phase 2,Completed,Drug,Amgen,30,17,False,False,False
+NCT2013000016,2015,Neurology,Phase 2,Completed,Drug,Eli Lilly,93,35,False,False,False
+NCT2013000017,2018,Diabetes/Metabolic,Phase 2,Withdrawn,Drug,AstraZeneca,144,26,True,False,False
+NCT2013000018,2017,Oncology,Phase 1,Recruiting,Drug,Merck,29,26,False,False,False
+NCT2013000019,2014,Oncology,Phase 2,Recruiting,Drug,AstraZeneca,259,29,False,True,False
+NCT2013000020,2020,Oncology,Phase 3,Withdrawn,Drug,NIH,458,12,False,True,False
+NCT2013000021,2024,Rare Disease,N/A,Completed,Drug,Amgen,495,24,False,False,False
+NCT2013000022,2018,Oncology,Phase 2,Terminated,Drug,Gilead,151,14,False,False,False
+NCT2013000023,2014,Immunology/Autoimmune,Phase 2,Completed,Drug,Pfizer,129,13,False,False,False
+NCT2013000024,2024,Neurology,Phase 1,Withdrawn,Drug,Gilead,79,8,False,False,False
+NCT2013000025,2017,Infectious Disease,Phase 3,Completed,Drug,Novartis,513,15,False,True,True
+NCT2013000026,2013,Neurology,Phase 1,Completed,Behavioral,Johnson & Johnson,23,18,False,False,False
+NCT2013000027,2024,Diabetes/Metabolic,Phase 2,Withdrawn,Biological,Boehringer Ingelheim,39,10,False,False,True
+NCT2013000028,2022,Neurology,Phase 2,Completed,Drug,University Hospital,44,27,False,False,False
+NCT2013000029,2018,Oncology,Phase 4,Withdrawn,Procedure,Bayer,87,9,False,False,False
+NCT2013000030,2024,Immunology/Autoimmune,Phase 1,Terminated,Device,Pfizer,24,24,False,True,True
+NCT2013000031,2021,Cardiovascular,Phase 1,Recruiting,Drug,Amgen,34,28,False,False,False
+NCT2013000032,2013,Mental Health,N/A,Completed,Behavioral,Eli Lilly,101,25,False,False,False
+NCT2013000033,2023,Cardiovascular,Phase 3,Completed,Biological,Bristol-Myers Squibb,268,17,False,False,False
+NCT2013000034,2023,Respiratory,Phase 1,Completed,Drug,Eli Lilly,145,17,True,False,True
+NCT2013000035,2022,Neurology,Phase 1,Completed,Drug,Sanofi,44,20,True,False,True
+NCT2013000036,2024,Oncology,Phase 2,Terminated,Drug,Novartis,45,24,False,True,False
+NCT2013000037,2024,Oncology,N/A,Completed,Drug,Gilead,84,16,True,False,False
+NCT2013000038,2015,Infectious Disease,Phase 3,Recruiting,Drug,Roche,118,31,False,False,True
+NCT2013000039,2024,Diabetes/Metabolic,Phase 2,Terminated,Drug,Sanofi,209,17,False,True,True
+NCT2013000040,2019,Oncology,Phase 3,Completed,Drug,Biotech Startup,440,11,False,False,False
+NCT2013000041,2016,Immunology/Autoimmune,Phase 1,Completed,Drug,AstraZeneca,10,56,False,False,False
+NCT2013000042,2021,Respiratory,Phase 2,Unknown,Other,NIH,48,6,False,False,False
+NCT2013000043,2015,Infectious Disease,Phase 1,"Active, not recruiting",Procedure,Amgen,31,31,False,True,False
+NCT2013000044,2017,Diabetes/Metabolic,Phase 1,Completed,Drug,AbbVie,34,47,True,True,True
+NCT2013000045,2015,Cardiovascular,N/A,Completed,Device,Gilead,66,38,False,True,True
+NCT2013000046,2019,Oncology,Phase 3,Completed,Other,Merck,215,31,False,False,True
+NCT2013000047,2017,Respiratory,Phase 1,"Active, not recruiting",Biological,Pfizer,39,12,False,False,True
+NCT2013000048,2021,Respiratory,N/A,Terminated,Biological,Roche,636,49,False,False,True
+NCT2013000049,2019,Infectious Disease,Phase 2,Unknown,Drug,Roche,26,7,False,False,False
+NCT2013000050,2014,Immunology/Autoimmune,Phase 2,Unknown,Drug,University Hospital,111,22,False,False,False
+NCT2013000051,2016,Infectious Disease,Phase 3,Withdrawn,Procedure,Pfizer,175,25,False,True,False
+NCT2013000052,2021,Immunology/Autoimmune,Phase 3,"Active, not recruiting",Biological,Boehringer Ingelheim,413,9,False,True,False
+NCT2013000053,2024,Respiratory,Phase 3,Completed,Drug,Pfizer,524,31,False,False,False
+NCT2013000054,2014,Oncology,Phase 1,Recruiting,Device,Amgen,71,16,False,False,False
+NCT2013000055,2022,Oncology,Phase 2,Completed,Behavioral,Biotech Startup,32,11,False,False,False
+NCT2013000056,2021,Cardiovascular,Phase 4,"Active, not recruiting",Drug,Amgen,27,41,False,False,True
+NCT2013000057,2022,Oncology,Phase 2,Recruiting,Biological,Boehringer Ingelheim,424,17,False,False,False
+NCT2013000058,2017,Oncology,Phase 1,Completed,Drug,NIH,32,38,False,False,False
+NCT2013000059,2014,Neurology,Phase 2,Completed,Drug,Boehringer Ingelheim,66,12,False,False,False
+NCT2013000060,2016,Respiratory,Phase 3,Completed,Drug,Academic Medical Center,1789,11,False,False,False
+NCT2013000061,2024,Oncology,Phase 1,Completed,Behavioral,Merck,14,11,False,True,False
+NCT2013000062,2024,Immunology/Autoimmune,Phase 1,Completed,Behavioral,GSK,61,18,False,True,True
+NCT2013000063,2019,Diabetes/Metabolic,Phase 3,Terminated,Drug,Amgen,40,18,False,False,False
+NCT2013000064,2024,Oncology,N/A,Unknown,Drug,Merck,55,12,False,False,False
+NCT2013000065,2020,Oncology,Phase 1,Unknown,Drug,Bayer,24,19,False,True,False
+NCT2013000066,2015,Infectious Disease,Phase 1,Unknown,Drug,Sanofi,38,20,False,False,False
+NCT2013000067,2013,Infectious Disease,Phase 1,Recruiting,Other,Amgen,17,26,False,True,True
+NCT2013000068,2016,Infectious Disease,Phase 1,Recruiting,Drug,Regional Hospital,48,16,False,True,False
+NCT2013000069,2014,Neurology,Phase 2,Completed,Other,Academic Medical Center,84,13,False,False,True
+NCT2013000070,2020,Neurology,Phase 3,Terminated,Drug,Novartis,228,20,False,True,True
+NCT2013000071,2016,Neurology,Phase 1,Completed,Behavioral,Regional Hospital,66,13,False,True,False
+NCT2013000072,2014,Rare Disease,N/A,Recruiting,Drug,Roche,139,13,False,False,True
+NCT2013000073,2018,Respiratory,Phase 3,Recruiting,Biological,NIH,93,22,False,False,False
+NCT2013000074,2018,Cardiovascular,Phase 1,Terminated,Procedure,Merck,59,27,False,True,True
+NCT2013000075,2022,Oncology,Phase 1,Recruiting,Biological,Novartis,39,29,False,False,False
+NCT2013000076,2016,Diabetes/Metabolic,N/A,"Active, not recruiting",Drug,Regional Hospital,193,19,False,True,True
+NCT2013000077,2018,Rare Disease,Phase 2,Completed,Device,AstraZeneca,315,22,False,False,False
+NCT2013000078,2014,Immunology/Autoimmune,Phase 3,Recruiting,Drug,GSK,316,7,False,True,True
+NCT2013000079,2022,Cardiovascular,Phase 3,Recruiting,Device,Gilead,256,16,False,False,False
+NCT2013000080,2024,Oncology,Phase 2,"Active, not recruiting",Drug,Gilead,92,21,True,True,False
+NCT2013000081,2014,Infectious Disease,Phase 1,"Active, not recruiting",Drug,Bristol-Myers Squibb,24,29,False,True,True
+NCT2013000082,2022,Diabetes/Metabolic,Phase 3,Completed,Procedure,Gilead,719,28,False,True,False
+NCT2013000083,2016,Cardiovascular,Phase 2,Withdrawn,Drug,Sanofi,99,34,True,False,False
+NCT2013000084,2020,Rare Disease,Phase 2,Terminated,Behavioral,Pfizer,66,29,False,False,True
+NCT2013000085,2019,Oncology,Phase 3,"Active, not recruiting",Biological,Novartis,683,16,False,True,False
+NCT2013000086,2024,Cardiovascular,Phase 2,"Active, not recruiting",Drug,Biotech Startup,29,29,False,False,False
+NCT2013000087,2021,Oncology,Phase 4,Recruiting,Other,Regional Hospital,309,14,False,True,False
+NCT2013000088,2020,Immunology/Autoimmune,Phase 2,Unknown,Biological,Bayer,108,27,False,True,False
+NCT2013000089,2017,Neurology,Phase 3,"Active, not recruiting",Biological,Boehringer Ingelheim,819,22,False,True,False
+NCT2013000090,2014,Diabetes/Metabolic,Phase 1,Withdrawn,Biological,AbbVie,28,6,False,False,True
+NCT2013000091,2017,Oncology,Phase 1,Completed,Drug,Biotech Startup,25,6,False,False,True
+NCT2013000092,2020,Neurology,Phase 2,Completed,Drug,Johnson & Johnson,48,14,True,True,True
+NCT2013000093,2022,Cardiovascular,Phase 3,Unknown,Drug,Novartis,592,78,False,True,True
+NCT2013000094,2021,Diabetes/Metabolic,Phase 2,Withdrawn,Drug,Merck,88,34,False,False,True
+NCT2013000095,2024,Cardiovascular,Phase 4,Terminated,Other,Academic Medical Center,321,43,True,False,True
+NCT2013000096,2024,Diabetes/Metabolic,Phase 1,Completed,Drug,GSK,36,14,False,True,True
+NCT2013000097,2024,Diabetes/Metabolic,Phase 3,"Active, not recruiting",Drug,Boehringer Ingelheim,607,18,True,False,False
+NCT2013000098,2021,Oncology,Phase 2,Unknown,Drug,Bayer,117,27,False,True,False
+NCT2013000099,2013,Oncology,Phase 2,Completed,Biological,Bristol-Myers Squibb,586,15,False,False,False
+NCT2013000100,2021,Oncology,Phase 3,Completed,Device,Sanofi,1758,13,False,False,False
+NCT2013000101,2019,Infectious Disease,Phase 4,Completed,Biological,AbbVie,24,14,False,False,True
+NCT2013000102,2021,Oncology,Phase 2,"Active, not recruiting",Biological,Bristol-Myers Squibb,45,16,True,False,True
+NCT2013000103,2020,Oncology,Phase 3,Withdrawn,Drug,Gilead,109,37,False,False,True
+NCT2013000104,2013,Oncology,Phase 2,Completed,Drug,AstraZeneca,83,24,False,False,False
+NCT2013000105,2024,Rare Disease,Phase 2,"Active, not recruiting",Behavioral,Biotech Startup,84,22,False,False,True
+NCT2013000106,2020,Oncology,Phase 2,Recruiting,Biological,University Hospital,130,7,False,False,True
+NCT2013000107,2020,Mental Health,Phase 1,Recruiting,Drug,Boehringer Ingelheim,15,13,False,False,False
+NCT2013000108,2023,Infectious Disease,Phase 2,"Active, not recruiting",Drug,Eli Lilly,110,31,True,False,False
+NCT2013000109,2015,Immunology/Autoimmune,Phase 1,Completed,Device,Roche,38,48,False,True,False
+NCT2013000110,2013,Other,N/A,Recruiting,Behavioral,Boehringer Ingelheim,131,11,False,True,True
+NCT2013000111,2020,Neurology,Phase 3,Recruiting,Behavioral,Biotech Startup,489,5,False,False,False
+NCT2013000112,2015,Rare Disease,Phase 2,Completed,Procedure,Sanofi,203,18,False,False,False
+NCT2013000113,2015,Diabetes/Metabolic,Phase 1,"Active, not recruiting",Drug,Merck,107,17,False,False,True
+NCT2013000114,2013,Oncology,Phase 1,"Active, not recruiting",Behavioral,AbbVie,24,30,False,False,False
+NCT2013000115,2023,Infectious Disease,Phase 3,Completed,Drug,Novartis,643,25,False,False,True
+NCT2013000116,2017,Mental Health,Phase 2,Completed,Other,Bayer,97,18,False,True,False
+NCT2013000117,2022,Oncology,Phase 3,Recruiting,Drug,Johnson & Johnson,349,20,False,False,False
+NCT2013000118,2019,Neurology,Phase 2,Completed,Biological,Biotech Startup,74,27,False,False,False
+NCT2013000119,2022,Neurology,Phase 1,Recruiting,Biological,Novartis,33,33,False,True,False
+NCT2013000120,2021,Neurology,Phase 3,Completed,Device,Merck,487,39,False,True,True
+NCT2013000121,2024,Oncology,Phase 2,"Active, not recruiting",Drug,Academic Medical Center,58,20,True,True,False
+NCT2013000122,2019,Oncology,Phase 2,Terminated,Drug,NIH,74,13,False,False,False
+NCT2013000123,2021,Cardiovascular,Phase 2,"Active, not recruiting",Device,Pfizer,85,54,False,False,False
+NCT2013000124,2020,Oncology,N/A,Terminated,Biological,Pfizer,51,34,False,False,False
+NCT2013000125,2024,Cardiovascular,Phase 2,Completed,Drug,University Hospital,32,18,False,False,False
+NCT2013000126,2014,Rare Disease,Phase 1,Completed,Biological,Amgen,26,57,False,True,False
+NCT2013000127,2013,Cardiovascular,Phase 3,"Active, not recruiting",Drug,Biotech Startup,953,10,False,False,True
+NCT2013000128,2019,Immunology/Autoimmune,Phase 1,Completed,Drug,Bristol-Myers Squibb,11,21,True,True,True
+NCT2013000129,2019,Infectious Disease,Phase 2,Completed,Drug,Biotech Startup,155,6,False,False,True
+NCT2013000130,2020,Other,Phase 3,Completed,Drug,University Hospital,444,43,False,True,True
+NCT2013000131,2017,Neurology,Phase 1,Completed,Drug,Pfizer,59,13,False,False,False
+NCT2013000132,2015,Neurology,Phase 3,Recruiting,Drug,Novartis,689,28,False,True,False
+NCT2013000133,2024,Mental Health,Phase 3,Unknown,Device,Biotech Startup,231,19,False,False,True
+NCT2013000134,2020,Oncology,Phase 2,"Active, not recruiting",Device,Boehringer Ingelheim,56,14,False,False,False
+NCT2013000135,2018,Cardiovascular,Phase 2,Unknown,Drug,GSK,39,30,False,False,True
+NCT2013000136,2023,Mental Health,Phase 1,Recruiting,Drug,Bayer,17,18,False,True,True
+NCT2013000137,2015,Neurology,Phase 3,Completed,Drug,Sanofi,2321,7,False,True,False
+NCT2013000138,2013,Oncology,N/A,Withdrawn,Drug,Biotech Startup,232,24,False,False,False
+NCT2013000139,2015,Infectious Disease,Phase 2,Completed,Biological,Biotech Startup,66,8,False,False,False
+NCT2013000140,2017,Other,N/A,Terminated,Drug,GSK,152,26,False,True,False
+NCT2013000141,2015,Respiratory,Phase 3,Recruiting,Drug,Pfizer,485,11,False,False,True
+NCT2013000142,2013,Immunology/Autoimmune,Phase 3,"Active, not recruiting",Drug,Sanofi,231,11,False,False,False
+NCT2013000143,2017,Rare Disease,Phase 1,Withdrawn,Drug,University Hospital,21,9,False,False,False
+NCT2013000144,2022,Cardiovascular,Phase 4,Terminated,Drug,Boehringer Ingelheim,164,26,False,False,True
+NCT2013000145,2019,Oncology,Phase 1,Completed,Drug,Regional Hospital,13,20,False,False,False
+NCT2013000146,2019,Respiratory,Phase 2,Completed,Drug,Biotech Startup,132,74,False,False,True
+NCT2013000147,2023,Oncology,Phase 3,Recruiting,Drug,Bristol-Myers Squibb,302,3,False,True,True
+NCT2013000148,2021,Cardiovascular,Phase 1,Terminated,Behavioral,Bristol-Myers Squibb,33,28,False,False,False
+NCT2013000149,2022,Cardiovascular,Phase 1,Recruiting,Drug,Roche,35,33,False,True,True
+NCT2013000150,2022,Cardiovascular,Phase 2,Completed,Drug,AbbVie,53,12,False,True,False
+NCT2013000151,2024,Cardiovascular,Phase 3,Completed,Device,Academic Medical Center,329,35,True,False,False
+NCT2013000152,2015,Diabetes/Metabolic,Phase 3,Completed,Biological,AbbVie,1296,8,False,False,False
+NCT2013000153,2019,Diabetes/Metabolic,N/A,Terminated,Drug,Bayer,30,29,False,False,False
+NCT2013000154,2013,Neurology,Phase 3,Unknown,Biological,AbbVie,958,33,False,True,False
+NCT2013000155,2016,Other,Phase 1,Terminated,Device,AbbVie,15,10,False,False,False
+NCT2013000156,2016,Diabetes/Metabolic,Phase 2,Recruiting,Drug,Academic Medical Center,123,15,True,False,False
+NCT2013000157,2017,Immunology/Autoimmune,Phase 2,Recruiting,Other,Novartis,154,12,False,False,False
+NCT2013000158,2019,Cardiovascular,Phase 1,Completed,Behavioral,AstraZeneca,38,40,False,True,False
+NCT2013000159,2019,Infectious Disease,Phase 3,Recruiting,Behavioral,Biotech Startup,239,29,True,False,True
+NCT2013000160,2023,Cardiovascular,Phase 2,"Active, not recruiting",Drug,AbbVie,44,11,False,True,False
+NCT2013000161,2016,Cardiovascular,Phase 2,Completed,Drug,Biotech Startup,320,14,False,False,False
+NCT2013000162,2019,Oncology,Phase 1,Completed,Drug,Sanofi,82,15,False,True,False
+NCT2013000163,2023,Diabetes/Metabolic,Phase 1,Recruiting,Drug,Eli Lilly,82,14,False,True,False
+NCT2013000164,2015,Mental Health,Phase 1,"Active, not recruiting",Drug,Novartis,58,10,False,True,True
+NCT2013000165,2018,Oncology,Phase 2,Completed,Other,Merck,256,37,False,False,False
+NCT2013000166,2024,Immunology/Autoimmune,Phase 2,Unknown,Drug,AstraZeneca,142,9,False,False,False
+NCT2013000167,2014,Diabetes/Metabolic,Phase 1,Recruiting,Drug,Boehringer Ingelheim,89,28,False,False,False
+NCT2013000168,2022,Diabetes/Metabolic,Phase 2,Withdrawn,Drug,Pfizer,68,24,False,True,False
+NCT2013000169,2021,Neurology,Phase 4,"Active, not recruiting",Drug,Boehringer Ingelheim,29,16,False,False,True
+NCT2013000170,2017,Oncology,Phase 3,Completed,Drug,Merck,537,26,False,True,False
+NCT2013000171,2018,Oncology,Phase 3,Withdrawn,Behavioral,NIH,1468,33,False,False,False
+NCT2013000172,2024,Diabetes/Metabolic,Phase 1,Recruiting,Drug,Eli Lilly,77,28,False,False,False
+NCT2013000173,2024,Diabetes/Metabolic,Phase 1,Terminated,Drug,Amgen,53,17,False,False,False
+NCT2013000174,2024,Oncology,Phase 2,Terminated,Drug,Sanofi,131,22,True,True,False
+NCT2013000175,2024,Oncology,Phase 1,Terminated,Drug,Gilead,53,19,False,True,True
+NCT2013000176,2016,Rare Disease,Phase 1,Terminated,Biological,Roche,45,11,False,True,True
+NCT2013000177,2023,Cardiovascular,Phase 2,Terminated,Device,Bristol-Myers Squibb,20,26,False,False,True
+NCT2013000178,2022,Rare Disease,Phase 2,Completed,Drug,Boehringer Ingelheim,147,20,False,True,False
+NCT2013000179,2019,Respiratory,Phase 3,Recruiting,Biological,AstraZeneca,463,21,False,True,False
+NCT2013000180,2024,Oncology,Phase 1,Completed,Drug,AstraZeneca,35,48,False,True,True
+NCT2013000181,2021,Infectious Disease,Phase 1,Completed,Drug,Eli Lilly,35,9,False,True,False
+NCT2013000182,2019,Neurology,Phase 2,Recruiting,Biological,AbbVie,20,40,False,False,True
+NCT2013000183,2013,Oncology,Phase 4,"Active, not recruiting",Drug,Bristol-Myers Squibb,256,60,False,False,True
+NCT2013000184,2013,Neurology,Phase 2,Recruiting,Drug,NIH,82,21,False,False,False
+NCT2013000185,2021,Oncology,Phase 2,"Active, not recruiting",Biological,Academic Medical Center,41,30,False,False,False
+NCT2013000186,2023,Oncology,Phase 2,Terminated,Procedure,GSK,76,41,True,False,False
+NCT2013000187,2021,Infectious Disease,Phase 4,Withdrawn,Drug,Amgen,112,32,True,False,False
+NCT2013000188,2016,Cardiovascular,Phase 2,Completed,Drug,Eli Lilly,42,14,False,False,False
+NCT2013000189,2021,Oncology,Phase 3,Terminated,Device,Bayer,341,57,True,False,False
+NCT2013000190,2015,Neurology,Phase 3,Completed,Biological,Amgen,735,27,False,True,True
+NCT2013000191,2019,Respiratory,Phase 4,Recruiting,Biological,Biotech Startup,211,22,False,False,True
+NCT2013000192,2018,Oncology,Phase 2,Completed,Drug,Johnson & Johnson,45,32,False,False,False
+NCT2013000193,2020,Cardiovascular,Phase 1,Terminated,Biological,NIH,37,15,False,False,True
+NCT2013000194,2023,Oncology,N/A,Completed,Biological,Johnson & Johnson,35,34,False,True,False
+NCT2013000195,2021,Oncology,Phase 3,Completed,Biological,Eli Lilly,713,29,False,True,True
+NCT2013000196,2017,Infectious Disease,Phase 1,Completed,Biological,Bristol-Myers Squibb,27,25,False,False,True
+NCT2013000197,2013,Infectious Disease,Phase 4,Completed,Drug,Biotech Startup,92,27,False,False,False
+NCT2013000198,2015,Oncology,Phase 4,Completed,Drug,NIH,134,15,False,True,False
+NCT2013000199,2022,Oncology,Phase 1,Terminated,Biological,Boehringer Ingelheim,73,27,False,False,False
+NCT2013000200,2024,Cardiovascular,Phase 2,Completed,Biological,Biotech Startup,310,15,False,True,False
+NCT2013000201,2020,Diabetes/Metabolic,Phase 1,Recruiting,Drug,GSK,64,26,False,False,True
+NCT2013000202,2023,Diabetes/Metabolic,N/A,"Active, not recruiting",Biological,Merck,148,10,True,False,False
+NCT2013000203,2018,Diabetes/Metabolic,Phase 1,Terminated,Drug,Pfizer,26,49,False,False,False
+NCT2013000204,2020,Cardiovascular,Phase 3,Completed,Biological,Merck,184,92,False,False,False
+NCT2013000205,2021,Infectious Disease,Phase 2,Unknown,Procedure,Gilead,51,18,False,False,False
+NCT2013000206,2016,Respiratory,Phase 1,Withdrawn,Drug,Biotech Startup,19,33,False,False,False
+NCT2013000207,2013,Oncology,Phase 3,Withdrawn,Behavioral,Regional Hospital,348,15,False,True,True
+NCT2013000208,2013,Neurology,Phase 1,Completed,Drug,AstraZeneca,22,14,False,False,False
+NCT2013000209,2022,Respiratory,N/A,Completed,Drug,Johnson & Johnson,27,15,True,True,True
+NCT2013000210,2016,Cardiovascular,Phase 3,Terminated,Drug,Novartis,297,23,False,True,False
+NCT2013000211,2024,Neurology,Phase 3,Completed,Biological,Merck,487,11,False,True,False
+NCT2013000212,2019,Diabetes/Metabolic,Phase 2,Recruiting,Biological,University Hospital,39,6,False,True,False
+NCT2013000213,2014,Neurology,Phase 3,"Active, not recruiting",Drug,GSK,156,15,False,False,False
+NCT2013000214,2015,Respiratory,Phase 2,Completed,Drug,Biotech Startup,62,7,False,False,False
+NCT2013000215,2013,Infectious Disease,Phase 2,Completed,Biological,Roche,37,27,False,True,True
+NCT2013000216,2017,Cardiovascular,Phase 1,Unknown,Other,Boehringer Ingelheim,43,16,False,False,False
+NCT2013000217,2013,Immunology/Autoimmune,Phase 2,Terminated,Drug,Gilead,97,13,False,True,False
+NCT2013000218,2020,Infectious Disease,Phase 1,Terminated,Drug,GSK,39,24,False,True,False
+NCT2013000219,2013,Rare Disease,Phase 4,Recruiting,Drug,University Hospital,76,13,False,False,False
+NCT2013000220,2023,Oncology,Phase 2,Completed,Drug,Bristol-Myers Squibb,204,16,False,False,False
+NCT2013000221,2013,Oncology,Phase 2,Recruiting,Drug,Academic Medical Center,57,20,False,True,False
+NCT2013000222,2014,Cardiovascular,Phase 1,Completed,Drug,NIH,38,12,False,False,True
+NCT2013000223,2014,Infectious Disease,Phase 3,Unknown,Drug,Novartis,737,11,True,False,False
+NCT2013000224,2024,Oncology,Phase 3,Withdrawn,Biological,Biotech Startup,229,10,False,False,False
+NCT2013000225,2018,Oncology,Phase 2,Completed,Other,Pfizer,113,26,False,False,False
+NCT2013000226,2019,Oncology,N/A,Recruiting,Drug,Bristol-Myers Squibb,49,10,False,False,True
+NCT2013000227,2017,Mental Health,Phase 2,Recruiting,Drug,Johnson & Johnson,41,23,False,False,False
+NCT2013000228,2013,Immunology/Autoimmune,Phase 3,Terminated,Drug,Pfizer,806,21,False,False,True
+NCT2013000229,2013,Diabetes/Metabolic,Phase 2,Completed,Drug,AstraZeneca,74,27,False,False,False
+NCT2013000230,2015,Cardiovascular,Phase 1,Recruiting,Drug,Boehringer Ingelheim,38,47,False,True,True
+NCT2013000231,2014,Diabetes/Metabolic,Phase 2,"Active, not recruiting",Procedure,Academic Medical Center,74,28,False,False,False
+NCT2013000232,2017,Oncology,Phase 2,Recruiting,Drug,Roche,124,25,False,True,True
+NCT2013000233,2024,Oncology,Phase 2,Completed,Biological,Merck,121,56,False,False,False
+NCT2013000234,2022,Cardiovascular,Phase 1,Completed,Drug,Gilead,31,25,False,True,False
+NCT2013000235,2018,Immunology/Autoimmune,Phase 1,Terminated,Drug,Eli Lilly,10,33,False,False,True
+NCT2013000236,2019,Neurology,Phase 1,Terminated,Drug,Eli Lilly,31,13,False,False,True
+NCT2013000237,2016,Oncology,Phase 2,Unknown,Biological,Bayer,120,18,True,False,True
+NCT2013000238,2019,Infectious Disease,Phase 1,"Active, not recruiting",Drug,Sanofi,36,20,False,False,False
+NCT2013000239,2023,Infectious Disease,Phase 3,Recruiting,Behavioral,NIH,339,14,False,False,True
+NCT2013000240,2020,Diabetes/Metabolic,Phase 1,"Active, not recruiting",Drug,Eli Lilly,17,8,False,True,False
+NCT2013000241,2023,Rare Disease,Phase 1,Recruiting,Drug,Bayer,16,17,False,False,True
+NCT2013000242,2013,Cardiovascular,Phase 4,Terminated,Biological,Gilead,584,41,False,False,False
+NCT2013000243,2018,Immunology/Autoimmune,Phase 1,Recruiting,Drug,Biotech Startup,36,37,False,False,False
+NCT2013000244,2020,Cardiovascular,Phase 2,Completed,Drug,Pfizer,144,8,False,False,True
+NCT2013000245,2017,Respiratory,Phase 3,Unknown,Drug,University Hospital,1148,11,False,False,True
+NCT2013000246,2016,Oncology,Phase 2,Unknown,Drug,Amgen,220,34,False,True,False
+NCT2013000247,2014,Cardiovascular,Phase 2,Terminated,Procedure,Novartis,71,16,False,True,True
+NCT2013000248,2018,Oncology,Phase 3,Completed,Behavioral,Biotech Startup,163,23,False,True,False
+NCT2013000249,2018,Oncology,Phase 4,Recruiting,Drug,Pfizer,81,19,False,True,False
+NCT2013000250,2023,Cardiovascular,Phase 2,Withdrawn,Biological,Merck,96,15,False,True,False
+NCT2013000251,2013,Neurology,Phase 2,Terminated,Behavioral,Johnson & Johnson,57,20,False,False,False
+NCT2013000252,2021,Rare Disease,Phase 1,Completed,Drug,University Hospital,10,14,True,False,False
+NCT2013000253,2024,Oncology,Phase 2,Recruiting,Behavioral,University Hospital,144,6,True,True,True
+NCT2013000254,2023,Oncology,Phase 2,Completed,Drug,Gilead,295,13,False,False,True
+NCT2013000255,2018,Oncology,Phase 4,Recruiting,Drug,Gilead,108,27,False,False,False
+NCT2013000256,2015,Cardiovascular,Phase 2,"Active, not recruiting",Drug,Novartis,126,14,False,True,False
+NCT2013000257,2016,Infectious Disease,N/A,Terminated,Drug,GSK,271,35,False,False,False
+NCT2013000258,2024,Oncology,Phase 2,Unknown,Biological,Academic Medical Center,200,22,False,False,True
+NCT2013000259,2023,Oncology,Phase 3,Terminated,Drug,Roche,685,13,False,False,False
+NCT2013000260,2016,Infectious Disease,Phase 2,"Active, not recruiting",Biological,Sanofi,169,46,False,False,True
+NCT2013000261,2015,Respiratory,Phase 3,Completed,Drug,Roche,661,10,False,False,True
+NCT2013000262,2022,Rare Disease,Phase 3,Completed,Drug,Pfizer,320,6,True,True,True
+NCT2013000263,2015,Oncology,Phase 3,Completed,Biological,Biotech Startup,1280,6,False,False,False
+NCT2013000264,2015,Oncology,Phase 2,"Active, not recruiting",Drug,Biotech Startup,52,20,False,True,False
+NCT2013000265,2016,Rare Disease,Phase 2,Terminated,Biological,Gilead,340,22,False,True,True
+NCT2013000266,2019,Infectious Disease,Phase 1,Recruiting,Drug,AbbVie,48,11,False,False,False
+NCT2013000267,2016,Cardiovascular,Phase 2,"Active, not recruiting",Device,Roche,52,23,True,False,True
+NCT2013000268,2021,Immunology/Autoimmune,Phase 1,Withdrawn,Biological,Bayer,33,17,True,False,True
+NCT2013000269,2013,Oncology,Phase 2,Completed,Drug,AstraZeneca,34,14,False,False,False
+NCT2013000270,2020,Cardiovascular,Phase 4,Recruiting,Biological,Gilead,84,33,False,True,False
+NCT2013000271,2019,Diabetes/Metabolic,Phase 1,Terminated,Behavioral,GSK,93,28,False,False,True
+NCT2013000272,2014,Infectious Disease,Phase 1,Terminated,Drug,Roche,25,8,False,True,False
+NCT2013000273,2020,Oncology,Phase 2,Completed,Biological,Bayer,49,20,False,False,False
+NCT2013000274,2013,Oncology,Phase 1,Completed,Biological,Biotech Startup,108,19,False,False,False
+NCT2013000275,2023,Oncology,Phase 2,"Active, not recruiting",Biological,Eli Lilly,62,59,False,True,True
+NCT2013000276,2024,Cardiovascular,Phase 1,"Active, not recruiting",Drug,University Hospital,52,33,False,False,False
+NCT2013000277,2021,Mental Health,Phase 1,Completed,Drug,Bristol-Myers Squibb,37,12,False,True,False
+NCT2013000278,2021,Cardiovascular,N/A,Completed,Procedure,Sanofi,18,14,False,False,False
+NCT2013000279,2014,Mental Health,Phase 3,Completed,Drug,Amgen,463,25,False,False,True
+NCT2013000280,2019,Diabetes/Metabolic,Phase 1,Completed,Drug,Boehringer Ingelheim,16,16,False,False,False
+NCT2013000281,2022,Oncology,Phase 2,Recruiting,Procedure,Eli Lilly,102,40,False,True,True
+NCT2013000282,2015,Mental Health,Phase 2,Terminated,Biological,Academic Medical Center,53,21,False,False,False
+NCT2013000283,2019,Mental Health,Phase 3,Completed,Behavioral,Biotech Startup,229,31,False,False,True
+NCT2013000284,2024,Mental Health,Phase 2,"Active, not recruiting",Drug,NIH,568,26,False,True,False
+NCT2013000285,2022,Oncology,Phase 1,Recruiting,Biological,Eli Lilly,23,30,True,False,False
+NCT2013000286,2021,Oncology,Phase 2,Terminated,Behavioral,Boehringer Ingelheim,73,9,False,False,False
+NCT2013000287,2016,Infectious Disease,Phase 3,Recruiting,Other,Bayer,1088,26,False,True,False
+NCT2013000288,2024,Neurology,Phase 2,Completed,Biological,Novartis,239,26,False,True,True
+NCT2013000289,2013,Cardiovascular,Phase 1,Recruiting,Drug,Eli Lilly,23,18,False,True,False
+NCT2013000290,2014,Infectious Disease,Phase 1,Unknown,Biological,Biotech Startup,35,13,False,True,True
+NCT2013000291,2013,Oncology,Phase 1,Unknown,Behavioral,Merck,117,27,False,True,True
+NCT2013000292,2024,Cardiovascular,Phase 1,Withdrawn,Biological,Biotech Startup,12,21,True,False,False
+NCT2013000293,2017,Neurology,Phase 1,Recruiting,Drug,Bristol-Myers Squibb,16,48,False,True,False
+NCT2013000294,2017,Cardiovascular,Phase 2,Completed,Drug,AstraZeneca,47,35,False,False,False
+NCT2013000295,2023,Respiratory,Phase 2,Withdrawn,Drug,Regional Hospital,48,10,False,True,True
+NCT2013000296,2019,Diabetes/Metabolic,Phase 2,Recruiting,Biological,Academic Medical Center,59,34,False,False,True
+NCT2013000297,2021,Infectious Disease,Phase 3,Recruiting,Drug,Biotech Startup,330,11,True,False,True
+NCT2013000298,2021,Neurology,Phase 1,Recruiting,Drug,Boehringer Ingelheim,75,11,False,True,False
+NCT2013000299,2015,Respiratory,Phase 2,Completed,Drug,University Hospital,33,23,False,True,False
+NCT2013000300,2015,Infectious Disease,Phase 2,Recruiting,Drug,Merck,142,30,False,False,False
+NCT2013000301,2015,Cardiovascular,Phase 2,"Active, not recruiting",Drug,Boehringer Ingelheim,89,17,False,True,False
+NCT2013000302,2016,Cardiovascular,Phase 1,Recruiting,Procedure,AstraZeneca,55,57,True,False,False
+NCT2013000303,2020,Neurology,Phase 4,"Active, not recruiting",Procedure,Boehringer Ingelheim,519,24,False,True,True
+NCT2013000304,2018,Infectious Disease,Phase 1,Recruiting,Biological,Novartis,45,8,True,True,False
+NCT2013000305,2020,Immunology/Autoimmune,Phase 1,Completed,Biological,Gilead,21,9,False,False,True
+NCT2013000306,2013,Infectious Disease,Phase 1,"Active, not recruiting",Biological,Biotech Startup,31,33,False,False,True
+NCT2013000307,2020,Oncology,Phase 4,Completed,Behavioral,Bayer,112,25,False,True,False
+NCT2013000308,2016,Oncology,Phase 3,Withdrawn,Biological,Biotech Startup,211,8,False,False,False
+NCT2013000309,2023,Oncology,Phase 3,"Active, not recruiting",Device,Boehringer Ingelheim,373,24,False,False,True
+NCT2013000310,2013,Oncology,Phase 2,Recruiting,Drug,AstraZeneca,222,29,False,False,True
+NCT2013000311,2020,Oncology,Phase 3,Recruiting,Drug,Johnson & Johnson,120,11,False,False,False
+NCT2013000312,2016,Diabetes/Metabolic,Phase 2,Unknown,Biological,Bristol-Myers Squibb,60,24,False,False,False
+NCT2013000313,2018,Immunology/Autoimmune,Phase 1,Completed,Other,Bristol-Myers Squibb,59,14,False,False,False
+NCT2013000314,2020,Oncology,N/A,"Active, not recruiting",Device,Gilead,335,16,False,False,True
+NCT2013000315,2016,Immunology/Autoimmune,Phase 1,Recruiting,Drug,Academic Medical Center,29,49,False,True,False
+NCT2013000316,2015,Immunology/Autoimmune,Phase 2,Terminated,Device,Roche,49,63,False,False,False
+NCT2013000317,2021,Oncology,Phase 2,Recruiting,Procedure,Pfizer,115,27,False,False,False
+NCT2013000318,2015,Cardiovascular,Phase 1,Completed,Drug,Bayer,60,13,False,False,True
+NCT2013000319,2021,Rare Disease,Phase 2,Recruiting,Drug,Roche,13,32,False,True,True
+NCT2013000320,2014,Neurology,Phase 3,Terminated,Drug,Academic Medical Center,116,48,False,False,False
+NCT2013000321,2014,Cardiovascular,Phase 1,Recruiting,Other,Sanofi,34,45,False,True,True
+NCT2013000322,2014,Oncology,Phase 1,Unknown,Behavioral,AbbVie,14,16,False,True,True
+NCT2013000323,2018,Oncology,Phase 3,Recruiting,Drug,Eli Lilly,366,29,False,False,True
+NCT2013000324,2015,Respiratory,Phase 1,Completed,Drug,Gilead,31,16,False,False,False
+NCT2013000325,2021,Other,Phase 1,Recruiting,Other,University Hospital,29,42,False,False,False
+NCT2013000326,2016,Cardiovascular,Phase 4,Completed,Drug,Johnson & Johnson,198,15,False,True,False
+NCT2013000327,2013,Oncology,Phase 1,Completed,Drug,Boehringer Ingelheim,17,13,False,False,True
+NCT2013000328,2016,Cardiovascular,Phase 4,Completed,Other,Novartis,146,31,False,True,True
+NCT2013000329,2013,Infectious Disease,Phase 1,Completed,Drug,Biotech Startup,26,23,False,False,False
+NCT2013000330,2017,Immunology/Autoimmune,Phase 1,Completed,Drug,University Hospital,29,22,False,False,False
+NCT2013000331,2016,Cardiovascular,Phase 4,Completed,Drug,Bayer,78,12,False,False,True
+NCT2013000332,2020,Diabetes/Metabolic,Phase 2,"Active, not recruiting",Drug,Bayer,247,20,True,False,True
+NCT2013000333,2020,Oncology,Phase 1,Completed,Drug,Biotech Startup,30,24,False,False,True
+NCT2013000334,2019,Cardiovascular,N/A,"Active, not recruiting",Drug,Roche,552,15,False,False,False
+NCT2013000335,2015,Infectious Disease,Phase 2,Completed,Drug,Boehringer Ingelheim,37,11,False,False,True
+NCT2013000336,2013,Infectious Disease,Phase 1,"Active, not recruiting",Biological,Eli Lilly,20,12,False,True,False
+NCT2013000337,2013,Diabetes/Metabolic,Phase 3,Completed,Biological,Bristol-Myers Squibb,310,29,False,False,True
+NCT2013000338,2024,Rare Disease,Phase 2,Completed,Drug,Roche,61,17,False,False,True
+NCT2013000339,2023,Infectious Disease,N/A,Unknown,Biological,Bayer,287,13,False,True,False
+NCT2013000340,2015,Cardiovascular,Phase 2,Withdrawn,Device,Boehringer Ingelheim,227,14,False,True,True
+NCT2013000341,2018,Rare Disease,Phase 2,Recruiting,Drug,Biotech Startup,151,13,False,False,True
+NCT2013000342,2019,Immunology/Autoimmune,Phase 4,Completed,Drug,Academic Medical Center,674,24,False,False,False
+NCT2013000343,2018,Immunology/Autoimmune,Phase 2,Recruiting,Drug,Sanofi,155,27,False,False,False
+NCT2013000344,2018,Respiratory,Phase 2,Recruiting,Drug,Merck,40,25,False,False,True
+NCT2013000345,2018,Rare Disease,N/A,Recruiting,Device,Merck,61,5,False,True,True
+NCT2013000346,2015,Immunology/Autoimmune,Phase 1,Recruiting,Drug,AbbVie,52,11,False,False,False
+NCT2013000347,2018,Infectious Disease,N/A,Completed,Procedure,Roche,23,30,False,False,False
+NCT2013000348,2020,Cardiovascular,Phase 2,Terminated,Drug,University Hospital,203,19,False,True,False
+NCT2013000349,2023,Infectious Disease,Phase 1,Completed,Drug,Pfizer,39,50,False,False,False
+NCT2013000350,2023,Diabetes/Metabolic,Phase 3,Unknown,Biological,Merck,646,19,True,False,True
+NCT2013000351,2014,Infectious Disease,Phase 2,Completed,Drug,Amgen,512,37,False,False,False
+NCT2013000352,2017,Diabetes/Metabolic,Phase 3,"Active, not recruiting",Biological,GSK,145,24,False,True,False
+NCT2013000353,2013,Oncology,Phase 1,Recruiting,Biological,Sanofi,24,25,False,False,True
+NCT2013000354,2024,Cardiovascular,N/A,"Active, not recruiting",Drug,GSK,149,30,False,False,True
+NCT2013000355,2013,Oncology,Phase 2,Withdrawn,Drug,Amgen,83,47,False,False,False
+NCT2013000356,2017,Neurology,Phase 1,Terminated,Drug,Boehringer Ingelheim,21,14,False,True,True
+NCT2013000357,2024,Oncology,Phase 3,Recruiting,Drug,Sanofi,1034,18,False,False,True
+NCT2013000358,2015,Oncology,Phase 2,Terminated,Other,Biotech Startup,74,13,False,False,False
+NCT2013000359,2016,Neurology,Phase 2,Terminated,Drug,Bristol-Myers Squibb,54,58,False,True,False
+NCT2013000360,2015,Oncology,Phase 4,Completed,Behavioral,Boehringer Ingelheim,374,60,False,True,True
+NCT2013000361,2013,Oncology,N/A,"Active, not recruiting",Procedure,Boehringer Ingelheim,584,8,False,False,False
+NCT2013000362,2013,Rare Disease,Phase 2,"Active, not recruiting",Drug,Bristol-Myers Squibb,113,30,False,False,False
+NCT2013000363,2024,Respiratory,Phase 3,Recruiting,Drug,Amgen,194,15,True,True,False
+NCT2013000364,2024,Respiratory,Phase 1,Recruiting,Biological,Pfizer,27,16,True,False,False
+NCT2013000365,2017,Rare Disease,Phase 4,Recruiting,Behavioral,Roche,160,13,False,False,False
+NCT2013000366,2018,Oncology,Phase 3,Completed,Device,University Hospital,630,18,False,True,False
+NCT2013000367,2015,Cardiovascular,Phase 3,Completed,Other,Amgen,354,14,False,False,True
+NCT2013000368,2024,Oncology,Phase 3,Unknown,Drug,Bristol-Myers Squibb,938,18,False,False,False
+NCT2013000369,2021,Oncology,Phase 2,Completed,Drug,AstraZeneca,49,29,False,False,True
+NCT2013000370,2017,Cardiovascular,Phase 2,"Active, not recruiting",Drug,Bayer,292,33,True,False,False
+NCT2013000371,2020,Neurology,Phase 1,Recruiting,Procedure,AbbVie,36,19,False,False,False
+NCT2013000372,2013,Mental Health,Phase 2,"Active, not recruiting",Drug,Regional Hospital,17,15,False,True,False
+NCT2013000373,2017,Immunology/Autoimmune,Phase 2,Recruiting,Drug,Biotech Startup,75,23,False,True,False
+NCT2013000374,2015,Oncology,Phase 4,Completed,Device,GSK,57,14,False,True,True
+NCT2013000375,2024,Rare Disease,N/A,Recruiting,Device,Biotech Startup,39,19,True,True,False
+NCT2013000376,2013,Infectious Disease,Phase 2,Recruiting,Drug,NIH,84,11,True,False,False
+NCT2013000377,2016,Cardiovascular,Phase 2,Unknown,Procedure,Bristol-Myers Squibb,27,75,False,False,False
+NCT2013000378,2017,Mental Health,Phase 2,Completed,Biological,Merck,26,16,False,False,False
+NCT2013000379,2019,Oncology,Phase 1,Recruiting,Drug,Merck,20,21,False,True,True
+NCT2013000380,2013,Infectious Disease,N/A,Unknown,Drug,NIH,126,24,False,True,True
+NCT2013000381,2015,Oncology,N/A,Recruiting,Biological,AbbVie,107,20,False,True,False
+NCT2013000382,2014,Other,Phase 2,Terminated,Drug,Amgen,39,16,False,False,False
+NCT2013000383,2021,Oncology,Phase 2,Recruiting,Drug,Sanofi,221,14,False,False,False
+NCT2013000384,2022,Oncology,Phase 2,Completed,Drug,Merck,190,15,True,False,False
+NCT2013000385,2018,Immunology/Autoimmune,Phase 2,Completed,Biological,Regional Hospital,94,25,False,False,True
+NCT2013000386,2022,Immunology/Autoimmune,Phase 1,Completed,Other,Biotech Startup,8,12,False,True,False
+NCT2013000387,2015,Neurology,N/A,"Active, not recruiting",Drug,AbbVie,22,14,False,True,True
+NCT2013000388,2020,Cardiovascular,Phase 2,Completed,Drug,Biotech Startup,84,7,False,False,False
+NCT2013000389,2020,Diabetes/Metabolic,N/A,"Active, not recruiting",Drug,Gilead,323,11,True,False,False
+NCT2013000390,2014,Oncology,Phase 1,Completed,Other,Novartis,30,36,False,True,False
+NCT2013000391,2018,Oncology,Phase 2,Completed,Drug,AbbVie,68,14,False,False,True
+NCT2013000392,2019,Neurology,N/A,Terminated,Behavioral,Academic Medical Center,47,12,False,False,True
+NCT2013000393,2014,Diabetes/Metabolic,Phase 1,Terminated,Drug,NIH,11,12,False,False,False
+NCT2013000394,2023,Rare Disease,Phase 3,Completed,Device,Boehringer Ingelheim,960,44,False,False,True
+NCT2013000395,2022,Infectious Disease,Phase 2,Recruiting,Drug,Johnson & Johnson,101,32,False,True,True
+NCT2013000396,2014,Neurology,Phase 2,Completed,Procedure,Regional Hospital,40,13,False,True,False
+NCT2013000397,2022,Infectious Disease,Phase 3,Terminated,Biological,Amgen,290,23,False,False,True
+NCT2013000398,2013,Cardiovascular,Phase 3,Recruiting,Drug,Gilead,365,13,False,True,True
+NCT2013000399,2020,Neurology,Phase 1,Completed,Biological,Regional Hospital,34,34,False,False,True
+NCT2013000400,2013,Cardiovascular,Phase 1,Unknown,Biological,Academic Medical Center,25,14,False,True,False
+NCT2013000401,2021,Other,Phase 1,Completed,Drug,Biotech Startup,14,37,True,False,False
+NCT2013000402,2023,Oncology,Phase 3,"Active, not recruiting",Other,Biotech Startup,1169,38,False,True,True
+NCT2013000403,2018,Oncology,Phase 3,Recruiting,Drug,Biotech Startup,299,50,False,True,False
+NCT2013000404,2019,Neurology,Phase 1,Completed,Biological,Gilead,31,22,False,True,True
+NCT2013000405,2022,Infectious Disease,Phase 1,Terminated,Procedure,Sanofi,27,21,False,True,False
+NCT2013000406,2019,Immunology/Autoimmune,Phase 3,Unknown,Drug,Boehringer Ingelheim,277,9,False,True,False
+NCT2013000407,2022,Cardiovascular,Phase 3,Recruiting,Drug,University Hospital,340,36,False,True,True
+NCT2013000408,2015,Immunology/Autoimmune,Phase 1,Completed,Drug,Boehringer Ingelheim,35,14,False,True,True
+NCT2013000409,2014,Infectious Disease,Phase 2,"Active, not recruiting",Biological,Johnson & Johnson,151,40,False,True,True
+NCT2013000410,2021,Oncology,Phase 3,Terminated,Biological,Amgen,161,25,False,False,False
+NCT2013000411,2020,Cardiovascular,Phase 1,"Active, not recruiting",Drug,Biotech Startup,48,25,True,False,True
+NCT2013000412,2024,Neurology,Phase 3,Unknown,Drug,Roche,263,14,False,False,False
+NCT2013000413,2022,Oncology,Phase 1,"Active, not recruiting",Biological,University Hospital,15,28,False,False,True
+NCT2013000414,2019,Cardiovascular,N/A,Recruiting,Drug,Biotech Startup,52,11,False,False,True
+NCT2013000415,2021,Mental Health,Phase 3,"Active, not recruiting",Drug,AstraZeneca,387,25,False,True,True
+NCT2013000416,2016,Oncology,Phase 1,Completed,Biological,AstraZeneca,74,16,False,True,False
+NCT2013000417,2016,Neurology,Phase 3,"Active, not recruiting",Biological,Amgen,1184,10,False,True,False
+NCT2013000418,2013,Other,Phase 4,Completed,Biological,Gilead,501,22,False,False,False
+NCT2013000419,2020,Respiratory,Phase 1,Unknown,Drug,Amgen,29,21,False,False,True
+NCT2013000420,2024,Diabetes/Metabolic,Phase 3,Completed,Drug,Merck,448,18,False,False,False
+NCT2013000421,2015,Oncology,Phase 1,Terminated,Drug,Gilead,79,9,False,False,True
+NCT2013000422,2019,Immunology/Autoimmune,Phase 1,Withdrawn,Drug,Merck,28,24,False,False,False
+NCT2013000423,2024,Other,Phase 2,Withdrawn,Drug,Merck,68,23,True,True,False
+NCT2013000424,2014,Other,Phase 2,"Active, not recruiting",Drug,AstraZeneca,75,14,False,False,True
+NCT2013000425,2014,Neurology,Phase 1,Terminated,Drug,AbbVie,51,21,False,True,True
+NCT2013000426,2019,Neurology,Phase 3,Withdrawn,Drug,NIH,344,14,False,False,False
+NCT2013000427,2018,Infectious Disease,Phase 4,Recruiting,Drug,Novartis,837,9,True,False,True
+NCT2013000428,2015,Neurology,Phase 1,Completed,Other,Regional Hospital,19,35,False,False,False
+NCT2013000429,2021,Neurology,Phase 1,Completed,Drug,AbbVie,16,62,False,False,True
+NCT2013000430,2022,Oncology,Phase 3,"Active, not recruiting",Behavioral,Sanofi,136,24,False,False,False
+NCT2013000431,2018,Infectious Disease,Phase 2,Completed,Other,GSK,32,19,False,False,False
+NCT2013000432,2022,Infectious Disease,Phase 3,Recruiting,Drug,GSK,1634,16,False,False,True
+NCT2013000433,2022,Infectious Disease,N/A,Completed,Drug,Novartis,1360,26,False,False,False
+NCT2013000434,2018,Rare Disease,Phase 1,"Active, not recruiting",Drug,Bayer,27,11,True,False,False
+NCT2013000435,2013,Mental Health,Phase 2,Completed,Biological,Johnson & Johnson,47,22,False,False,False
+NCT2013000436,2016,Other,Phase 2,Recruiting,Device,Gilead,39,13,False,True,True
+NCT2013000437,2022,Oncology,Phase 2,"Active, not recruiting",Behavioral,Roche,36,10,False,False,False
+NCT2013000438,2018,Cardiovascular,Phase 1,Terminated,Behavioral,Sanofi,13,32,False,False,False
+NCT2013000439,2018,Oncology,Phase 2,Terminated,Behavioral,Merck,126,26,False,True,True
+NCT2013000440,2023,Oncology,Phase 2,Withdrawn,Drug,Roche,334,32,True,False,False
+NCT2013000441,2024,Neurology,Phase 3,Completed,Biological,Bayer,79,57,False,False,True
+NCT2013000442,2017,Infectious Disease,Phase 3,Completed,Other,Bayer,449,18,True,False,True
+NCT2013000443,2013,Respiratory,Phase 3,Completed,Biological,Bayer,33,21,False,False,False
+NCT2013000444,2020,Oncology,Phase 4,"Active, not recruiting",Drug,Amgen,266,16,False,False,True
+NCT2013000445,2017,Rare Disease,Phase 3,Completed,Behavioral,Boehringer Ingelheim,753,12,False,False,True
+NCT2013000446,2024,Neurology,Phase 3,Terminated,Procedure,Bayer,291,22,False,False,True
+NCT2013000447,2024,Neurology,Phase 3,Terminated,Behavioral,Sanofi,29,13,False,False,False
+NCT2013000448,2024,Cardiovascular,Phase 1,Completed,Drug,Biotech Startup,31,41,False,True,False
+NCT2013000449,2017,Infectious Disease,Phase 2,Recruiting,Drug,Sanofi,86,18,False,False,True
+NCT2013000450,2019,Oncology,Phase 1,"Active, not recruiting",Drug,Sanofi,85,17,False,True,False
+NCT2013000451,2016,Rare Disease,Phase 1,Completed,Device,Bristol-Myers Squibb,26,24,False,True,True
+NCT2013000452,2018,Infectious Disease,Phase 2,Completed,Device,Gilead,144,18,False,True,False
+NCT2013000453,2016,Cardiovascular,Phase 1,Completed,Drug,Eli Lilly,34,42,False,False,True
+NCT2013000454,2015,Mental Health,Phase 1,"Active, not recruiting",Behavioral,GSK,29,12,False,True,False
+NCT2013000455,2019,Neurology,Phase 3,"Active, not recruiting",Other,Boehringer Ingelheim,418,10,False,True,True
+NCT2013000456,2020,Immunology/Autoimmune,Phase 1,Completed,Drug,Johnson & Johnson,22,24,False,True,False
+NCT2013000457,2016,Immunology/Autoimmune,Phase 2,Recruiting,Biological,Boehringer Ingelheim,61,21,False,True,True
+NCT2013000458,2014,Other,Phase 2,Completed,Behavioral,NIH,72,17,False,True,True
+NCT2013000459,2024,Mental Health,Phase 3,"Active, not recruiting",Drug,Johnson & Johnson,1058,27,False,True,True
+NCT2013000460,2022,Diabetes/Metabolic,Phase 3,Completed,Other,Merck,734,18,False,False,True
+NCT2013000461,2015,Cardiovascular,Phase 2,Terminated,Behavioral,AstraZeneca,75,12,False,False,True
+NCT2013000462,2013,Cardiovascular,Phase 3,Completed,Biological,Roche,196,27,False,False,True
+NCT2013000463,2020,Oncology,Phase 2,Completed,Behavioral,Amgen,97,30,False,False,False
+NCT2013000464,2015,Respiratory,Phase 4,Terminated,Biological,AstraZeneca,163,12,False,False,True
+NCT2013000465,2024,Oncology,Phase 2,Recruiting,Biological,Amgen,63,12,False,False,True
+NCT2013000466,2022,Other,Phase 1,Terminated,Drug,Biotech Startup,29,22,True,True,False
+NCT2013000467,2019,Diabetes/Metabolic,Phase 2,Completed,Drug,Academic Medical Center,421,36,False,False,False
+NCT2013000468,2022,Infectious Disease,Phase 3,Terminated,Drug,Biotech Startup,193,28,False,True,True
+NCT2013000469,2017,Rare Disease,N/A,Completed,Drug,AbbVie,330,16,False,False,False
+NCT2013000470,2022,Neurology,Phase 2,Completed,Drug,Bayer,61,38,False,False,False
+NCT2013000471,2017,Mental Health,Phase 3,"Active, not recruiting",Biological,Amgen,192,12,True,False,False
+NCT2013000472,2019,Oncology,Phase 2,Withdrawn,Drug,GSK,56,17,True,True,False
+NCT2013000473,2021,Respiratory,Phase 2,Completed,Drug,GSK,28,20,False,True,False
+NCT2013000474,2024,Oncology,Phase 3,Completed,Other,Boehringer Ingelheim,314,37,False,True,False
+NCT2013000475,2017,Mental Health,Phase 1,Recruiting,Drug,Biotech Startup,53,21,False,True,False
+NCT2013000476,2013,Infectious Disease,Phase 1,Completed,Drug,Bayer,7,8,False,False,True
+NCT2013000477,2022,Neurology,N/A,Completed,Drug,GSK,187,31,False,False,False
+NCT2013000478,2022,Cardiovascular,Phase 1,Terminated,Biological,Biotech Startup,19,21,False,False,True
+NCT2013000479,2013,Rare Disease,Phase 2,Completed,Behavioral,Novartis,121,30,False,True,True
+NCT2013000480,2014,Cardiovascular,Phase 2,Completed,Drug,Eli Lilly,173,16,False,False,False
+NCT2013000481,2018,Oncology,N/A,Recruiting,Drug,Biotech Startup,74,19,False,True,False
+NCT2013000482,2021,Infectious Disease,Phase 3,Recruiting,Drug,Roche,1387,20,False,True,True
+NCT2013000483,2020,Neurology,Phase 3,Withdrawn,Drug,Novartis,432,16,False,False,False
+NCT2013000484,2017,Oncology,Phase 2,"Active, not recruiting",Drug,Pfizer,139,17,False,True,False
+NCT2013000485,2013,Oncology,N/A,Recruiting,Drug,Biotech Startup,332,14,False,False,False
+NCT2013000486,2019,Oncology,Phase 3,Recruiting,Drug,Boehringer Ingelheim,414,30,False,False,True
+NCT2013000487,2017,Cardiovascular,Phase 1,Recruiting,Device,Amgen,48,19,False,False,True
+NCT2013000488,2018,Oncology,N/A,Completed,Device,Johnson & Johnson,107,12,True,False,True
+NCT2013000489,2019,Rare Disease,Phase 1,Terminated,Biological,Novartis,47,28,False,False,False
+NCT2013000490,2015,Diabetes/Metabolic,Phase 2,Withdrawn,Drug,Johnson & Johnson,135,16,False,False,True
+NCT2013000491,2024,Immunology/Autoimmune,Phase 1,Recruiting,Procedure,Biotech Startup,25,34,True,True,True
+NCT2013000492,2022,Infectious Disease,Phase 3,Completed,Behavioral,Biotech Startup,371,32,False,False,True
+NCT2013000493,2015,Neurology,Phase 2,Completed,Biological,Boehringer Ingelheim,39,20,True,False,False
+NCT2013000494,2017,Infectious Disease,Phase 2,Completed,Drug,Gilead,44,15,False,False,False
+NCT2013000495,2018,Oncology,Phase 2,Completed,Biological,Regional Hospital,124,22,False,False,True
+NCT2013000496,2021,Oncology,Phase 3,Completed,Device,GSK,212,5,False,False,False
+NCT2013000497,2024,Oncology,Phase 3,Unknown,Biological,Bayer,252,16,False,False,False
+NCT2013000498,2017,Cardiovascular,Phase 2,Terminated,Device,Johnson & Johnson,149,20,True,True,False
+NCT2013000499,2013,Diabetes/Metabolic,Phase 1,Completed,Drug,GSK,33,6,False,False,True
+NCT2013000500,2016,Diabetes/Metabolic,Phase 3,Recruiting,Drug,Gilead,617,50,False,False,True
+NCT2013000501,2017,Neurology,Phase 4,Terminated,Device,GSK,66,21,False,True,True
+NCT2013000502,2024,Immunology/Autoimmune,Phase 4,Completed,Behavioral,Bristol-Myers Squibb,202,27,True,True,True
+NCT2013000503,2022,Cardiovascular,Phase 1,Recruiting,Drug,Bristol-Myers Squibb,20,16,False,False,False
+NCT2013000504,2022,Oncology,Phase 2,Completed,Behavioral,Johnson & Johnson,56,25,True,True,False
+NCT2013000505,2017,Neurology,Phase 3,"Active, not recruiting",Drug,Regional Hospital,538,8,False,False,True
+NCT2013000506,2019,Oncology,Phase 2,Terminated,Drug,Gilead,137,7,False,False,False
+NCT2013000507,2016,Cardiovascular,Phase 3,Recruiting,Device,Eli Lilly,988,15,False,False,False
+NCT2013000508,2013,Rare Disease,Phase 4,Completed,Drug,AbbVie,1111,26,False,False,True
+NCT2013000509,2017,Cardiovascular,Phase 1,Terminated,Drug,Academic Medical Center,13,16,False,False,True
+NCT2013000510,2019,Oncology,Phase 2,Unknown,Drug,AstraZeneca,79,39,False,False,True
+NCT2013000511,2022,Immunology/Autoimmune,Phase 1,Recruiting,Other,Gilead,36,12,True,False,True
+NCT2013000512,2022,Oncology,Phase 2,Completed,Drug,Academic Medical Center,25,26,False,False,True
+NCT2013000513,2018,Cardiovascular,Phase 2,Terminated,Procedure,Biotech Startup,73,17,False,False,True
+NCT2013000514,2017,Oncology,Phase 1,Recruiting,Drug,AbbVie,40,31,False,False,True
+NCT2013000515,2016,Cardiovascular,Phase 2,"Active, not recruiting",Behavioral,Biotech Startup,138,3,False,False,False
+NCT2013000516,2014,Cardiovascular,Phase 3,Recruiting,Drug,Biotech Startup,207,9,False,True,False
+NCT2013000517,2016,Neurology,Phase 1,Recruiting,Device,AbbVie,28,17,False,True,True
+NCT2013000518,2022,Oncology,Phase 3,Completed,Procedure,Regional Hospital,369,41,False,False,False
+NCT2013000519,2022,Oncology,N/A,"Active, not recruiting",Drug,Biotech Startup,87,26,True,False,False
+NCT2013000520,2015,Infectious Disease,Phase 4,Completed,Other,Biotech Startup,99,12,False,True,True
+NCT2013000521,2022,Neurology,Phase 4,Recruiting,Drug,Johnson & Johnson,104,10,False,False,False
+NCT2013000522,2013,Oncology,Phase 1,Unknown,Biological,Novartis,63,9,False,False,True
+NCT2013000523,2020,Oncology,Phase 2,Recruiting,Other,Bayer,49,9,True,False,True
+NCT2013000524,2017,Oncology,Phase 4,Terminated,Drug,University Hospital,39,17,False,True,False
+NCT2013000525,2016,Neurology,N/A,Recruiting,Procedure,Biotech Startup,55,16,False,False,False
+NCT2013000526,2020,Oncology,Phase 3,Completed,Biological,Merck,125,16,True,True,False
+NCT2013000527,2019,Other,Phase 4,Completed,Drug,Merck,10,15,False,False,False
+NCT2013000528,2014,Oncology,Phase 2,Completed,Biological,Amgen,144,18,False,False,False
+NCT2013000529,2013,Oncology,Phase 3,Recruiting,Drug,Biotech Startup,130,34,False,True,False
+NCT2013000530,2024,Immunology/Autoimmune,Phase 2,"Active, not recruiting",Drug,Boehringer Ingelheim,175,15,False,True,True
+NCT2013000531,2023,Oncology,Phase 4,Terminated,Drug,Bayer,10,10,False,False,False
+NCT2013000532,2016,Infectious Disease,Phase 2,Completed,Drug,Academic Medical Center,130,18,False,False,False
+NCT2013000533,2020,Cardiovascular,Phase 1,Recruiting,Drug,AbbVie,22,21,False,False,True
+NCT2013000534,2024,Immunology/Autoimmune,Phase 1,Terminated,Drug,Sanofi,51,20,False,True,True
+NCT2013000535,2014,Oncology,N/A,Unknown,Biological,Gilead,67,13,False,True,False
+NCT2013000536,2015,Respiratory,Phase 1,Completed,Drug,Bayer,43,16,True,True,True
+NCT2013000537,2024,Oncology,Phase 1,Recruiting,Behavioral,Johnson & Johnson,22,30,True,False,False
+NCT2013000538,2013,Neurology,Phase 2,Completed,Other,Eli Lilly,124,38,False,False,True
+NCT2013000539,2013,Immunology/Autoimmune,Phase 2,Completed,Drug,Bayer,35,58,False,False,True
+NCT2013000540,2015,Oncology,Phase 3,Completed,Drug,Regional Hospital,1288,13,False,False,False
+NCT2013000541,2023,Oncology,Phase 2,Unknown,Procedure,Biotech Startup,104,17,False,False,False
+NCT2013000542,2017,Neurology,Phase 1,Completed,Drug,Eli Lilly,25,21,False,False,True
+NCT2013000543,2024,Infectious Disease,Phase 2,Recruiting,Device,Bristol-Myers Squibb,110,10,False,False,False
+NCT2013000544,2015,Oncology,Phase 3,Completed,Procedure,Gilead,119,32,False,False,False
+NCT2013000545,2013,Oncology,Phase 3,Completed,Drug,Regional Hospital,127,28,False,False,False
+NCT2013000546,2013,Rare Disease,Phase 2,Terminated,Drug,Gilead,94,10,False,False,True
+NCT2013000547,2020,Neurology,Phase 2,Completed,Drug,Bristol-Myers Squibb,76,32,False,True,False
+NCT2013000548,2022,Diabetes/Metabolic,Phase 3,Terminated,Biological,Gilead,387,10,True,False,True
+NCT2013000549,2023,Diabetes/Metabolic,Phase 3,Terminated,Drug,Sanofi,475,19,False,False,True
+NCT2013000550,2024,Immunology/Autoimmune,N/A,Recruiting,Drug,Bristol-Myers Squibb,107,26,False,False,True
+NCT2013000551,2024,Oncology,Phase 2,Terminated,Drug,Merck,190,33,False,False,False
+NCT2013000552,2014,Neurology,Phase 2,Withdrawn,Device,Johnson & Johnson,68,22,False,True,True
+NCT2013000553,2015,Rare Disease,Phase 3,Recruiting,Drug,Bayer,225,28,False,False,False
+NCT2013000554,2014,Infectious Disease,Phase 2,Completed,Device,Biotech Startup,123,15,False,False,True
+NCT2013000555,2015,Cardiovascular,Phase 2,Recruiting,Device,GSK,60,13,False,True,False
+NCT2013000556,2019,Diabetes/Metabolic,Phase 1,Unknown,Procedure,Biotech Startup,67,54,False,True,True
+NCT2013000557,2013,Neurology,Phase 4,Completed,Biological,Bristol-Myers Squibb,126,19,False,False,False
+NCT2013000558,2022,Rare Disease,Phase 3,Completed,Biological,Merck,1123,17,True,False,False
+NCT2013000559,2020,Rare Disease,Phase 1,Completed,Procedure,Bristol-Myers Squibb,41,23,False,True,True
+NCT2013000560,2022,Oncology,Phase 3,"Active, not recruiting",Drug,NIH,110,16,True,True,True
+NCT2013000561,2022,Mental Health,Phase 2,"Active, not recruiting",Drug,Sanofi,34,11,False,True,True
+NCT2013000562,2022,Oncology,Phase 3,Completed,Biological,Johnson & Johnson,1135,53,False,False,True
+NCT2013000563,2014,Oncology,N/A,Completed,Drug,AstraZeneca,242,29,False,True,False
+NCT2013000564,2015,Neurology,Phase 2,Completed,Procedure,Pfizer,47,23,False,False,True
+NCT2013000565,2021,Cardiovascular,Phase 3,Completed,Other,Pfizer,87,22,False,False,False
+NCT2013000566,2019,Diabetes/Metabolic,Phase 1,Completed,Drug,Johnson & Johnson,13,82,False,True,False
+NCT2013000567,2016,Oncology,Phase 1,Completed,Drug,Gilead,8,23,False,False,True
+NCT2013000568,2022,Oncology,Phase 3,Recruiting,Drug,AbbVie,3838,6,False,True,True
+NCT2013000569,2017,Respiratory,Phase 2,Withdrawn,Other,AstraZeneca,37,21,False,False,False
+NCT2013000570,2014,Cardiovascular,Phase 2,Recruiting,Biological,AstraZeneca,85,36,False,False,False
+NCT2013000571,2023,Oncology,Phase 1,Recruiting,Drug,Boehringer Ingelheim,18,22,True,False,True
+NCT2013000572,2020,Cardiovascular,N/A,Completed,Other,Merck,929,27,False,False,True
+NCT2013000573,2016,Oncology,Phase 3,Completed,Procedure,Gilead,98,23,False,True,False
+NCT2013000574,2021,Oncology,Phase 2,"Active, not recruiting",Other,AstraZeneca,27,11,False,False,False
+NCT2013000575,2017,Infectious Disease,Phase 1,Completed,Drug,Novartis,31,38,False,True,False
+NCT2013000576,2021,Cardiovascular,Phase 2,Completed,Drug,Gilead,47,5,False,True,False
+NCT2013000577,2016,Oncology,Phase 1,Completed,Drug,Amgen,30,22,False,True,False
+NCT2013000578,2022,Oncology,Phase 2,"Active, not recruiting",Drug,Bayer,126,48,False,True,False
+NCT2013000579,2017,Oncology,Phase 4,Recruiting,Drug,Biotech Startup,36,15,False,False,True
+NCT2013000580,2021,Cardiovascular,Phase 3,Terminated,Drug,Regional Hospital,1045,44,False,False,False
+NCT2013000581,2020,Oncology,Phase 3,Recruiting,Drug,Sanofi,82,14,False,False,False
+NCT2013000582,2015,Cardiovascular,Phase 2,Completed,Biological,Regional Hospital,82,21,False,True,False
+NCT2013000583,2013,Immunology/Autoimmune,Phase 1,Completed,Drug,Boehringer Ingelheim,44,54,False,False,True
+NCT2013000584,2015,Immunology/Autoimmune,Phase 2,Completed,Drug,NIH,107,12,False,False,False
+NCT2013000585,2016,Infectious Disease,Phase 2,Recruiting,Biological,Amgen,50,38,False,True,True
+NCT2013000586,2014,Diabetes/Metabolic,Phase 1,Terminated,Drug,Sanofi,69,20,False,True,True
+NCT2013000587,2013,Diabetes/Metabolic,Phase 2,Unknown,Drug,Gilead,147,15,False,False,False
+NCT2013000588,2019,Immunology/Autoimmune,Phase 1,"Active, not recruiting",Biological,Roche,231,31,False,False,False
+NCT2013000589,2020,Infectious Disease,Phase 4,Completed,Device,Pfizer,133,16,False,False,False
+NCT2013000590,2019,Cardiovascular,Phase 4,Completed,Drug,Bayer,408,36,False,False,False
+NCT2013000591,2017,Rare Disease,Phase 2,Completed,Other,Johnson & Johnson,127,29,True,False,True
+NCT2013000592,2024,Rare Disease,Phase 3,Completed,Biological,AstraZeneca,515,10,False,True,True
+NCT2013000593,2013,Neurology,Phase 2,Completed,Device,Biotech Startup,32,15,False,False,False
+NCT2013000594,2019,Diabetes/Metabolic,Phase 1,Unknown,Drug,Biotech Startup,35,53,False,False,False
+NCT2013000595,2019,Infectious Disease,Phase 2,Completed,Drug,GSK,83,17,False,False,True
+NCT2013000596,2021,Oncology,Phase 1,Completed,Biological,Novartis,36,53,False,True,False
+NCT2013000597,2015,Diabetes/Metabolic,Phase 3,Recruiting,Biological,Pfizer,782,32,False,False,False
+NCT2013000598,2021,Diabetes/Metabolic,Phase 2,Unknown,Drug,University Hospital,164,10,False,False,False
+NCT2013000599,2013,Mental Health,Phase 2,Completed,Drug,Biotech Startup,264,25,False,False,False
+NCT2013000600,2013,Cardiovascular,Phase 1,Completed,Behavioral,Novartis,52,30,False,True,False
+NCT2013000601,2016,Diabetes/Metabolic,N/A,Completed,Drug,Biotech Startup,64,47,False,False,True
+NCT2013000602,2021,Respiratory,Phase 1,Recruiting,Behavioral,Pfizer,34,15,False,True,False
+NCT2013000603,2018,Other,Phase 1,Recruiting,Procedure,Pfizer,30,29,False,False,True
+NCT2013000604,2023,Infectious Disease,Phase 1,Recruiting,Drug,Pfizer,50,18,False,True,False
+NCT2013000605,2015,Oncology,Phase 4,"Active, not recruiting",Drug,AbbVie,277,11,False,False,False
+NCT2013000606,2013,Diabetes/Metabolic,Phase 1,Completed,Biological,Roche,19,34,False,True,False
+NCT2013000607,2016,Oncology,Phase 1,Recruiting,Device,Gilead,43,10,False,True,True
+NCT2013000608,2024,Diabetes/Metabolic,Phase 1,Completed,Drug,Bristol-Myers Squibb,33,49,True,True,False
+NCT2013000609,2021,Oncology,Phase 4,Unknown,Drug,Biotech Startup,8,35,False,True,False
+NCT2013000610,2015,Oncology,Phase 1,Recruiting,Biological,AbbVie,73,60,True,False,True
+NCT2013000611,2024,Oncology,Phase 1,"Active, not recruiting",Behavioral,Merck,21,16,True,True,True
+NCT2013000612,2021,Neurology,Phase 1,Completed,Other,Biotech Startup,13,16,False,False,True
+NCT2013000613,2019,Immunology/Autoimmune,Phase 2,Unknown,Drug,Boehringer Ingelheim,69,47,True,True,True
+NCT2013000614,2024,Diabetes/Metabolic,Phase 1,Recruiting,Behavioral,Boehringer Ingelheim,126,12,False,True,False
+NCT2013000615,2016,Neurology,Phase 3,Completed,Drug,Bristol-Myers Squibb,990,24,False,False,True
+NCT2013000616,2015,Oncology,Phase 2,Completed,Drug,Novartis,25,9,False,True,False
+NCT2013000617,2022,Oncology,Phase 2,Terminated,Drug,Biotech Startup,37,10,False,False,False
+NCT2013000618,2017,Oncology,Phase 3,Completed,Drug,Bayer,1427,10,False,True,False
+NCT2013000619,2017,Cardiovascular,Phase 1,Completed,Drug,NIH,12,12,False,False,False
+NCT2013000620,2015,Rare Disease,Phase 3,Recruiting,Drug,Merck,103,19,False,True,False
+NCT2013000621,2024,Neurology,Phase 1,Unknown,Drug,Bayer,25,38,True,True,True
+NCT2013000622,2021,Diabetes/Metabolic,Phase 3,Completed,Drug,Biotech Startup,1658,11,False,False,False
+NCT2013000623,2016,Respiratory,Phase 3,Recruiting,Drug,Merck,552,16,False,False,False
+NCT2013000624,2023,Infectious Disease,Phase 2,Unknown,Drug,Eli Lilly,18,16,True,False,False
+NCT2013000625,2017,Oncology,N/A,Unknown,Biological,Gilead,172,14,False,True,True
+NCT2013000626,2016,Neurology,Phase 4,Recruiting,Drug,Merck,68,16,True,False,False
+NCT2013000627,2017,Rare Disease,N/A,Recruiting,Drug,Biotech Startup,52,24,False,False,False
+NCT2013000628,2019,Oncology,Phase 1,Recruiting,Device,NIH,49,12,False,False,False
+NCT2013000629,2021,Cardiovascular,Phase 3,Completed,Drug,Johnson & Johnson,220,12,False,False,True
+NCT2013000630,2019,Rare Disease,Phase 3,Recruiting,Drug,University Hospital,246,23,False,False,True
+NCT2013000631,2017,Oncology,Phase 3,"Active, not recruiting",Device,GSK,2119,13,False,False,False
+NCT2013000632,2022,Cardiovascular,Phase 2,Completed,Drug,Academic Medical Center,119,25,False,False,False
+NCT2013000633,2022,Oncology,Phase 2,Terminated,Drug,Merck,36,28,False,True,False
+NCT2013000634,2019,Oncology,N/A,"Active, not recruiting",Drug,Regional Hospital,96,49,False,True,True
+NCT2013000635,2022,Cardiovascular,N/A,Completed,Drug,GSK,392,27,False,False,True
+NCT2013000636,2017,Cardiovascular,N/A,Recruiting,Biological,Sanofi,146,16,False,False,False
+NCT2013000637,2015,Infectious Disease,Phase 3,Completed,Drug,Bristol-Myers Squibb,664,9,False,True,True
+NCT2013000638,2019,Diabetes/Metabolic,Phase 3,Completed,Procedure,Regional Hospital,553,21,False,False,False
+NCT2013000639,2023,Infectious Disease,Phase 2,Terminated,Other,Eli Lilly,75,10,True,False,False
+NCT2013000640,2023,Respiratory,Phase 1,Recruiting,Drug,Biotech Startup,91,19,False,False,True
+NCT2013000641,2014,Neurology,Phase 3,Completed,Biological,Roche,236,15,False,True,True
+NCT2013000642,2024,Infectious Disease,Phase 1,Withdrawn,Drug,Gilead,51,14,True,False,False
+NCT2013000643,2021,Diabetes/Metabolic,Phase 2,"Active, not recruiting",Drug,Biotech Startup,57,16,True,True,False
+NCT2013000644,2022,Immunology/Autoimmune,Phase 2,Completed,Other,NIH,105,8,False,False,True
+NCT2013000645,2022,Neurology,Phase 2,Completed,Drug,Novartis,77,12,False,False,True
+NCT2013000646,2024,Cardiovascular,Phase 3,"Active, not recruiting",Drug,Johnson & Johnson,383,40,False,True,True
+NCT2013000647,2013,Mental Health,Phase 1,Recruiting,Drug,Regional Hospital,25,14,False,True,True
+NCT2013000648,2018,Cardiovascular,Phase 2,Recruiting,Drug,AstraZeneca,200,11,False,False,True
+NCT2013000649,2019,Oncology,Phase 3,Completed,Drug,AstraZeneca,256,16,False,True,False
+NCT2013000650,2020,Cardiovascular,Phase 2,Completed,Device,Regional Hospital,667,23,False,True,False
+NCT2013000651,2022,Oncology,Phase 2,Recruiting,Biological,Johnson & Johnson,21,29,False,False,False
+NCT2013000652,2021,Respiratory,Phase 1,"Active, not recruiting",Drug,AbbVie,98,24,False,True,True
+NCT2013000653,2014,Infectious Disease,Phase 2,Unknown,Device,Biotech Startup,41,27,False,True,False
+NCT2013000654,2023,Other,Phase 2,"Active, not recruiting",Device,Novartis,67,27,False,False,True
+NCT2013000655,2022,Diabetes/Metabolic,Phase 3,Completed,Drug,Novartis,1146,9,False,False,False
+NCT2013000656,2014,Oncology,Phase 2,Completed,Other,Regional Hospital,24,9,False,False,False
+NCT2013000657,2017,Diabetes/Metabolic,Phase 2,Completed,Drug,University Hospital,127,20,False,False,False
+NCT2013000658,2017,Oncology,Phase 1,"Active, not recruiting",Drug,Pfizer,44,26,False,True,True
+NCT2013000659,2018,Oncology,Phase 2,Completed,Biological,Eli Lilly,9,36,False,False,False
+NCT2013000660,2015,Diabetes/Metabolic,Phase 4,Completed,Drug,Novartis,49,19,False,True,False
+NCT2013000661,2020,Infectious Disease,Phase 4,Terminated,Drug,NIH,782,17,False,False,False
+NCT2013000662,2013,Infectious Disease,Phase 2,Completed,Drug,Biotech Startup,135,26,False,False,True
+NCT2013000663,2018,Oncology,Phase 2,Terminated,Biological,AstraZeneca,186,25,False,True,False
+NCT2013000664,2016,Oncology,Phase 1,Completed,Drug,Bayer,41,16,False,False,False
+NCT2013000665,2013,Respiratory,Phase 2,Recruiting,Drug,AstraZeneca,21,10,False,False,False
+NCT2013000666,2019,Immunology/Autoimmune,Phase 2,Completed,Drug,Biotech Startup,127,12,False,False,True
+NCT2013000667,2021,Diabetes/Metabolic,Phase 2,Recruiting,Drug,Regional Hospital,171,28,False,False,False
+NCT2013000668,2016,Oncology,Phase 2,Completed,Drug,Bayer,18,51,False,False,False
+NCT2013000669,2016,Oncology,Phase 2,Terminated,Biological,University Hospital,41,18,False,False,True
+NCT2013000670,2018,Other,Phase 1,Completed,Drug,AstraZeneca,21,16,False,True,False
+NCT2013000671,2024,Oncology,N/A,"Active, not recruiting",Drug,Merck,108,9,False,False,True
+NCT2013000672,2015,Immunology/Autoimmune,Phase 1,Completed,Device,Gilead,48,49,False,False,False
+NCT2013000673,2024,Cardiovascular,N/A,Withdrawn,Drug,Biotech Startup,216,12,False,True,False
+NCT2013000674,2018,Neurology,N/A,Completed,Drug,Johnson & Johnson,98,9,False,False,True
+NCT2013000675,2019,Diabetes/Metabolic,Phase 4,"Active, not recruiting",Other,Pfizer,90,22,False,False,False
+NCT2013000676,2023,Neurology,Phase 3,Completed,Drug,NIH,325,21,True,False,False
+NCT2013000677,2022,Cardiovascular,Phase 1,Recruiting,Drug,Merck,15,22,False,True,False
+NCT2013000678,2022,Cardiovascular,Phase 1,Completed,Biological,AbbVie,52,21,False,True,True
+NCT2013000679,2015,Immunology/Autoimmune,N/A,Recruiting,Drug,AstraZeneca,136,29,False,False,True
+NCT2013000680,2019,Infectious Disease,Phase 2,Unknown,Drug,Boehringer Ingelheim,145,34,False,False,True
+NCT2013000681,2015,Rare Disease,Phase 1,Recruiting,Biological,NIH,31,33,False,False,False
+NCT2013000682,2014,Oncology,Phase 3,Unknown,Drug,Amgen,133,9,False,False,False
+NCT2013000683,2024,Immunology/Autoimmune,Phase 1,Completed,Procedure,Gilead,76,25,False,False,False
+NCT2013000684,2022,Oncology,Phase 4,Recruiting,Drug,Merck,131,31,False,False,True
+NCT2013000685,2016,Oncology,Phase 3,Completed,Device,Biotech Startup,273,12,False,False,False
+NCT2013000686,2024,Diabetes/Metabolic,Phase 4,Terminated,Drug,Sanofi,160,44,False,False,False
+NCT2013000687,2020,Diabetes/Metabolic,Phase 2,Recruiting,Device,Regional Hospital,110,6,False,False,True
+NCT2013000688,2021,Rare Disease,Phase 3,Recruiting,Procedure,Biotech Startup,723,10,True,True,False
+NCT2013000689,2019,Immunology/Autoimmune,N/A,Completed,Biological,Merck,150,10,False,True,False
+NCT2013000690,2013,Respiratory,Phase 3,Terminated,Drug,Amgen,110,14,False,False,False
+NCT2013000691,2015,Neurology,Phase 1,Recruiting,Drug,AbbVie,38,8,False,True,True
+NCT2013000692,2024,Neurology,Phase 1,Recruiting,Drug,AstraZeneca,11,36,False,False,True
+NCT2013000693,2021,Infectious Disease,Phase 1,"Active, not recruiting",Drug,Merck,197,18,False,False,True
+NCT2013000694,2024,Diabetes/Metabolic,Phase 2,Recruiting,Drug,Pfizer,49,16,False,True,False
+NCT2013000695,2013,Oncology,Phase 2,Completed,Drug,Sanofi,26,29,False,True,True
+NCT2013000696,2021,Infectious Disease,Phase 2,Recruiting,Biological,Biotech Startup,122,21,False,True,True
+NCT2013000697,2020,Neurology,Phase 1,Completed,Device,NIH,91,20,False,False,False
+NCT2013000698,2013,Diabetes/Metabolic,Phase 4,Unknown,Drug,Bristol-Myers Squibb,162,36,False,True,True
+NCT2013000699,2018,Oncology,Phase 4,Completed,Drug,AstraZeneca,76,43,False,True,False
+NCT2013000700,2017,Oncology,Phase 2,Completed,Biological,Boehringer Ingelheim,87,22,False,False,True
+NCT2013000701,2018,Oncology,Phase 2,Completed,Drug,Amgen,39,20,False,True,True
+NCT2013000702,2022,Cardiovascular,N/A,Completed,Drug,Pfizer,98,26,False,False,False
+NCT2013000703,2024,Oncology,Phase 1,Recruiting,Drug,Merck,46,27,False,False,True
+NCT2013000704,2017,Cardiovascular,N/A,Completed,Behavioral,Bristol-Myers Squibb,309,13,False,False,False
+NCT2013000705,2018,Diabetes/Metabolic,Phase 2,Unknown,Drug,Roche,67,22,False,False,True
+NCT2013000706,2017,Neurology,Phase 1,Terminated,Drug,GSK,17,20,False,False,False
+NCT2013000707,2023,Cardiovascular,Phase 2,Terminated,Drug,Gilead,75,17,False,False,True
+NCT2013000708,2024,Other,Phase 2,Completed,Drug,Regional Hospital,57,17,False,False,True
+NCT2013000709,2017,Cardiovascular,Phase 2,"Active, not recruiting",Drug,Biotech Startup,50,10,True,False,False
+NCT2013000710,2016,Immunology/Autoimmune,Phase 4,Completed,Behavioral,Pfizer,163,14,False,False,False
+NCT2013000711,2015,Diabetes/Metabolic,Phase 2,Recruiting,Drug,Johnson & Johnson,64,19,False,False,False
+NCT2013000712,2015,Infectious Disease,Phase 2,Completed,Biological,Sanofi,111,22,False,False,True
+NCT2013000713,2016,Oncology,Phase 4,Unknown,Drug,Novartis,219,13,False,False,True
+NCT2013000714,2021,Cardiovascular,Phase 2,Terminated,Biological,AbbVie,63,19,False,True,True
+NCT2013000715,2014,Oncology,Phase 1,Completed,Biological,Novartis,28,20,False,False,False
+NCT2013000716,2021,Infectious Disease,Phase 3,"Active, not recruiting",Biological,Boehringer Ingelheim,648,40,False,False,False
+NCT2013000717,2013,Immunology/Autoimmune,Phase 4,Recruiting,Biological,Bayer,1399,5,False,False,False
+NCT2013000718,2013,Oncology,Phase 1,Completed,Other,Eli Lilly,87,45,False,True,False
+NCT2013000719,2017,Rare Disease,Phase 2,Recruiting,Drug,GSK,55,22,False,False,False
+NCT2013000720,2018,Mental Health,Phase 2,Completed,Biological,Merck,115,25,False,True,False
+NCT2013000721,2018,Immunology/Autoimmune,Phase 2,"Active, not recruiting",Behavioral,Merck,196,10,False,False,True
+NCT2013000722,2015,Diabetes/Metabolic,Phase 2,Recruiting,Drug,Roche,179,47,False,True,True
+NCT2013000723,2019,Diabetes/Metabolic,Phase 2,"Active, not recruiting",Drug,University Hospital,23,27,False,False,False
+NCT2013000724,2021,Mental Health,Phase 1,Terminated,Biological,Merck,18,42,False,True,False
+NCT2013000725,2023,Other,Phase 2,Completed,Procedure,Biotech Startup,37,20,False,False,False
+NCT2013000726,2024,Infectious Disease,Phase 3,Recruiting,Biological,Merck,144,12,False,True,True
+NCT2013000727,2022,Rare Disease,Phase 1,Recruiting,Drug,Bayer,15,31,False,False,True
+NCT2013000728,2020,Diabetes/Metabolic,N/A,Completed,Behavioral,GSK,22,12,False,True,False
+NCT2013000729,2018,Cardiovascular,Phase 3,Withdrawn,Drug,GSK,278,16,True,False,False
+NCT2013000730,2024,Infectious Disease,N/A,Completed,Drug,Boehringer Ingelheim,564,20,False,False,True
+NCT2013000731,2020,Cardiovascular,Phase 1,Recruiting,Drug,Merck,42,26,False,True,True
+NCT2013000732,2024,Neurology,Phase 4,Completed,Device,NIH,92,43,False,False,True
+NCT2013000733,2017,Respiratory,Phase 2,Completed,Drug,Eli Lilly,21,16,False,True,False
+NCT2013000734,2020,Diabetes/Metabolic,Phase 2,Recruiting,Behavioral,Merck,88,13,True,False,True
+NCT2013000735,2022,Diabetes/Metabolic,Phase 2,Completed,Drug,Roche,57,34,False,True,False
+NCT2013000736,2024,Neurology,N/A,Completed,Drug,Amgen,1821,47,False,False,False
+NCT2013000737,2016,Rare Disease,Phase 4,Recruiting,Other,Sanofi,1197,16,False,False,False
+NCT2013000738,2022,Oncology,Phase 1,Terminated,Biological,Gilead,36,46,False,False,False
+NCT2013000739,2020,Cardiovascular,Phase 2,Completed,Drug,Sanofi,304,20,False,False,False
+NCT2013000740,2022,Oncology,Phase 1,Unknown,Biological,Gilead,15,19,False,False,False
+NCT2013000741,2024,Immunology/Autoimmune,Phase 3,Terminated,Drug,Merck,557,18,False,True,False
+NCT2013000742,2014,Oncology,Phase 1,Completed,Device,Boehringer Ingelheim,29,16,True,False,True
+NCT2013000743,2024,Diabetes/Metabolic,Phase 1,"Active, not recruiting",Drug,Biotech Startup,67,33,False,False,True
+NCT2013000744,2024,Oncology,N/A,"Active, not recruiting",Other,Gilead,229,24,False,False,False
+NCT2013000745,2017,Oncology,Phase 2,Recruiting,Biological,NIH,152,19,False,False,False
+NCT2013000746,2021,Cardiovascular,Phase 1,Recruiting,Procedure,Academic Medical Center,27,19,True,True,False
+NCT2013000747,2016,Rare Disease,Phase 2,Recruiting,Procedure,Eli Lilly,125,17,False,False,True
+NCT2013000748,2023,Cardiovascular,Phase 4,Completed,Drug,GSK,801,17,False,True,False
+NCT2013000749,2018,Rare Disease,Phase 3,Recruiting,Drug,AstraZeneca,381,51,False,True,False
+NCT2013000750,2013,Cardiovascular,Phase 1,Completed,Drug,University Hospital,61,13,False,False,False
+NCT2013000751,2021,Oncology,Phase 3,Completed,Drug,Roche,1012,25,False,True,False
+NCT2013000752,2013,Cardiovascular,Phase 3,Completed,Biological,Pfizer,1303,13,False,False,False
+NCT2013000753,2017,Immunology/Autoimmune,Phase 3,Recruiting,Drug,Bayer,707,41,False,False,False
+NCT2013000754,2016,Neurology,N/A,Terminated,Drug,AbbVie,113,15,False,True,False
+NCT2013000755,2024,Cardiovascular,Phase 1,"Active, not recruiting",Drug,Boehringer Ingelheim,15,13,True,False,True
+NCT2013000756,2015,Rare Disease,Phase 3,"Active, not recruiting",Drug,AstraZeneca,200,28,False,False,True
+NCT2013000757,2018,Respiratory,Phase 2,Recruiting,Device,Eli Lilly,136,32,False,False,False
+NCT2013000758,2014,Infectious Disease,Phase 2,Terminated,Device,Novartis,360,16,False,False,False
+NCT2013000759,2015,Oncology,Phase 3,Completed,Device,Academic Medical Center,793,16,False,False,False
+NCT2013000760,2017,Oncology,Phase 2,Completed,Drug,Bayer,73,36,False,False,False
+NCT2013000761,2021,Cardiovascular,Phase 3,Unknown,Drug,Pfizer,775,11,False,False,True
+NCT2013000762,2014,Infectious Disease,Phase 2,Unknown,Other,Johnson & Johnson,74,8,False,False,True
+NCT2013000763,2022,Oncology,Phase 1,"Active, not recruiting",Drug,Boehringer Ingelheim,19,4,False,True,True
+NCT2013000764,2020,Neurology,Phase 1,Completed,Biological,University Hospital,14,21,True,False,True
+NCT2013000765,2014,Neurology,Phase 2,Unknown,Biological,Boehringer Ingelheim,103,8,False,False,False
+NCT2013000766,2023,Immunology/Autoimmune,Phase 2,Terminated,Drug,AbbVie,76,36,False,True,True
+NCT2013000767,2017,Oncology,Phase 3,Completed,Drug,GSK,209,26,True,False,False
+NCT2013000768,2019,Infectious Disease,Phase 2,Completed,Drug,Regional Hospital,61,7,False,False,False
+NCT2013000769,2020,Oncology,Phase 3,"Active, not recruiting",Drug,NIH,1131,11,False,False,False
+NCT2013000770,2013,Diabetes/Metabolic,Phase 2,Unknown,Drug,Biotech Startup,61,6,False,False,False
+NCT2013000771,2018,Respiratory,Phase 1,Unknown,Biological,Pfizer,54,9,False,True,True
+NCT2013000772,2013,Oncology,Phase 2,"Active, not recruiting",Drug,GSK,82,16,False,False,True
+NCT2013000773,2014,Rare Disease,Phase 2,Completed,Drug,Novartis,118,45,False,True,True
+NCT2013000774,2013,Diabetes/Metabolic,Phase 2,"Active, not recruiting",Drug,GSK,51,20,False,False,True
+NCT2013000775,2023,Diabetes/Metabolic,Phase 2,Completed,Drug,Biotech Startup,138,21,True,False,False
+NCT2013000776,2017,Immunology/Autoimmune,Phase 1,Recruiting,Drug,Amgen,29,26,False,True,False
+NCT2013000777,2022,Neurology,Phase 1,Completed,Drug,Roche,15,10,True,False,False
+NCT2013000778,2021,Immunology/Autoimmune,Phase 1,Completed,Drug,Gilead,76,38,False,False,True
+NCT2013000779,2018,Cardiovascular,Phase 3,"Active, not recruiting",Procedure,GSK,65,27,False,False,True
+NCT2013000780,2023,Cardiovascular,Phase 1,"Active, not recruiting",Device,Novartis,30,15,False,True,False
+NCT2013000781,2023,Cardiovascular,Phase 1,Completed,Device,Bayer,24,25,True,False,True
+NCT2013000782,2013,Cardiovascular,Phase 1,Completed,Drug,Pfizer,32,6,False,True,True
+NCT2013000783,2013,Neurology,Phase 3,Completed,Device,Gilead,675,26,False,False,True
+NCT2013000784,2014,Mental Health,N/A,"Active, not recruiting",Drug,Sanofi,226,30,False,False,False
+NCT2013000785,2021,Rare Disease,Phase 2,Completed,Drug,AstraZeneca,175,8,False,True,False
+NCT2013000786,2015,Oncology,Phase 2,Recruiting,Drug,Bristol-Myers Squibb,87,16,False,False,False
+NCT2013000787,2013,Oncology,Phase 3,Completed,Drug,Johnson & Johnson,2838,30,False,False,False
+NCT2013000788,2017,Immunology/Autoimmune,N/A,Recruiting,Drug,Merck,252,11,True,True,False
+NCT2013000789,2019,Respiratory,Phase 1,Recruiting,Biological,Eli Lilly,50,12,False,False,False
+NCT2013000790,2018,Cardiovascular,N/A,Recruiting,Drug,Bristol-Myers Squibb,150,13,False,False,False
+NCT2013000791,2024,Immunology/Autoimmune,Phase 2,Withdrawn,Drug,Eli Lilly,48,9,False,False,False
+NCT2013000792,2013,Respiratory,Phase 1,Terminated,Drug,AbbVie,37,46,False,True,True
+NCT2013000793,2017,Infectious Disease,Phase 1,Completed,Behavioral,Merck,9,14,False,False,False
+NCT2013000794,2017,Diabetes/Metabolic,Phase 1,Terminated,Drug,AbbVie,20,15,False,True,False
+NCT2013000795,2018,Oncology,Phase 3,Completed,Device,GSK,257,15,False,False,False
+NCT2013000796,2015,Diabetes/Metabolic,Phase 3,Terminated,Drug,Pfizer,163,31,False,True,True
+NCT2013000797,2017,Oncology,Phase 2,Completed,Other,AstraZeneca,54,28,False,False,True
+NCT2013000798,2019,Respiratory,N/A,Withdrawn,Drug,University Hospital,264,10,False,True,False
+NCT2013000799,2017,Other,Phase 3,Recruiting,Biological,Eli Lilly,2347,7,False,False,False
+NCT2013000800,2017,Oncology,Phase 2,Recruiting,Drug,Merck,76,21,False,True,True
+NCT2013000801,2017,Infectious Disease,Phase 2,Recruiting,Procedure,NIH,152,21,False,True,False
+NCT2013000802,2022,Infectious Disease,Phase 2,Withdrawn,Biological,Roche,144,30,False,True,False
+NCT2013000803,2022,Neurology,N/A,Completed,Drug,Amgen,329,45,False,False,True
+NCT2013000804,2015,Neurology,Phase 2,Terminated,Biological,Sanofi,82,41,False,True,False
+NCT2013000805,2013,Immunology/Autoimmune,Phase 1,Terminated,Other,Merck,54,12,False,True,True
+NCT2013000806,2017,Neurology,Phase 3,"Active, not recruiting",Other,Novartis,1060,8,False,False,False
+NCT2013000807,2021,Oncology,Phase 1,Terminated,Biological,Biotech Startup,10,28,False,False,True
+NCT2013000808,2013,Neurology,Phase 2,Completed,Drug,Boehringer Ingelheim,61,13,False,True,True
+NCT2013000809,2015,Infectious Disease,Phase 3,Completed,Procedure,Novartis,74,42,False,False,False
+NCT2013000810,2016,Oncology,Phase 1,Terminated,Device,AbbVie,62,12,False,False,False
+NCT2013000811,2013,Infectious Disease,Phase 3,Unknown,Drug,Academic Medical Center,178,16,True,True,True
+NCT2013000812,2013,Mental Health,Phase 2,Completed,Drug,Pfizer,44,60,False,True,False
+NCT2013000813,2020,Oncology,Phase 2,Recruiting,Other,Academic Medical Center,141,63,False,False,True
+NCT2013000814,2014,Diabetes/Metabolic,Phase 1,Unknown,Device,Biotech Startup,31,12,False,True,False
+NCT2013000815,2024,Oncology,Phase 2,Recruiting,Drug,Bayer,51,11,False,False,True
+NCT2013000816,2020,Respiratory,Phase 1,"Active, not recruiting",Drug,Boehringer Ingelheim,71,13,False,False,False
+NCT2013000817,2019,Oncology,Phase 2,"Active, not recruiting",Drug,Novartis,297,26,False,False,True
+NCT2013000818,2022,Immunology/Autoimmune,Phase 2,Withdrawn,Biological,Eli Lilly,86,10,False,True,False
+NCT2013000819,2022,Cardiovascular,Phase 4,Completed,Behavioral,GSK,22,27,False,False,False
+NCT2013000820,2014,Oncology,Phase 1,Completed,Drug,AstraZeneca,30,26,False,False,False
+NCT2013000821,2018,Respiratory,Phase 1,Unknown,Device,Biotech Startup,70,28,False,False,True
+NCT2013000822,2018,Oncology,Phase 1,Completed,Drug,Biotech Startup,26,17,True,False,True
+NCT2013000823,2015,Diabetes/Metabolic,Phase 4,Completed,Other,Regional Hospital,200,29,False,False,True
+NCT2013000824,2023,Oncology,Phase 4,Unknown,Drug,Johnson & Johnson,250,8,False,False,False
+NCT2013000825,2014,Cardiovascular,Phase 1,Recruiting,Drug,Sanofi,57,19,False,False,True
+NCT2013000826,2024,Oncology,Phase 1,Completed,Biological,Gilead,34,15,False,False,False
+NCT2013000827,2013,Cardiovascular,N/A,Withdrawn,Drug,Johnson & Johnson,246,35,False,True,False
+NCT2013000828,2018,Neurology,Phase 2,Completed,Biological,AbbVie,358,28,False,False,True
+NCT2013000829,2024,Immunology/Autoimmune,Phase 1,Terminated,Drug,Boehringer Ingelheim,26,11,False,True,True
+NCT2013000830,2017,Cardiovascular,N/A,"Active, not recruiting",Drug,Merck,178,20,False,True,True
+NCT2013000831,2023,Oncology,Phase 1,Completed,Biological,Novartis,19,19,False,True,True
+NCT2013000832,2021,Immunology/Autoimmune,Phase 4,Recruiting,Behavioral,Amgen,103,22,False,False,True
+NCT2013000833,2013,Oncology,Phase 2,Completed,Biological,Boehringer Ingelheim,60,19,False,True,False
+NCT2013000834,2019,Respiratory,Phase 4,Terminated,Drug,Regional Hospital,768,10,False,False,True
+NCT2013000835,2017,Oncology,Phase 2,Unknown,Behavioral,Boehringer Ingelheim,32,16,False,False,True
+NCT2013000836,2017,Cardiovascular,Phase 4,Recruiting,Drug,Bayer,119,12,False,False,True
+NCT2013000837,2014,Diabetes/Metabolic,Phase 1,"Active, not recruiting",Drug,Eli Lilly,105,11,False,False,False
+NCT2013000838,2023,Oncology,Phase 3,"Active, not recruiting",Drug,Pfizer,384,20,False,True,False
+NCT2013000839,2015,Oncology,Phase 3,Recruiting,Drug,Bristol-Myers Squibb,227,27,False,True,True
+NCT2013000840,2019,Cardiovascular,Phase 3,Completed,Biological,Biotech Startup,483,20,False,False,True
+NCT2013000841,2018,Diabetes/Metabolic,Phase 2,Withdrawn,Drug,Pfizer,108,14,False,False,False
+NCT2013000842,2024,Cardiovascular,Phase 1,Terminated,Drug,NIH,34,8,False,False,True
+NCT2013000843,2014,Oncology,Phase 3,Recruiting,Drug,Merck,535,8,False,True,False
+NCT2013000844,2018,Oncology,N/A,Recruiting,Drug,Regional Hospital,287,18,True,False,False
+NCT2013000845,2014,Cardiovascular,Phase 3,Completed,Drug,Eli Lilly,391,14,False,False,True
+NCT2013000846,2014,Immunology/Autoimmune,Phase 4,Completed,Drug,Sanofi,1515,16,False,False,False
+NCT2013000847,2014,Oncology,Phase 1,"Active, not recruiting",Drug,Bayer,29,12,True,True,False
+NCT2013000848,2023,Immunology/Autoimmune,Phase 2,Unknown,Behavioral,Roche,66,18,False,True,False
+NCT2013000849,2015,Cardiovascular,Phase 4,Withdrawn,Drug,Biotech Startup,196,18,False,False,False
+NCT2013000850,2014,Oncology,Phase 2,Recruiting,Drug,Biotech Startup,149,12,True,True,True
+NCT2013000851,2016,Rare Disease,Phase 2,"Active, not recruiting",Biological,Novartis,86,9,False,True,False
+NCT2013000852,2021,Immunology/Autoimmune,Phase 1,Completed,Biological,Roche,11,12,False,False,False
+NCT2013000853,2018,Neurology,Phase 2,Recruiting,Biological,Roche,92,29,False,False,True
+NCT2013000854,2013,Infectious Disease,Phase 3,Unknown,Procedure,Biotech Startup,211,17,False,True,True
+NCT2013000855,2020,Infectious Disease,Phase 3,Completed,Procedure,Bayer,1108,8,False,False,False
+NCT2013000856,2024,Respiratory,Phase 1,Terminated,Device,Merck,74,20,False,False,True
+NCT2013000857,2019,Infectious Disease,Phase 1,Completed,Device,Bayer,116,27,False,False,False
+NCT2013000858,2022,Oncology,Phase 1,Withdrawn,Drug,Merck,20,15,False,False,True
+NCT2013000859,2015,Cardiovascular,Phase 3,Unknown,Behavioral,Gilead,233,29,False,False,False
+NCT2013000860,2013,Cardiovascular,Phase 1,Terminated,Behavioral,Bristol-Myers Squibb,121,11,False,True,False
+NCT2013000861,2017,Neurology,Phase 1,Unknown,Drug,Merck,37,14,False,False,True
+NCT2013000862,2016,Other,Phase 3,Completed,Device,Eli Lilly,644,24,False,False,False
+NCT2013000863,2022,Cardiovascular,Phase 3,Completed,Biological,Bayer,109,17,False,False,False
+NCT2013000864,2020,Cardiovascular,Phase 1,Terminated,Biological,Boehringer Ingelheim,17,7,False,False,True
+NCT2013000865,2013,Oncology,Phase 3,Recruiting,Drug,Merck,99,15,False,False,True
+NCT2013000866,2022,Cardiovascular,Phase 1,Completed,Drug,Johnson & Johnson,36,26,True,False,True
+NCT2013000867,2013,Oncology,Phase 2,Completed,Drug,AbbVie,28,29,False,False,False
+NCT2013000868,2024,Oncology,Phase 2,Completed,Biological,Bristol-Myers Squibb,326,21,False,False,False
+NCT2013000869,2016,Diabetes/Metabolic,Phase 2,Recruiting,Biological,Regional Hospital,289,23,False,False,False
+NCT2013000870,2020,Neurology,Phase 2,Completed,Drug,Boehringer Ingelheim,98,14,False,True,False
+NCT2013000871,2017,Cardiovascular,Phase 3,Withdrawn,Behavioral,Merck,507,22,False,False,True
+NCT2013000872,2014,Neurology,Phase 2,Completed,Behavioral,Bristol-Myers Squibb,260,25,False,True,False
+NCT2013000873,2018,Neurology,Phase 1,Unknown,Biological,Amgen,53,25,False,True,True
+NCT2013000874,2017,Other,Phase 4,Recruiting,Biological,Bayer,105,36,False,True,False
+NCT2013000875,2014,Infectious Disease,Phase 3,Recruiting,Drug,Regional Hospital,545,15,False,False,False
+NCT2013000876,2023,Oncology,Phase 1,"Active, not recruiting",Procedure,Sanofi,14,18,False,False,False
+NCT2013000877,2023,Respiratory,Phase 3,Completed,Drug,Eli Lilly,439,34,False,False,False
+NCT2013000878,2023,Cardiovascular,Phase 1,"Active, not recruiting",Procedure,Biotech Startup,25,11,False,False,False
+NCT2013000879,2015,Respiratory,Phase 1,Completed,Drug,Eli Lilly,162,36,False,False,False
+NCT2013000880,2021,Rare Disease,Phase 3,Recruiting,Other,Johnson & Johnson,599,8,True,False,False
+NCT2013000881,2019,Immunology/Autoimmune,N/A,Terminated,Biological,Eli Lilly,231,22,False,False,False
+NCT2013000882,2019,Oncology,Phase 2,Unknown,Drug,Boehringer Ingelheim,40,71,False,True,True
+NCT2013000883,2023,Oncology,Phase 3,Completed,Device,Regional Hospital,241,14,False,True,True
+NCT2013000884,2018,Cardiovascular,Phase 2,Recruiting,Drug,NIH,66,46,False,False,True
+NCT2013000885,2020,Respiratory,N/A,Withdrawn,Drug,AbbVie,183,18,False,True,False
+NCT2013000886,2016,Neurology,Phase 1,"Active, not recruiting",Drug,Boehringer Ingelheim,95,37,False,False,False
+NCT2013000887,2020,Oncology,N/A,Recruiting,Procedure,Gilead,323,11,False,False,False
+NCT2013000888,2016,Immunology/Autoimmune,Phase 1,Terminated,Biological,Eli Lilly,14,40,False,False,False
+NCT2013000889,2020,Respiratory,Phase 1,Completed,Biological,GSK,25,16,False,False,False
+NCT2013000890,2021,Infectious Disease,Phase 2,Recruiting,Biological,AstraZeneca,87,17,False,True,False
+NCT2013000891,2015,Cardiovascular,Phase 2,"Active, not recruiting",Drug,NIH,83,20,False,False,True
+NCT2013000892,2015,Diabetes/Metabolic,Phase 2,Recruiting,Drug,Johnson & Johnson,55,67,True,True,False
+NCT2013000893,2023,Diabetes/Metabolic,Phase 3,"Active, not recruiting",Drug,Johnson & Johnson,797,20,True,False,True
+NCT2013000894,2014,Oncology,Phase 3,Completed,Drug,Sanofi,922,15,False,False,True
+NCT2013000895,2022,Cardiovascular,Phase 2,Terminated,Biological,Amgen,75,15,False,True,False
+NCT2013000896,2015,Diabetes/Metabolic,Phase 3,Completed,Drug,GSK,856,22,False,False,True
+NCT2013000897,2015,Rare Disease,Phase 3,Terminated,Biological,Johnson & Johnson,279,20,False,False,True
+NCT2013000898,2017,Rare Disease,Phase 2,"Active, not recruiting",Drug,Regional Hospital,94,25,False,False,True
+NCT2013000899,2017,Rare Disease,Phase 1,Unknown,Drug,Bayer,38,34,False,False,False
+NCT2013000900,2014,Oncology,Phase 2,Terminated,Biological,Biotech Startup,309,25,False,True,False
+NCT2013000901,2024,Cardiovascular,Phase 1,Completed,Biological,Boehringer Ingelheim,36,45,False,False,True
+NCT2013000902,2022,Mental Health,Phase 2,Completed,Drug,Eli Lilly,47,21,False,False,False
+NCT2013000903,2018,Oncology,Phase 1,Terminated,Drug,Academic Medical Center,55,15,False,False,True
+NCT2013000904,2017,Cardiovascular,Phase 1,Recruiting,Biological,NIH,25,17,False,False,True
+NCT2013000905,2018,Oncology,Phase 2,Completed,Biological,Johnson & Johnson,200,17,False,False,True
+NCT2013000906,2013,Oncology,Phase 1,"Active, not recruiting",Biological,Bristol-Myers Squibb,145,19,False,False,True
+NCT2013000907,2017,Rare Disease,Phase 3,Terminated,Drug,Johnson & Johnson,1579,8,False,False,True
+NCT2013000908,2021,Diabetes/Metabolic,Phase 4,Completed,Drug,Bristol-Myers Squibb,155,18,False,True,False
+NCT2013000909,2024,Oncology,Phase 1,Unknown,Behavioral,Sanofi,21,28,False,False,False
+NCT2013000910,2022,Cardiovascular,Phase 2,Unknown,Drug,Roche,25,85,False,False,True
+NCT2013000911,2014,Neurology,Phase 2,Unknown,Device,GSK,207,30,False,False,False
+NCT2013000912,2013,Oncology,Phase 4,Completed,Drug,Regional Hospital,37,12,False,False,False
+NCT2013000913,2022,Cardiovascular,Phase 3,Unknown,Biological,Merck,965,19,False,False,True
+NCT2013000914,2023,Mental Health,Phase 2,"Active, not recruiting",Behavioral,Gilead,71,18,False,False,False
+NCT2013000915,2021,Rare Disease,N/A,"Active, not recruiting",Procedure,Eli Lilly,257,16,False,False,True
+NCT2013000916,2022,Infectious Disease,Phase 4,Completed,Drug,Academic Medical Center,7,11,True,True,True
+NCT2013000917,2021,Mental Health,Phase 2,"Active, not recruiting",Drug,Biotech Startup,163,27,False,False,False
+NCT2013000918,2021,Diabetes/Metabolic,Phase 4,Completed,Drug,Sanofi,61,40,False,True,True
+NCT2013000919,2018,Mental Health,Phase 3,Completed,Device,University Hospital,964,8,True,False,False
+NCT2013000920,2020,Neurology,Phase 1,Completed,Procedure,Eli Lilly,35,7,True,True,False
+NCT2013000921,2023,Immunology/Autoimmune,Phase 2,Withdrawn,Drug,Eli Lilly,57,16,False,False,True
+NCT2013000922,2013,Infectious Disease,Phase 4,Withdrawn,Device,Pfizer,26,57,False,False,True
+NCT2013000923,2022,Other,Phase 3,Completed,Behavioral,University Hospital,624,29,False,False,True
+NCT2013000924,2016,Diabetes/Metabolic,Phase 3,"Active, not recruiting",Drug,Pfizer,92,23,False,False,False
+NCT2013000925,2013,Neurology,Phase 4,"Active, not recruiting",Drug,Eli Lilly,756,22,False,True,False
+NCT2013000926,2020,Immunology/Autoimmune,Phase 3,Terminated,Drug,Bristol-Myers Squibb,165,6,False,False,True
+NCT2013000927,2013,Other,Phase 2,Terminated,Other,Johnson & Johnson,110,27,False,True,False
+NCT2013000928,2015,Immunology/Autoimmune,Phase 2,Completed,Biological,Eli Lilly,169,16,False,False,True
+NCT2013000929,2016,Diabetes/Metabolic,N/A,Completed,Drug,Academic Medical Center,249,12,False,True,False
+NCT2013000930,2020,Oncology,Phase 1,Terminated,Device,Biotech Startup,31,9,False,False,False
+NCT2013000931,2018,Oncology,Phase 2,"Active, not recruiting",Procedure,NIH,92,21,False,False,False
+NCT2013000932,2022,Infectious Disease,Phase 1,"Active, not recruiting",Drug,Johnson & Johnson,15,32,False,True,True
+NCT2013000933,2024,Mental Health,Phase 3,Completed,Drug,Amgen,360,7,False,False,False
+NCT2013000934,2019,Diabetes/Metabolic,Phase 3,"Active, not recruiting",Drug,Academic Medical Center,179,17,False,False,False
+NCT2013000935,2020,Cardiovascular,Phase 2,Terminated,Procedure,Sanofi,54,19,False,False,False
+NCT2013000936,2014,Infectious Disease,Phase 1,Completed,Biological,AstraZeneca,76,17,False,False,False
+NCT2013000937,2022,Rare Disease,Phase 2,Completed,Drug,AstraZeneca,46,13,False,False,True
+NCT2013000938,2023,Diabetes/Metabolic,Phase 2,Unknown,Procedure,Bristol-Myers Squibb,101,35,False,True,True
+NCT2013000939,2020,Cardiovascular,Phase 4,"Active, not recruiting",Drug,AbbVie,57,12,False,False,True
+NCT2013000940,2015,Oncology,N/A,Recruiting,Drug,Roche,74,15,False,True,False
+NCT2013000941,2019,Oncology,Phase 3,Withdrawn,Drug,Regional Hospital,213,31,False,False,True
+NCT2013000942,2015,Cardiovascular,Phase 2,Recruiting,Device,Pfizer,146,45,True,False,True
+NCT2013000943,2019,Oncology,Phase 3,Recruiting,Drug,Pfizer,308,9,True,False,True
+NCT2013000944,2023,Mental Health,Phase 3,Unknown,Device,Amgen,32,29,False,False,False
+NCT2013000945,2024,Oncology,Phase 2,Unknown,Drug,Sanofi,32,24,True,False,True
+NCT2013000946,2014,Infectious Disease,Phase 3,Completed,Drug,Regional Hospital,221,25,False,False,True
+NCT2013000947,2022,Mental Health,Phase 2,Unknown,Drug,AstraZeneca,71,31,False,False,True
+NCT2013000948,2018,Oncology,Phase 1,Completed,Procedure,University Hospital,71,24,False,False,False
+NCT2013000949,2015,Diabetes/Metabolic,Phase 3,Recruiting,Other,Bristol-Myers Squibb,138,14,False,False,True
+NCT2013000950,2015,Neurology,Phase 3,"Active, not recruiting",Drug,Johnson & Johnson,770,18,False,False,False
+NCT2013000951,2021,Neurology,Phase 2,Completed,Behavioral,Biotech Startup,41,32,False,True,True
+NCT2013000952,2019,Oncology,Phase 3,Terminated,Biological,Bristol-Myers Squibb,1135,25,False,True,False
+NCT2013000953,2017,Infectious Disease,Phase 4,Completed,Biological,Bayer,478,17,False,True,True
+NCT2013000954,2024,Cardiovascular,Phase 1,Unknown,Drug,University Hospital,29,12,False,False,True
+NCT2013000955,2022,Cardiovascular,N/A,Completed,Biological,Pfizer,529,21,False,True,False
+NCT2013000956,2019,Neurology,N/A,Recruiting,Procedure,Biotech Startup,561,18,False,True,False
+NCT2013000957,2021,Immunology/Autoimmune,Phase 1,Unknown,Drug,Pfizer,20,4,False,True,False
+NCT2013000958,2013,Oncology,Phase 1,Recruiting,Drug,Biotech Startup,36,19,False,True,True
+NCT2013000959,2019,Oncology,Phase 2,Completed,Biological,Johnson & Johnson,216,11,False,True,True
+NCT2013000960,2018,Oncology,N/A,"Active, not recruiting",Device,Bristol-Myers Squibb,855,15,False,False,True
+NCT2013000961,2022,Cardiovascular,Phase 2,Completed,Drug,University Hospital,38,23,False,False,True
+NCT2013000962,2024,Infectious Disease,Phase 2,Completed,Drug,Merck,105,41,False,True,False
+NCT2013000963,2021,Immunology/Autoimmune,Phase 3,Unknown,Drug,Bristol-Myers Squibb,629,7,False,True,False
+NCT2013000964,2013,Infectious Disease,Phase 4,Completed,Drug,AbbVie,612,14,False,False,True
+NCT2013000965,2016,Respiratory,Phase 1,Completed,Behavioral,Boehringer Ingelheim,35,13,False,False,True
+NCT2013000966,2021,Immunology/Autoimmune,Phase 4,Unknown,Drug,Boehringer Ingelheim,112,12,False,False,True
+NCT2013000967,2016,Neurology,Phase 3,Recruiting,Other,Bayer,42,11,False,True,False
+NCT2013000968,2022,Infectious Disease,Phase 3,Terminated,Behavioral,Roche,868,44,False,False,True
+NCT2013000969,2015,Oncology,Phase 4,Completed,Drug,Roche,557,17,False,True,False
+NCT2013000970,2021,Oncology,Phase 1,"Active, not recruiting",Procedure,Gilead,58,14,False,True,True
+NCT2013000971,2014,Diabetes/Metabolic,Phase 4,Recruiting,Drug,NIH,361,39,False,False,False
+NCT2013000972,2016,Respiratory,Phase 2,Recruiting,Drug,Johnson & Johnson,147,16,False,False,False
+NCT2013000973,2018,Respiratory,N/A,Completed,Drug,Pfizer,91,36,False,False,True
+NCT2013000974,2014,Oncology,Phase 1,Unknown,Drug,Boehringer Ingelheim,22,34,False,True,True
+NCT2013000975,2020,Cardiovascular,Phase 1,Unknown,Procedure,AbbVie,9,18,False,True,True
+NCT2013000976,2020,Cardiovascular,Phase 2,Withdrawn,Behavioral,Sanofi,70,64,False,True,True
+NCT2013000977,2013,Immunology/Autoimmune,Phase 2,Completed,Biological,Novartis,76,19,False,False,False
+NCT2013000978,2024,Other,N/A,"Active, not recruiting",Device,University Hospital,321,16,False,False,False
+NCT2013000979,2015,Rare Disease,Phase 3,Completed,Drug,Bristol-Myers Squibb,290,15,False,False,True
+NCT2013000980,2022,Oncology,Phase 1,Unknown,Drug,Novartis,33,9,False,True,False
+NCT2013000981,2021,Rare Disease,Phase 1,Completed,Drug,GSK,79,24,False,False,True
+NCT2013000982,2017,Cardiovascular,Phase 1,Completed,Biological,Biotech Startup,18,19,False,False,False
+NCT2013000983,2018,Cardiovascular,Phase 4,Completed,Drug,Novartis,211,14,False,True,True
+NCT2013000984,2016,Infectious Disease,Phase 1,Recruiting,Drug,AstraZeneca,32,35,False,True,True
+NCT2013000985,2022,Neurology,Phase 3,Recruiting,Device,Amgen,237,12,False,False,True
+NCT2013000986,2014,Other,Phase 2,Terminated,Drug,Pfizer,25,15,False,True,True
+NCT2013000987,2023,Oncology,Phase 2,Recruiting,Drug,NIH,121,27,False,False,False
+NCT2013000988,2020,Oncology,Phase 3,Recruiting,Biological,Merck,459,12,True,True,True
+NCT2013000989,2023,Oncology,Phase 1,Withdrawn,Drug,Roche,27,16,False,False,False
+NCT2013000990,2018,Diabetes/Metabolic,Phase 2,"Active, not recruiting",Behavioral,Regional Hospital,301,25,False,False,False
+NCT2013000991,2017,Rare Disease,Phase 3,Completed,Drug,Roche,364,10,False,True,True
+NCT2013000992,2021,Oncology,Phase 2,Completed,Drug,Biotech Startup,114,15,False,True,True
+NCT2013000993,2013,Oncology,Phase 1,Terminated,Drug,Biotech Startup,169,27,False,False,False
+NCT2013000994,2017,Mental Health,Phase 3,Completed,Drug,GSK,185,10,False,False,False
+NCT2013000995,2018,Respiratory,Phase 2,Completed,Drug,Pfizer,103,12,False,False,False
+NCT2013000996,2017,Other,N/A,Completed,Procedure,Regional Hospital,83,32,False,False,True
+NCT2013000997,2018,Respiratory,Phase 2,Unknown,Drug,NIH,205,15,False,False,True
+NCT2013000998,2018,Infectious Disease,Phase 1,Withdrawn,Drug,Bristol-Myers Squibb,34,18,False,False,False
+NCT2013000999,2019,Immunology/Autoimmune,Phase 3,Recruiting,Drug,AstraZeneca,1858,11,True,False,True
+NCT2013001000,2016,Cardiovascular,Phase 1,"Active, not recruiting",Drug,Roche,45,8,False,True,True
+NCT2013001001,2023,Oncology,Phase 1,Completed,Other,Gilead,39,27,False,False,False
+NCT2013001002,2020,Oncology,Phase 3,Unknown,Biological,Johnson & Johnson,48,13,False,False,False
+NCT2013001003,2019,Oncology,Phase 4,Completed,Other,Merck,208,24,False,True,True
+NCT2013001004,2021,Infectious Disease,Phase 2,Completed,Drug,Eli Lilly,155,11,False,False,True
+NCT2013001005,2019,Oncology,Phase 1,Completed,Behavioral,Biotech Startup,19,19,False,True,True
+NCT2013001006,2015,Immunology/Autoimmune,Phase 2,"Active, not recruiting",Other,Bayer,167,26,False,False,False
+NCT2013001007,2015,Neurology,Phase 2,Unknown,Drug,Merck,104,10,False,True,True
+NCT2013001008,2020,Immunology/Autoimmune,Phase 2,Recruiting,Procedure,GSK,42,24,False,True,True
+NCT2013001009,2017,Infectious Disease,Phase 2,Completed,Drug,University Hospital,76,12,False,True,True
+NCT2013001010,2016,Cardiovascular,N/A,"Active, not recruiting",Drug,Johnson & Johnson,216,18,False,False,False
+NCT2013001011,2020,Other,Phase 2,Withdrawn,Drug,Biotech Startup,81,34,False,True,False
+NCT2013001012,2018,Oncology,Phase 1,Recruiting,Biological,Regional Hospital,26,24,False,False,True
+NCT2013001013,2014,Cardiovascular,Phase 3,Recruiting,Drug,University Hospital,105,57,False,False,False
+NCT2013001014,2016,Oncology,Phase 1,"Active, not recruiting",Drug,Academic Medical Center,37,35,False,False,True
+NCT2013001015,2024,Cardiovascular,Phase 2,"Active, not recruiting",Device,AbbVie,63,13,False,False,False
+NCT2013001016,2023,Respiratory,Phase 1,Recruiting,Biological,Biotech Startup,47,20,False,True,False
+NCT2013001017,2016,Cardiovascular,Phase 4,Completed,Other,Sanofi,99,7,False,True,False
+NCT2013001018,2018,Infectious Disease,Phase 1,Completed,Drug,Novartis,43,41,False,False,False
+NCT2013001019,2018,Oncology,Phase 2,Completed,Behavioral,Amgen,27,24,False,True,False
+NCT2013001020,2013,Oncology,Phase 3,Withdrawn,Device,Bristol-Myers Squibb,180,47,False,False,True
+NCT2013001021,2020,Diabetes/Metabolic,Phase 2,Completed,Behavioral,Biotech Startup,88,19,True,False,False
+NCT2013001022,2018,Neurology,Phase 3,Recruiting,Other,Bristol-Myers Squibb,227,37,False,True,False
+NCT2013001023,2015,Oncology,Phase 3,Completed,Drug,Roche,2500,13,False,False,False
+NCT2013001024,2021,Mental Health,Phase 1,"Active, not recruiting",Drug,GSK,39,34,False,True,True
+NCT2013001025,2014,Neurology,Phase 1,Completed,Biological,Boehringer Ingelheim,25,9,False,True,True
+NCT2013001026,2023,Infectious Disease,Phase 2,Recruiting,Drug,Bristol-Myers Squibb,69,11,False,False,False
+NCT2013001027,2020,Rare Disease,Phase 2,Completed,Other,Gilead,34,10,False,True,False
+NCT2013001028,2022,Rare Disease,Phase 2,Recruiting,Drug,Novartis,72,15,False,False,False
+NCT2013001029,2015,Oncology,Phase 2,Unknown,Biological,Bristol-Myers Squibb,360,9,False,False,True
+NCT2013001030,2024,Respiratory,Phase 2,Completed,Device,Novartis,39,35,True,False,False
+NCT2013001031,2017,Neurology,Phase 2,Withdrawn,Other,Amgen,135,10,False,False,False
+NCT2013001032,2018,Oncology,Phase 1,Completed,Drug,NIH,23,17,False,True,True
+NCT2013001033,2022,Other,Phase 2,Completed,Drug,GSK,150,9,False,False,False
+NCT2013001034,2018,Other,Phase 2,"Active, not recruiting",Device,University Hospital,80,17,False,False,False
+NCT2013001035,2016,Immunology/Autoimmune,Phase 2,Withdrawn,Drug,University Hospital,231,68,False,False,True
+NCT2013001036,2015,Oncology,Phase 1,Unknown,Drug,Biotech Startup,71,9,False,True,True
+NCT2013001037,2016,Cardiovascular,Phase 3,Recruiting,Other,Johnson & Johnson,1511,32,False,True,False
+NCT2013001038,2013,Oncology,Phase 3,Recruiting,Drug,Biotech Startup,277,17,False,True,False
+NCT2013001039,2016,Cardiovascular,Phase 2,Unknown,Biological,Bristol-Myers Squibb,50,22,False,False,True
+NCT2013001040,2013,Diabetes/Metabolic,Phase 2,Completed,Drug,Gilead,154,42,False,False,True
+NCT2013001041,2024,Mental Health,Phase 1,Completed,Biological,Johnson & Johnson,31,25,False,False,True
+NCT2013001042,2013,Other,Phase 4,Unknown,Other,Bristol-Myers Squibb,233,10,False,True,False
+NCT2013001043,2022,Cardiovascular,Phase 3,Completed,Biological,GSK,567,12,False,True,False
+NCT2013001044,2018,Immunology/Autoimmune,Phase 1,Completed,Drug,Bayer,46,11,False,False,False
+NCT2013001045,2017,Cardiovascular,Phase 1,"Active, not recruiting",Drug,Amgen,82,18,False,False,True
+NCT2013001046,2023,Cardiovascular,Phase 2,Unknown,Device,Novartis,28,10,False,False,False
+NCT2013001047,2016,Neurology,Phase 2,Recruiting,Drug,University Hospital,91,79,False,False,True
+NCT2013001048,2023,Rare Disease,Phase 3,Terminated,Drug,Amgen,463,25,True,False,True
+NCT2013001049,2015,Oncology,Phase 3,Withdrawn,Drug,Pfizer,55,29,False,False,False
+NCT2013001050,2013,Other,Phase 3,Completed,Drug,Roche,325,24,False,False,True
+NCT2013001051,2018,Neurology,N/A,"Active, not recruiting",Behavioral,GSK,47,18,False,True,False
+NCT2013001052,2014,Mental Health,N/A,Recruiting,Drug,AstraZeneca,30,24,False,False,False
+NCT2013001053,2020,Oncology,Phase 4,Recruiting,Other,Gilead,95,17,False,False,False
+NCT2013001054,2022,Oncology,Phase 1,Completed,Drug,Sanofi,23,31,False,True,False
+NCT2013001055,2017,Oncology,N/A,Completed,Drug,Boehringer Ingelheim,72,32,False,False,False
+NCT2013001056,2019,Cardiovascular,Phase 2,Completed,Drug,Merck,211,11,True,False,False
+NCT2013001057,2022,Oncology,Phase 1,Recruiting,Drug,Johnson & Johnson,34,18,False,False,True
+NCT2013001058,2024,Immunology/Autoimmune,Phase 2,Terminated,Drug,AstraZeneca,267,22,False,False,False
+NCT2013001059,2014,Other,Phase 3,Completed,Drug,NIH,292,30,False,False,False
+NCT2013001060,2020,Immunology/Autoimmune,Phase 2,"Active, not recruiting",Drug,Pfizer,59,21,False,True,True
+NCT2013001061,2014,Diabetes/Metabolic,Phase 2,Completed,Drug,Roche,62,15,False,False,False
+NCT2013001062,2016,Oncology,Phase 1,Completed,Drug,Amgen,48,19,False,False,False
+NCT2013001063,2013,Diabetes/Metabolic,Phase 2,"Active, not recruiting",Biological,Gilead,67,14,False,False,False
+NCT2013001064,2017,Rare Disease,Phase 3,Recruiting,Device,AbbVie,768,11,True,False,True
+NCT2013001065,2021,Oncology,N/A,Recruiting,Drug,Pfizer,139,20,False,False,True
+NCT2013001066,2013,Immunology/Autoimmune,Phase 3,Completed,Drug,Johnson & Johnson,459,22,False,False,False
+NCT2013001067,2021,Neurology,Phase 4,Completed,Drug,Gilead,41,44,False,False,False
+NCT2013001068,2023,Cardiovascular,Phase 1,Terminated,Drug,Amgen,7,7,False,False,False
+NCT2013001069,2020,Infectious Disease,Phase 1,Completed,Drug,AstraZeneca,43,17,False,False,False
+NCT2013001070,2018,Oncology,N/A,Completed,Procedure,Boehringer Ingelheim,78,12,False,False,True
+NCT2013001071,2019,Oncology,Phase 1,"Active, not recruiting",Behavioral,Sanofi,96,23,False,False,False
+NCT2013001072,2015,Oncology,Phase 3,"Active, not recruiting",Procedure,Eli Lilly,157,17,False,True,False
+NCT2013001073,2013,Oncology,Phase 2,Recruiting,Device,Merck,154,12,False,False,False
+NCT2013001074,2017,Respiratory,Phase 2,Completed,Drug,Novartis,181,15,False,False,True
+NCT2013001075,2024,Respiratory,Phase 2,"Active, not recruiting",Drug,AbbVie,50,33,False,False,True
+NCT2013001076,2024,Oncology,Phase 2,"Active, not recruiting",Drug,Boehringer Ingelheim,104,27,False,False,False
+NCT2013001077,2014,Immunology/Autoimmune,Phase 3,Unknown,Drug,GSK,173,23,False,False,False
+NCT2013001078,2017,Respiratory,Phase 1,Recruiting,Drug,AstraZeneca,30,21,False,False,False
+NCT2013001079,2020,Oncology,Phase 1,Recruiting,Drug,Biotech Startup,55,33,False,False,False
+NCT2013001080,2023,Cardiovascular,Phase 3,Completed,Drug,Amgen,497,37,False,True,False
+NCT2013001081,2021,Respiratory,Phase 1,"Active, not recruiting",Biological,GSK,51,21,False,False,True
+NCT2013001082,2014,Cardiovascular,Phase 1,Completed,Drug,AstraZeneca,21,26,False,False,False
+NCT2013001083,2024,Cardiovascular,Phase 2,Completed,Biological,Sanofi,73,24,False,False,False
+NCT2013001084,2015,Cardiovascular,Phase 2,"Active, not recruiting",Biological,AstraZeneca,79,24,False,False,True
+NCT2013001085,2015,Neurology,Phase 1,"Active, not recruiting",Procedure,Roche,34,20,False,False,False
+NCT2013001086,2013,Cardiovascular,Phase 1,Completed,Drug,NIH,32,23,False,False,False
+NCT2013001087,2020,Neurology,Phase 3,Recruiting,Drug,Gilead,2058,17,True,False,False
+NCT2013001088,2018,Infectious Disease,Phase 1,Completed,Biological,Merck,29,7,True,True,True
+NCT2013001089,2024,Neurology,Phase 3,Completed,Biological,Roche,377,25,False,False,True
+NCT2013001090,2020,Oncology,Phase 3,Completed,Drug,Eli Lilly,383,17,False,True,False
+NCT2013001091,2023,Oncology,Phase 4,Terminated,Biological,GSK,42,16,True,False,True
+NCT2013001092,2021,Cardiovascular,N/A,Unknown,Biological,Bristol-Myers Squibb,31,21,False,False,False
+NCT2013001093,2017,Mental Health,Phase 2,Recruiting,Drug,Bayer,56,11,False,True,True
+NCT2013001094,2024,Rare Disease,Phase 2,Completed,Drug,Biotech Startup,214,32,False,False,False
+NCT2013001095,2015,Respiratory,Phase 2,Recruiting,Drug,Roche,142,13,False,True,True
+NCT2013001096,2017,Neurology,N/A,Completed,Other,Eli Lilly,282,35,False,False,False
+NCT2013001097,2017,Immunology/Autoimmune,Phase 4,Terminated,Procedure,Boehringer Ingelheim,635,51,False,False,True
+NCT2013001098,2017,Infectious Disease,Phase 3,Completed,Drug,Regional Hospital,57,20,False,False,False
+NCT2013001099,2015,Neurology,Phase 2,"Active, not recruiting",Behavioral,GSK,49,7,False,False,True
+NCT2013001100,2023,Oncology,Phase 3,Completed,Drug,Merck,582,47,False,True,False
+NCT2013001101,2022,Oncology,Phase 1,Unknown,Drug,Sanofi,39,7,False,False,True
+NCT2013001102,2016,Other,Phase 2,Completed,Drug,Academic Medical Center,72,29,False,True,True
+NCT2013001103,2021,Oncology,Phase 2,Recruiting,Procedure,NIH,153,40,False,False,False
+NCT2013001104,2022,Neurology,Phase 1,Completed,Procedure,Bristol-Myers Squibb,20,26,False,False,True
+NCT2013001105,2021,Oncology,Phase 2,Recruiting,Other,Gilead,51,20,False,False,True
+NCT2013001106,2014,Infectious Disease,N/A,"Active, not recruiting",Drug,Biotech Startup,193,10,False,False,False
+NCT2013001107,2020,Immunology/Autoimmune,Phase 2,Withdrawn,Biological,Bayer,93,23,True,True,True
+NCT2013001108,2020,Cardiovascular,Phase 1,Recruiting,Drug,Pfizer,19,11,False,False,False
+NCT2013001109,2019,Infectious Disease,Phase 3,Withdrawn,Behavioral,Sanofi,324,37,False,True,False
+NCT2013001110,2020,Cardiovascular,N/A,Withdrawn,Biological,Pfizer,326,20,False,True,True
+NCT2013001111,2015,Cardiovascular,Phase 3,Completed,Other,Eli Lilly,808,14,False,False,False
+NCT2013001112,2018,Immunology/Autoimmune,Phase 4,Completed,Biological,Biotech Startup,58,46,False,False,False
+NCT2013001113,2013,Oncology,Phase 3,Recruiting,Device,Johnson & Johnson,391,20,True,True,False
+NCT2013001114,2019,Cardiovascular,Phase 3,Completed,Drug,Biotech Startup,147,16,False,True,True
+NCT2013001115,2013,Cardiovascular,Phase 2,Completed,Device,AbbVie,33,18,False,False,False
+NCT2013001116,2021,Neurology,N/A,Completed,Drug,Boehringer Ingelheim,89,14,False,True,False
+NCT2013001117,2013,Oncology,N/A,Completed,Biological,Roche,269,11,False,True,False
+NCT2013001118,2013,Oncology,Phase 3,"Active, not recruiting",Drug,Gilead,655,11,False,False,True
+NCT2013001119,2019,Oncology,Phase 4,Completed,Device,Biotech Startup,66,9,False,False,False
+NCT2013001120,2014,Oncology,Phase 1,Completed,Drug,Biotech Startup,15,14,False,False,False
+NCT2013001121,2017,Oncology,Phase 2,Recruiting,Drug,Boehringer Ingelheim,73,14,False,False,False
+NCT2013001122,2020,Diabetes/Metabolic,Phase 2,Terminated,Drug,Merck,65,26,False,True,True
+NCT2013001123,2020,Immunology/Autoimmune,Phase 1,Completed,Procedure,Biotech Startup,33,10,False,False,True
+NCT2013001124,2015,Immunology/Autoimmune,Phase 1,Withdrawn,Drug,Bristol-Myers Squibb,91,54,False,True,False
+NCT2013001125,2019,Rare Disease,Phase 2,"Active, not recruiting",Behavioral,Roche,91,38,False,False,True
+NCT2013001126,2015,Diabetes/Metabolic,Phase 1,Terminated,Drug,Sanofi,10,16,False,False,False
+NCT2013001127,2018,Diabetes/Metabolic,Phase 2,Completed,Drug,Pfizer,64,9,False,False,True
+NCT2013001128,2018,Diabetes/Metabolic,Phase 3,Completed,Drug,Boehringer Ingelheim,938,32,False,False,False
+NCT2013001129,2015,Oncology,Phase 2,Completed,Drug,Pfizer,46,14,False,False,True
+NCT2013001130,2019,Mental Health,Phase 3,Completed,Device,Biotech Startup,659,45,False,True,True
+NCT2013001131,2015,Cardiovascular,Phase 1,Recruiting,Biological,Sanofi,84,29,False,False,True
+NCT2013001132,2020,Mental Health,Phase 2,Unknown,Drug,Merck,113,9,False,False,True
+NCT2013001133,2022,Oncology,Phase 2,Recruiting,Drug,Bayer,49,38,False,False,False
+NCT2013001134,2016,Neurology,Phase 2,Completed,Biological,Bayer,23,21,False,True,False
+NCT2013001135,2013,Cardiovascular,Phase 4,Recruiting,Drug,Gilead,926,28,False,False,True
+NCT2013001136,2016,Immunology/Autoimmune,Phase 2,Recruiting,Device,Regional Hospital,96,7,False,False,True
+NCT2013001137,2019,Diabetes/Metabolic,Phase 3,Recruiting,Drug,Bayer,377,18,False,False,False
+NCT2013001138,2023,Infectious Disease,Phase 4,Completed,Device,Pfizer,272,16,False,False,True
+NCT2013001139,2016,Cardiovascular,Phase 1,Completed,Biological,AstraZeneca,13,10,False,False,False
+NCT2013001140,2018,Infectious Disease,Phase 4,Unknown,Other,Amgen,67,60,False,True,True
+NCT2013001141,2021,Cardiovascular,Phase 3,"Active, not recruiting",Drug,Amgen,109,7,False,True,True
+NCT2013001142,2013,Neurology,Phase 1,Completed,Drug,Biotech Startup,37,10,False,False,False
+NCT2013001143,2017,Rare Disease,Phase 1,Completed,Behavioral,Roche,71,10,False,True,True
+NCT2013001144,2023,Mental Health,Phase 4,Unknown,Device,Biotech Startup,66,19,False,False,False
+NCT2013001145,2019,Respiratory,Phase 4,Completed,Drug,Roche,82,35,False,True,False
+NCT2013001146,2013,Respiratory,Phase 2,Terminated,Drug,Eli Lilly,83,23,False,False,False
+NCT2013001147,2016,Infectious Disease,Phase 1,Terminated,Drug,NIH,28,31,False,False,True
+NCT2013001148,2018,Respiratory,Phase 2,"Active, not recruiting",Biological,Bayer,64,11,False,True,False
+NCT2013001149,2014,Cardiovascular,Phase 1,Recruiting,Drug,Novartis,13,26,False,False,False
+NCT2013001150,2022,Other,Phase 3,Recruiting,Biological,Johnson & Johnson,446,18,False,False,True
+NCT2013001151,2017,Cardiovascular,Phase 1,Unknown,Drug,Eli Lilly,95,16,False,True,False
+NCT2013001152,2023,Respiratory,Phase 1,Completed,Biological,GSK,34,29,False,False,False
+NCT2013001153,2022,Rare Disease,Phase 1,Completed,Drug,Sanofi,12,67,False,True,False
+NCT2013001154,2013,Cardiovascular,Phase 2,Recruiting,Drug,Biotech Startup,102,22,False,False,True
+NCT2013001155,2018,Respiratory,Phase 2,Terminated,Drug,GSK,55,10,False,True,False
+NCT2013001156,2018,Infectious Disease,Phase 1,Terminated,Drug,Bristol-Myers Squibb,53,48,False,False,True
+NCT2013001157,2016,Respiratory,Phase 3,Completed,Drug,Novartis,149,16,False,False,False
+NCT2013001158,2020,Neurology,Phase 2,Withdrawn,Behavioral,Roche,32,16,True,False,False
+NCT2013001159,2016,Neurology,Phase 2,Withdrawn,Biological,AstraZeneca,55,33,False,True,False
+NCT2013001160,2020,Neurology,Phase 2,Unknown,Behavioral,GSK,52,13,False,False,True
+NCT2013001161,2020,Neurology,Phase 1,Completed,Drug,Eli Lilly,30,9,False,True,False
+NCT2013001162,2017,Oncology,Phase 2,Recruiting,Device,Roche,71,28,False,True,True
+NCT2013001163,2016,Infectious Disease,Phase 2,Recruiting,Drug,GSK,159,15,True,False,False
+NCT2013001164,2024,Immunology/Autoimmune,Phase 1,Terminated,Drug,Amgen,70,37,False,False,False
+NCT2013001165,2014,Infectious Disease,Phase 3,"Active, not recruiting",Biological,Bayer,2014,30,False,False,True
+NCT2013001166,2023,Other,Phase 1,Completed,Drug,Johnson & Johnson,114,39,True,False,True
+NCT2013001167,2015,Rare Disease,Phase 2,Recruiting,Drug,Biotech Startup,73,53,False,True,True
+NCT2013001168,2015,Rare Disease,Phase 1,Recruiting,Drug,Biotech Startup,9,32,False,False,False
+NCT2013001169,2016,Other,Phase 3,Completed,Device,GSK,508,10,True,False,True
+NCT2013001170,2016,Oncology,Phase 3,Unknown,Device,AbbVie,185,13,False,False,True
+NCT2013001171,2022,Oncology,Phase 2,Terminated,Drug,AstraZeneca,68,39,False,False,False
+NCT2013001172,2023,Respiratory,Phase 2,Completed,Drug,Biotech Startup,85,13,False,False,False
+NCT2013001173,2023,Cardiovascular,Phase 1,Withdrawn,Device,AbbVie,22,11,False,False,False
+NCT2013001174,2017,Oncology,Phase 1,"Active, not recruiting",Biological,Novartis,26,27,False,False,False
+NCT2013001175,2016,Oncology,Phase 3,Completed,Biological,Bristol-Myers Squibb,189,13,False,True,False
+NCT2013001176,2023,Other,Phase 1,Terminated,Drug,Novartis,21,19,False,False,True
+NCT2013001177,2022,Respiratory,Phase 2,Unknown,Procedure,Sanofi,133,28,False,False,False
+NCT2013001178,2020,Oncology,N/A,"Active, not recruiting",Drug,AbbVie,56,12,False,True,True
+NCT2013001179,2018,Immunology/Autoimmune,Phase 2,Withdrawn,Biological,Biotech Startup,126,23,False,False,True
+NCT2013001180,2018,Oncology,N/A,Recruiting,Drug,Merck,618,18,False,False,True
+NCT2013001181,2020,Oncology,Phase 2,Completed,Drug,Gilead,113,10,True,True,True
+NCT2013001182,2019,Oncology,N/A,Recruiting,Drug,Pfizer,701,8,False,False,True
+NCT2013001183,2022,Immunology/Autoimmune,Phase 3,Recruiting,Device,Roche,553,21,False,True,True
+NCT2013001184,2023,Neurology,Phase 2,Recruiting,Drug,Roche,118,13,False,False,True
+NCT2013001185,2024,Cardiovascular,Phase 2,Completed,Drug,Bristol-Myers Squibb,94,34,False,False,False
+NCT2013001186,2022,Neurology,Phase 3,Terminated,Drug,Amgen,698,9,False,False,True
+NCT2013001187,2020,Mental Health,Phase 2,Recruiting,Drug,Gilead,225,11,True,True,False
+NCT2013001188,2014,Immunology/Autoimmune,Phase 3,Completed,Procedure,Boehringer Ingelheim,967,29,False,False,True
+NCT2013001189,2021,Immunology/Autoimmune,N/A,"Active, not recruiting",Behavioral,Bayer,104,15,False,False,True
+NCT2013001190,2013,Oncology,Phase 4,Recruiting,Procedure,GSK,260,16,False,False,False
+NCT2013001191,2020,Oncology,Phase 4,Completed,Drug,Boehringer Ingelheim,41,18,False,True,True
+NCT2013001192,2024,Rare Disease,Phase 3,Completed,Other,Amgen,99,35,True,False,False
+NCT2013001193,2023,Oncology,Phase 2,Completed,Procedure,Novartis,63,17,False,False,False
+NCT2013001194,2024,Cardiovascular,N/A,"Active, not recruiting",Drug,Merck,93,22,False,False,True
+NCT2013001195,2024,Infectious Disease,Phase 3,Terminated,Procedure,NIH,127,21,False,False,True
+NCT2013001196,2016,Immunology/Autoimmune,Phase 1,Completed,Drug,Biotech Startup,28,18,False,True,True
+NCT2013001197,2016,Cardiovascular,Phase 1,Terminated,Drug,Biotech Startup,15,24,False,False,False
+NCT2013001198,2017,Neurology,Phase 1,Terminated,Procedure,Eli Lilly,38,14,False,False,False
+NCT2013001199,2020,Respiratory,Phase 3,Completed,Drug,Biotech Startup,341,23,True,False,True
+NCT2013001200,2017,Oncology,Phase 3,Recruiting,Drug,Gilead,200,10,True,True,True
+NCT2013001201,2020,Oncology,Phase 2,Recruiting,Device,Merck,92,20,False,False,True
+NCT2013001202,2022,Oncology,Phase 1,Completed,Drug,Novartis,41,11,False,False,True
+NCT2013001203,2013,Infectious Disease,Phase 3,Completed,Behavioral,GSK,1402,11,False,False,False
+NCT2013001204,2024,Neurology,Phase 3,Terminated,Procedure,Biotech Startup,408,26,False,False,True
+NCT2013001205,2022,Mental Health,Phase 2,Completed,Biological,Boehringer Ingelheim,63,11,True,True,False
+NCT2013001206,2021,Neurology,Phase 1,"Active, not recruiting",Drug,Pfizer,23,15,False,False,True
+NCT2013001207,2018,Other,Phase 2,"Active, not recruiting",Procedure,Gilead,126,47,False,True,True
+NCT2013001208,2015,Oncology,Phase 3,Terminated,Drug,Academic Medical Center,624,8,False,True,False
+NCT2013001209,2020,Oncology,Phase 2,Withdrawn,Drug,Gilead,40,10,False,False,True
+NCT2013001210,2021,Oncology,Phase 3,"Active, not recruiting",Drug,Pfizer,841,34,False,False,False
+NCT2013001211,2018,Oncology,Phase 3,"Active, not recruiting",Biological,Bristol-Myers Squibb,166,11,False,False,False
+NCT2013001212,2023,Cardiovascular,Phase 2,Completed,Drug,Amgen,242,36,False,False,True
+NCT2013001213,2019,Oncology,Phase 3,Completed,Drug,AbbVie,914,23,True,False,False
+NCT2013001214,2013,Cardiovascular,Phase 2,Terminated,Drug,Gilead,82,21,False,False,False
+NCT2013001215,2017,Oncology,Phase 2,Completed,Drug,Regional Hospital,53,21,False,False,False
+NCT2013001216,2017,Oncology,Phase 2,Recruiting,Behavioral,Novartis,39,50,True,True,False
+NCT2013001217,2022,Rare Disease,Phase 3,Terminated,Behavioral,NIH,151,70,False,False,False
+NCT2013001218,2016,Oncology,Phase 4,Completed,Drug,Johnson & Johnson,111,32,False,False,False
+NCT2013001219,2018,Neurology,Phase 2,Recruiting,Drug,Pfizer,556,59,False,True,False
+NCT2013001220,2019,Oncology,Phase 1,Terminated,Procedure,Regional Hospital,34,8,False,False,True
+NCT2013001221,2021,Other,Phase 1,Completed,Behavioral,GSK,25,43,False,False,False
+NCT2013001222,2013,Immunology/Autoimmune,Phase 2,Recruiting,Behavioral,AbbVie,82,13,False,False,True
+NCT2013001223,2018,Neurology,Phase 4,Completed,Drug,AstraZeneca,148,7,False,True,False
+NCT2013001224,2019,Infectious Disease,Phase 3,"Active, not recruiting",Biological,Sanofi,852,21,False,True,False
+NCT2013001225,2015,Oncology,Phase 3,Completed,Drug,University Hospital,762,13,False,False,True
+NCT2013001226,2020,Infectious Disease,Phase 2,Completed,Drug,GSK,51,25,False,True,True
+NCT2013001227,2017,Cardiovascular,Phase 1,"Active, not recruiting",Drug,University Hospital,20,13,False,True,True
+NCT2013001228,2021,Infectious Disease,Phase 4,Withdrawn,Procedure,Sanofi,156,18,False,True,True
+NCT2013001229,2017,Mental Health,Phase 1,Recruiting,Other,Eli Lilly,20,11,False,True,True
+NCT2013001230,2021,Cardiovascular,Phase 1,Completed,Drug,Merck,15,17,False,True,False
+NCT2013001231,2022,Immunology/Autoimmune,N/A,Withdrawn,Device,Gilead,328,16,False,True,False
+NCT2013001232,2016,Diabetes/Metabolic,N/A,Terminated,Biological,Biotech Startup,224,23,False,False,False
+NCT2013001233,2021,Oncology,Phase 2,Terminated,Behavioral,NIH,27,28,False,False,True
+NCT2013001234,2017,Neurology,Phase 1,Unknown,Drug,University Hospital,34,63,True,True,False
+NCT2013001235,2022,Oncology,Phase 1,Completed,Biological,NIH,36,41,False,False,False
+NCT2013001236,2021,Infectious Disease,Phase 2,"Active, not recruiting",Biological,Biotech Startup,132,10,False,False,False
+NCT2013001237,2015,Respiratory,Phase 3,"Active, not recruiting",Drug,Bayer,332,13,False,False,False
+NCT2013001238,2016,Neurology,Phase 1,"Active, not recruiting",Drug,Bristol-Myers Squibb,73,12,False,True,False
+NCT2013001239,2021,Neurology,Phase 2,Recruiting,Other,Biotech Startup,166,17,False,False,False
+NCT2013001240,2022,Oncology,Phase 2,"Active, not recruiting",Device,Biotech Startup,39,15,False,True,True
+NCT2013001241,2023,Rare Disease,N/A,Recruiting,Drug,Biotech Startup,41,11,False,True,False
+NCT2013001242,2018,Other,Phase 2,Completed,Drug,Novartis,164,20,False,True,True
+NCT2013001243,2014,Immunology/Autoimmune,Phase 1,Completed,Drug,Regional Hospital,24,19,False,True,True
+NCT2013001244,2019,Neurology,Phase 3,Completed,Drug,AbbVie,1212,15,False,True,False
+NCT2013001245,2014,Cardiovascular,Phase 1,Unknown,Biological,Biotech Startup,60,19,False,True,True
+NCT2013001246,2023,Neurology,Phase 2,Withdrawn,Drug,NIH,88,10,False,False,True
+NCT2013001247,2014,Cardiovascular,Phase 2,Terminated,Drug,Bayer,41,8,False,True,False
+NCT2013001248,2023,Oncology,Phase 3,Terminated,Drug,Bristol-Myers Squibb,529,11,False,True,True
+NCT2013001249,2013,Infectious Disease,Phase 2,Recruiting,Biological,Bristol-Myers Squibb,116,6,False,False,False
+NCT2013001250,2023,Neurology,Phase 1,"Active, not recruiting",Drug,AbbVie,32,5,True,False,False
+NCT2013001251,2023,Cardiovascular,Phase 2,Completed,Other,Bayer,108,24,False,True,True
+NCT2013001252,2024,Oncology,N/A,Recruiting,Drug,GSK,47,20,False,False,True
+NCT2013001253,2023,Oncology,N/A,"Active, not recruiting",Other,Academic Medical Center,210,10,False,False,False
+NCT2013001254,2015,Oncology,N/A,Terminated,Behavioral,University Hospital,104,18,False,False,False
+NCT2013001255,2018,Diabetes/Metabolic,Phase 2,Recruiting,Procedure,Merck,125,31,False,False,False
+NCT2013001256,2020,Rare Disease,Phase 4,Recruiting,Drug,Bristol-Myers Squibb,43,9,False,False,True
+NCT2013001257,2021,Diabetes/Metabolic,Phase 4,"Active, not recruiting",Drug,Merck,78,26,False,False,False
+NCT2013001258,2019,Infectious Disease,Phase 2,Terminated,Drug,Regional Hospital,152,29,False,False,False
+NCT2013001259,2016,Diabetes/Metabolic,Phase 1,Recruiting,Behavioral,Gilead,9,28,False,True,False
+NCT2013001260,2018,Neurology,Phase 3,Completed,Biological,Roche,241,34,False,False,True
+NCT2013001261,2017,Oncology,Phase 2,Completed,Device,Sanofi,61,25,False,False,True
+NCT2013001262,2020,Oncology,Phase 3,Completed,Device,Biotech Startup,475,17,False,False,True
+NCT2013001263,2013,Cardiovascular,Phase 3,Completed,Drug,Johnson & Johnson,169,26,False,False,True
+NCT2013001264,2013,Neurology,Phase 2,Recruiting,Drug,Merck,159,21,False,False,True
+NCT2013001265,2023,Oncology,Phase 2,Unknown,Procedure,AstraZeneca,113,7,False,False,True
+NCT2013001266,2018,Immunology/Autoimmune,Phase 2,Recruiting,Biological,Biotech Startup,111,18,False,False,True
+NCT2013001267,2022,Oncology,Phase 1,Completed,Procedure,Regional Hospital,43,53,False,False,False
+NCT2013001268,2024,Neurology,Phase 3,Recruiting,Biological,Roche,186,18,False,True,True
+NCT2013001269,2014,Respiratory,Phase 2,Recruiting,Biological,AbbVie,17,41,True,False,False
+NCT2013001270,2017,Cardiovascular,Phase 1,Recruiting,Other,AstraZeneca,50,18,True,False,False
+NCT2013001271,2013,Diabetes/Metabolic,Phase 2,Completed,Drug,GSK,217,20,False,False,False
+NCT2013001272,2019,Respiratory,Phase 4,"Active, not recruiting",Biological,Novartis,34,57,False,False,True
+NCT2013001273,2013,Immunology/Autoimmune,Phase 2,Completed,Drug,Sanofi,42,27,False,False,False
+NCT2013001274,2016,Immunology/Autoimmune,N/A,"Active, not recruiting",Other,Merck,25,25,False,False,True
+NCT2013001275,2021,Cardiovascular,Phase 2,Completed,Biological,Bristol-Myers Squibb,24,7,True,True,True
+NCT2013001276,2013,Diabetes/Metabolic,Phase 2,"Active, not recruiting",Behavioral,GSK,91,11,False,False,False
+NCT2013001277,2016,Respiratory,Phase 3,Completed,Drug,Johnson & Johnson,84,9,False,True,False
+NCT2013001278,2018,Other,Phase 3,Recruiting,Drug,Academic Medical Center,254,36,False,False,True
+NCT2013001279,2018,Diabetes/Metabolic,Phase 2,Recruiting,Behavioral,Merck,90,35,False,True,False
+NCT2013001280,2024,Cardiovascular,Phase 3,Completed,Drug,AstraZeneca,438,17,False,False,False
+NCT2013001281,2020,Mental Health,Phase 3,"Active, not recruiting",Drug,Academic Medical Center,320,20,False,False,False
+NCT2013001282,2013,Oncology,Phase 2,Unknown,Procedure,Gilead,80,32,False,True,False
+NCT2013001283,2019,Oncology,Phase 1,Completed,Drug,Roche,34,13,False,True,True
+NCT2013001284,2013,Neurology,Phase 3,Completed,Drug,Merck,341,39,False,False,False
+NCT2013001285,2019,Cardiovascular,Phase 2,"Active, not recruiting",Drug,AbbVie,109,16,False,False,False
+NCT2013001286,2015,Neurology,Phase 2,Completed,Drug,Roche,102,19,False,False,True
+NCT2013001287,2023,Respiratory,Phase 1,Recruiting,Drug,Roche,25,33,False,True,False
+NCT2013001288,2020,Cardiovascular,Phase 1,Recruiting,Drug,NIH,11,6,False,False,False
+NCT2013001289,2015,Cardiovascular,Phase 4,Recruiting,Device,Regional Hospital,213,35,False,False,False
+NCT2013001290,2013,Infectious Disease,Phase 2,Withdrawn,Drug,Johnson & Johnson,47,8,False,True,False
+NCT2013001291,2020,Respiratory,Phase 2,Completed,Drug,Biotech Startup,141,12,False,False,False
+NCT2013001292,2015,Immunology/Autoimmune,Phase 3,Unknown,Biological,Johnson & Johnson,714,35,False,False,False
+NCT2013001293,2014,Oncology,Phase 1,Recruiting,Device,Boehringer Ingelheim,35,17,False,True,True
+NCT2013001294,2013,Oncology,Phase 1,Completed,Drug,Biotech Startup,36,83,False,False,False
+NCT2013001295,2015,Diabetes/Metabolic,Phase 2,Completed,Behavioral,Novartis,47,27,False,True,False
+NCT2013001296,2014,Cardiovascular,Phase 2,"Active, not recruiting",Other,Pfizer,79,59,False,False,False
+NCT2013001297,2014,Cardiovascular,Phase 2,Recruiting,Drug,AstraZeneca,193,19,False,False,False
+NCT2013001298,2018,Neurology,Phase 1,Unknown,Device,Novartis,9,13,False,False,False
+NCT2013001299,2024,Neurology,Phase 1,Completed,Drug,Novartis,16,29,False,True,False
+NCT2013001300,2013,Mental Health,Phase 1,Unknown,Drug,Amgen,18,23,False,False,False
+NCT2013001301,2014,Cardiovascular,Phase 1,"Active, not recruiting",Drug,Eli Lilly,23,17,False,True,True
+NCT2013001302,2018,Cardiovascular,Phase 3,Completed,Biological,GSK,500,12,False,False,False
+NCT2013001303,2015,Oncology,Phase 2,Recruiting,Drug,AstraZeneca,343,28,False,False,False
+NCT2013001304,2016,Oncology,Phase 1,Terminated,Device,Biotech Startup,93,8,True,True,False
+NCT2013001305,2013,Oncology,Phase 3,Recruiting,Biological,AstraZeneca,1226,53,False,False,False
+NCT2013001306,2020,Other,Phase 4,Unknown,Drug,University Hospital,42,13,True,True,True
+NCT2013001307,2019,Other,Phase 1,"Active, not recruiting",Drug,Gilead,46,30,False,False,False
+NCT2013001308,2019,Immunology/Autoimmune,N/A,Withdrawn,Drug,Bayer,209,14,False,True,False
+NCT2013001309,2015,Neurology,Phase 1,Recruiting,Drug,Merck,22,7,False,True,True
+NCT2013001310,2022,Oncology,Phase 2,"Active, not recruiting",Drug,Biotech Startup,61,25,False,True,True
+NCT2013001311,2022,Neurology,Phase 2,Completed,Biological,Sanofi,129,14,False,True,False
+NCT2013001312,2015,Oncology,N/A,Completed,Drug,Academic Medical Center,122,16,False,True,False
+NCT2013001313,2014,Oncology,Phase 3,Recruiting,Drug,NIH,47,31,False,True,True
+NCT2013001314,2024,Oncology,Phase 4,Recruiting,Biological,Regional Hospital,465,21,True,True,True
+NCT2013001315,2013,Rare Disease,Phase 4,Completed,Biological,Biotech Startup,415,15,False,True,False
+NCT2013001316,2019,Oncology,Phase 2,Withdrawn,Biological,GSK,29,54,False,True,True
+NCT2013001317,2019,Oncology,Phase 3,Completed,Drug,AstraZeneca,768,14,False,False,False
+NCT2013001318,2024,Infectious Disease,Phase 3,"Active, not recruiting",Behavioral,Boehringer Ingelheim,600,15,False,False,True
+NCT2013001319,2014,Oncology,Phase 1,Completed,Biological,Eli Lilly,14,26,False,False,False
+NCT2013001320,2019,Mental Health,Phase 2,Unknown,Behavioral,Biotech Startup,36,39,False,False,False
+NCT2013001321,2020,Other,Phase 3,Completed,Behavioral,Gilead,523,26,False,True,False
+NCT2013001322,2013,Cardiovascular,Phase 4,Withdrawn,Drug,Johnson & Johnson,261,10,False,False,True
+NCT2013001323,2021,Oncology,Phase 2,Completed,Behavioral,Pfizer,49,25,False,False,False
+NCT2013001324,2019,Infectious Disease,Phase 3,"Active, not recruiting",Drug,Biotech Startup,332,23,False,True,False
+NCT2013001325,2015,Immunology/Autoimmune,Phase 2,Completed,Drug,GSK,106,51,False,False,True
+NCT2013001326,2020,Infectious Disease,Phase 1,Completed,Biological,Pfizer,26,35,False,False,False
+NCT2013001327,2019,Rare Disease,Phase 2,Recruiting,Drug,Biotech Startup,129,40,True,True,True
+NCT2013001328,2023,Cardiovascular,Phase 3,Completed,Biological,Gilead,368,19,False,True,False
+NCT2013001329,2020,Oncology,Phase 3,Unknown,Drug,Pfizer,765,26,False,False,False
+NCT2013001330,2018,Rare Disease,Phase 1,Completed,Behavioral,Merck,28,8,False,False,False
+NCT2013001331,2021,Diabetes/Metabolic,Phase 2,"Active, not recruiting",Drug,Academic Medical Center,99,40,False,False,True
+NCT2013001332,2017,Cardiovascular,Phase 3,"Active, not recruiting",Biological,Regional Hospital,184,11,False,False,False
+NCT2013001333,2015,Cardiovascular,Phase 1,Completed,Biological,Johnson & Johnson,25,5,False,False,False
+NCT2013001334,2015,Other,Phase 2,Recruiting,Device,Sanofi,157,9,False,False,True
+NCT2013001335,2013,Infectious Disease,Phase 3,Recruiting,Drug,GSK,420,10,False,False,True
+NCT2013001336,2024,Neurology,Phase 2,Terminated,Drug,Gilead,33,20,False,True,False
+NCT2013001337,2020,Infectious Disease,Phase 2,Unknown,Biological,AbbVie,163,15,False,True,False
+NCT2013001338,2014,Oncology,Phase 2,"Active, not recruiting",Biological,Biotech Startup,90,13,False,False,True
+NCT2013001339,2015,Immunology/Autoimmune,Phase 2,Terminated,Drug,Bristol-Myers Squibb,176,32,False,False,True
+NCT2013001340,2020,Respiratory,Phase 2,Recruiting,Drug,Novartis,27,9,False,False,False
+NCT2013001341,2020,Immunology/Autoimmune,Phase 2,Terminated,Drug,GSK,102,25,False,True,False
+NCT2013001342,2023,Oncology,Phase 4,Completed,Drug,GSK,113,48,False,True,False
+NCT2013001343,2016,Oncology,Phase 2,Terminated,Device,Bayer,97,36,False,True,False
+NCT2013001344,2016,Rare Disease,Phase 4,Completed,Biological,Bayer,115,16,False,False,True
+NCT2013001345,2017,Diabetes/Metabolic,Phase 1,"Active, not recruiting",Drug,Pfizer,55,30,False,False,True
+NCT2013001346,2018,Respiratory,Phase 1,Unknown,Procedure,Biotech Startup,29,15,False,False,True
+NCT2013001347,2017,Oncology,Phase 3,Recruiting,Drug,AstraZeneca,231,13,False,False,False
+NCT2013001348,2019,Infectious Disease,Phase 4,Recruiting,Biological,NIH,92,16,False,False,True
+NCT2013001349,2014,Cardiovascular,Phase 1,Completed,Drug,Roche,18,21,True,False,False
+NCT2013001350,2019,Cardiovascular,Phase 3,Completed,Behavioral,AbbVie,215,23,False,True,False
+NCT2013001351,2022,Oncology,Phase 2,Terminated,Biological,Gilead,57,30,False,False,False
+NCT2013001352,2019,Cardiovascular,Phase 1,Recruiting,Device,Biotech Startup,56,16,False,False,False
+NCT2013001353,2013,Cardiovascular,Phase 3,"Active, not recruiting",Behavioral,Biotech Startup,324,47,False,False,False
+NCT2013001354,2019,Oncology,N/A,Recruiting,Drug,Academic Medical Center,61,46,False,False,False
+NCT2013001355,2017,Mental Health,Phase 4,Terminated,Behavioral,AstraZeneca,55,13,False,True,True
+NCT2013001356,2015,Oncology,Phase 3,Recruiting,Other,Johnson & Johnson,765,12,False,True,True
+NCT2013001357,2015,Immunology/Autoimmune,Phase 2,Recruiting,Drug,Amgen,256,12,False,False,False
+NCT2013001358,2016,Infectious Disease,Phase 1,Unknown,Drug,Academic Medical Center,23,32,True,True,False
+NCT2013001359,2024,Rare Disease,Phase 3,Completed,Biological,Bayer,316,16,True,True,False
+NCT2013001360,2014,Neurology,Phase 4,Completed,Drug,Sanofi,352,41,True,True,False
+NCT2013001361,2014,Infectious Disease,Phase 2,Completed,Other,Novartis,96,15,False,True,False
+NCT2013001362,2013,Diabetes/Metabolic,Phase 1,Recruiting,Drug,University Hospital,21,38,False,False,True
+NCT2013001363,2017,Oncology,Phase 2,Terminated,Device,Biotech Startup,54,42,False,False,True
+NCT2013001364,2016,Neurology,Phase 1,Recruiting,Device,Biotech Startup,20,36,False,False,False
+NCT2013001365,2023,Immunology/Autoimmune,Phase 3,Completed,Drug,Biotech Startup,387,15,False,False,True
+NCT2013001366,2022,Oncology,Phase 1,Completed,Drug,Amgen,43,8,False,False,True
+NCT2013001367,2014,Rare Disease,Phase 2,Withdrawn,Biological,Biotech Startup,79,17,False,True,False
+NCT2013001368,2015,Cardiovascular,Phase 1,"Active, not recruiting",Drug,Merck,16,30,False,True,False
+NCT2013001369,2019,Immunology/Autoimmune,Phase 3,Completed,Drug,Eli Lilly,131,18,False,True,True
+NCT2013001370,2019,Neurology,Phase 2,Recruiting,Drug,Roche,128,8,False,False,True
+NCT2013001371,2024,Diabetes/Metabolic,Phase 1,Completed,Biological,AbbVie,35,15,False,True,True
+NCT2013001372,2016,Infectious Disease,Phase 1,Completed,Drug,Merck,39,24,False,True,True
+NCT2013001373,2017,Oncology,Phase 3,Terminated,Biological,Biotech Startup,285,8,False,False,False
+NCT2013001374,2017,Cardiovascular,Phase 2,Completed,Biological,AbbVie,78,25,False,True,False
+NCT2013001375,2018,Rare Disease,Phase 1,Completed,Drug,Regional Hospital,18,25,False,True,False
+NCT2013001376,2021,Oncology,Phase 1,Recruiting,Drug,NIH,33,22,False,False,True
+NCT2013001377,2014,Neurology,Phase 2,Recruiting,Procedure,AstraZeneca,96,17,True,True,True
+NCT2013001378,2017,Oncology,Phase 1,Terminated,Drug,Gilead,10,20,False,False,False
+NCT2013001379,2024,Infectious Disease,Phase 1,Completed,Drug,Gilead,66,20,False,True,True
+NCT2013001380,2015,Oncology,Phase 2,Completed,Drug,Biotech Startup,52,12,False,True,True
+NCT2013001381,2016,Oncology,N/A,Terminated,Drug,Merck,317,28,False,False,False
+NCT2013001382,2022,Rare Disease,Phase 4,Completed,Behavioral,Bristol-Myers Squibb,114,19,False,True,True
+NCT2013001383,2018,Oncology,Phase 4,Completed,Drug,Merck,138,16,False,False,True
+NCT2013001384,2024,Infectious Disease,Phase 2,Completed,Biological,GSK,66,14,False,False,True
+NCT2013001385,2020,Immunology/Autoimmune,Phase 2,Terminated,Drug,Bayer,48,16,True,False,False
+NCT2013001386,2013,Cardiovascular,Phase 2,Recruiting,Drug,Eli Lilly,164,10,False,False,True
+NCT2013001387,2022,Immunology/Autoimmune,N/A,Recruiting,Behavioral,AstraZeneca,998,21,False,False,False
+NCT2013001388,2020,Cardiovascular,Phase 4,Withdrawn,Drug,AbbVie,218,59,False,False,True
+NCT2013001389,2023,Oncology,N/A,Recruiting,Device,AbbVie,293,21,False,True,True
+NCT2013001390,2019,Oncology,Phase 2,Recruiting,Drug,Pfizer,81,9,False,False,False
+NCT2013001391,2013,Respiratory,Phase 1,Withdrawn,Other,GSK,39,20,False,True,False
+NCT2013001392,2014,Respiratory,Phase 3,Completed,Behavioral,GSK,1843,20,False,False,True
+NCT2013001393,2015,Respiratory,Phase 3,Recruiting,Drug,Roche,71,31,False,True,False
+NCT2013001394,2013,Oncology,Phase 2,Recruiting,Device,University Hospital,141,22,False,False,False
+NCT2013001395,2021,Other,Phase 3,Recruiting,Drug,Eli Lilly,231,37,True,True,True
+NCT2013001396,2020,Oncology,Phase 1,Completed,Drug,Merck,24,22,False,False,False
+NCT2013001397,2014,Oncology,Phase 4,Terminated,Drug,Boehringer Ingelheim,85,13,False,True,False
+NCT2013001398,2021,Rare Disease,Phase 3,"Active, not recruiting",Other,Merck,494,36,False,False,True
+NCT2013001399,2019,Cardiovascular,Phase 4,Recruiting,Behavioral,Amgen,147,24,True,False,True
+NCT2013001400,2021,Respiratory,Phase 3,Completed,Drug,Eli Lilly,309,7,False,True,False
+NCT2013001401,2018,Oncology,Phase 3,Terminated,Biological,Johnson & Johnson,144,12,False,False,False
+NCT2013001402,2018,Neurology,Phase 4,"Active, not recruiting",Procedure,Biotech Startup,320,17,True,True,False
+NCT2013001403,2023,Oncology,Phase 2,Recruiting,Drug,Biotech Startup,127,21,False,False,True
+NCT2013001404,2016,Rare Disease,Phase 3,Withdrawn,Biological,Boehringer Ingelheim,180,39,False,False,False
+NCT2013001405,2022,Oncology,Phase 2,Recruiting,Biological,Amgen,86,19,False,False,False
+NCT2013001406,2022,Infectious Disease,Phase 2,Completed,Biological,Regional Hospital,88,22,False,False,True
+NCT2013001407,2014,Oncology,Phase 2,Terminated,Procedure,Sanofi,402,8,False,True,False
+NCT2013001408,2019,Infectious Disease,Phase 2,Recruiting,Drug,Biotech Startup,108,27,False,False,False
+NCT2013001409,2017,Respiratory,Phase 3,Terminated,Device,Johnson & Johnson,457,15,False,False,True
+NCT2013001410,2023,Cardiovascular,N/A,Withdrawn,Drug,GSK,406,11,False,True,False
+NCT2013001411,2018,Cardiovascular,Phase 1,Completed,Drug,Pfizer,41,23,False,True,False
+NCT2013001412,2014,Oncology,Phase 1,"Active, not recruiting",Drug,AbbVie,27,23,False,True,False
+NCT2013001413,2017,Infectious Disease,Phase 2,Completed,Drug,Bayer,90,47,False,False,False
+NCT2013001414,2022,Cardiovascular,Phase 3,Completed,Drug,Novartis,363,16,False,False,True
+NCT2013001415,2016,Respiratory,Phase 1,Unknown,Biological,AstraZeneca,24,47,False,False,False
+NCT2013001416,2021,Diabetes/Metabolic,Phase 3,Unknown,Biological,NIH,164,9,False,True,False
+NCT2013001417,2018,Respiratory,Phase 1,Terminated,Drug,AstraZeneca,14,31,False,False,False
+NCT2013001418,2014,Immunology/Autoimmune,Phase 1,Completed,Drug,Johnson & Johnson,45,15,False,False,False
+NCT2013001419,2013,Cardiovascular,Phase 2,"Active, not recruiting",Biological,Merck,34,43,False,False,True
+NCT2013001420,2017,Neurology,Phase 2,Recruiting,Device,Johnson & Johnson,54,14,False,False,False
+NCT2013001421,2021,Oncology,N/A,Completed,Drug,AbbVie,189,21,False,True,False
+NCT2013001422,2018,Other,Phase 3,Completed,Drug,Bayer,475,27,False,True,False
+NCT2013001423,2022,Neurology,Phase 3,Completed,Drug,Boehringer Ingelheim,216,37,True,True,False
+NCT2013001424,2024,Other,Phase 1,Completed,Biological,Bristol-Myers Squibb,33,26,False,False,True
+NCT2013001425,2019,Cardiovascular,Phase 4,"Active, not recruiting",Drug,Sanofi,137,19,True,False,False
+NCT2013001426,2017,Oncology,Phase 2,Completed,Drug,Bayer,50,18,False,True,False
+NCT2013001427,2022,Oncology,Phase 2,Completed,Biological,Bristol-Myers Squibb,191,20,True,True,True
+NCT2013001428,2018,Neurology,Phase 2,Recruiting,Other,Pfizer,71,10,False,False,False
+NCT2013001429,2017,Rare Disease,Phase 2,Completed,Drug,GSK,185,18,False,True,False
+NCT2013001430,2023,Cardiovascular,Phase 3,Withdrawn,Biological,AbbVie,527,41,False,False,True
+NCT2013001431,2021,Diabetes/Metabolic,Phase 1,Completed,Biological,Sanofi,36,50,False,True,False
+NCT2013001432,2018,Diabetes/Metabolic,Phase 3,"Active, not recruiting",Device,Gilead,199,11,False,False,True
+NCT2013001433,2023,Mental Health,Phase 1,Terminated,Behavioral,Biotech Startup,23,23,False,False,True
+NCT2013001434,2020,Diabetes/Metabolic,Phase 1,Completed,Behavioral,AstraZeneca,20,30,False,True,True
+NCT2013001435,2014,Oncology,Phase 2,Completed,Biological,Merck,130,13,False,False,True
+NCT2013001436,2024,Infectious Disease,Phase 1,Completed,Device,Pfizer,20,8,False,False,False
+NCT2013001437,2021,Cardiovascular,N/A,Completed,Drug,Eli Lilly,205,20,False,True,False
+NCT2013001438,2017,Rare Disease,Phase 2,Completed,Device,Amgen,69,14,False,True,True
+NCT2013001439,2019,Oncology,Phase 2,Unknown,Drug,Amgen,39,14,False,False,False
+NCT2013001440,2022,Oncology,Phase 2,Completed,Device,Academic Medical Center,103,24,False,False,False
+NCT2013001441,2013,Mental Health,Phase 2,Terminated,Biological,Bristol-Myers Squibb,55,23,False,False,False
+NCT2013001442,2022,Immunology/Autoimmune,Phase 3,Completed,Drug,University Hospital,1307,9,False,False,False
+NCT2013001443,2017,Oncology,N/A,Completed,Drug,AstraZeneca,146,14,False,False,True
+NCT2013001444,2024,Infectious Disease,Phase 3,Completed,Device,AbbVie,1179,21,False,False,False
+NCT2013001445,2022,Oncology,Phase 2,Unknown,Device,Roche,43,11,False,False,False
+NCT2013001446,2014,Infectious Disease,Phase 1,"Active, not recruiting",Behavioral,Eli Lilly,104,20,False,True,True
+NCT2013001447,2024,Respiratory,Phase 1,"Active, not recruiting",Drug,Gilead,14,9,True,True,False
+NCT2013001448,2018,Diabetes/Metabolic,Phase 3,"Active, not recruiting",Other,Johnson & Johnson,272,40,False,False,False
+NCT2013001449,2023,Neurology,Phase 1,Completed,Drug,Boehringer Ingelheim,9,23,False,True,True
+NCT2013001450,2013,Immunology/Autoimmune,Phase 1,Recruiting,Procedure,GSK,35,26,False,False,False
+NCT2013001451,2015,Infectious Disease,Phase 2,Recruiting,Drug,Eli Lilly,55,16,False,False,True
+NCT2013001452,2017,Cardiovascular,Phase 2,Terminated,Drug,GSK,126,34,False,False,True
+NCT2013001453,2016,Mental Health,Phase 1,Unknown,Drug,Boehringer Ingelheim,31,17,True,True,True
+NCT2013001454,2015,Oncology,Phase 3,"Active, not recruiting",Procedure,AbbVie,149,27,False,False,True
+NCT2013001455,2022,Neurology,N/A,"Active, not recruiting",Drug,Pfizer,283,40,False,False,False
+NCT2013001456,2017,Oncology,Phase 1,Completed,Biological,Bayer,27,26,False,False,True
+NCT2013001457,2023,Diabetes/Metabolic,Phase 3,"Active, not recruiting",Drug,Gilead,605,15,True,False,True
+NCT2013001458,2020,Oncology,Phase 1,Unknown,Other,Amgen,85,25,False,False,True
+NCT2013001459,2023,Oncology,Phase 2,Completed,Drug,Bristol-Myers Squibb,81,22,False,False,False
+NCT2013001460,2016,Oncology,Phase 3,Completed,Biological,Regional Hospital,2870,33,False,False,False
+NCT2013001461,2013,Rare Disease,Phase 3,Terminated,Procedure,Johnson & Johnson,1134,84,False,False,True
+NCT2013001462,2023,Infectious Disease,Phase 3,Completed,Drug,Gilead,596,15,False,False,False
+NCT2013001463,2019,Rare Disease,Phase 2,Completed,Biological,NIH,54,20,False,False,True
+NCT2013001464,2020,Rare Disease,Phase 3,"Active, not recruiting",Device,Bayer,988,22,False,False,False
+NCT2013001465,2015,Neurology,Phase 2,Completed,Drug,GSK,46,9,False,False,False
+NCT2013001466,2018,Oncology,Phase 4,Withdrawn,Device,Bristol-Myers Squibb,164,26,False,True,True
+NCT2013001467,2014,Diabetes/Metabolic,Phase 1,Terminated,Device,Regional Hospital,35,31,False,False,False
+NCT2013001468,2019,Diabetes/Metabolic,Phase 3,Unknown,Drug,Boehringer Ingelheim,475,15,True,True,True
+NCT2013001469,2020,Neurology,Phase 2,Completed,Drug,Bayer,62,26,True,False,True
+NCT2013001470,2018,Oncology,Phase 1,Recruiting,Behavioral,AbbVie,123,36,False,False,False
+NCT2013001471,2018,Respiratory,Phase 1,"Active, not recruiting",Biological,NIH,39,23,False,True,True
+NCT2013001472,2017,Other,Phase 4,"Active, not recruiting",Drug,Academic Medical Center,152,20,False,False,True
+NCT2013001473,2020,Infectious Disease,Phase 1,Terminated,Drug,Johnson & Johnson,10,11,False,False,False
+NCT2013001474,2013,Infectious Disease,Phase 1,Completed,Drug,Johnson & Johnson,34,36,False,False,False
+NCT2013001475,2022,Neurology,Phase 3,Withdrawn,Biological,Merck,905,64,False,False,False
+NCT2013001476,2016,Diabetes/Metabolic,Phase 1,Completed,Drug,Biotech Startup,45,30,False,True,True
+NCT2013001477,2016,Mental Health,Phase 2,Completed,Drug,Biotech Startup,235,11,True,False,False
+NCT2013001478,2015,Cardiovascular,N/A,Withdrawn,Behavioral,Gilead,7,14,False,False,False
+NCT2013001479,2015,Respiratory,Phase 2,"Active, not recruiting",Drug,AstraZeneca,79,19,True,True,False
+NCT2013001480,2016,Neurology,Phase 1,"Active, not recruiting",Drug,Eli Lilly,46,16,False,True,True
+NCT2013001481,2023,Oncology,Phase 4,"Active, not recruiting",Other,Biotech Startup,212,18,False,True,True
+NCT2013001482,2013,Respiratory,Phase 4,"Active, not recruiting",Biological,Academic Medical Center,181,29,False,False,True
+NCT2013001483,2023,Respiratory,Phase 3,"Active, not recruiting",Procedure,AstraZeneca,90,17,False,True,False
+NCT2013001484,2023,Cardiovascular,Phase 1,Withdrawn,Behavioral,Merck,65,27,True,True,True
+NCT2013001485,2014,Oncology,Phase 4,Completed,Drug,Bayer,1885,9,False,False,True
+NCT2013001486,2021,Neurology,Phase 3,Unknown,Behavioral,Sanofi,715,23,False,False,False
+NCT2013001487,2022,Oncology,Phase 4,Completed,Other,Bristol-Myers Squibb,236,37,True,False,False
+NCT2013001488,2014,Oncology,Phase 2,Terminated,Drug,Regional Hospital,73,7,False,False,True
+NCT2013001489,2017,Immunology/Autoimmune,Phase 2,Recruiting,Behavioral,Roche,22,14,False,False,False
+NCT2013001490,2021,Diabetes/Metabolic,Phase 2,Completed,Biological,Boehringer Ingelheim,31,21,False,False,True
+NCT2013001491,2021,Oncology,Phase 2,Recruiting,Procedure,AbbVie,90,15,True,True,False
+NCT2013001492,2020,Mental Health,Phase 4,"Active, not recruiting",Behavioral,Eli Lilly,760,60,False,False,True
+NCT2013001493,2013,Cardiovascular,Phase 2,"Active, not recruiting",Procedure,GSK,60,16,False,True,False
+NCT2013001494,2013,Oncology,Phase 2,Recruiting,Other,Novartis,142,27,False,False,True
+NCT2013001495,2021,Oncology,Phase 4,Completed,Drug,Academic Medical Center,154,20,False,False,True
+NCT2013001496,2023,Rare Disease,Phase 1,"Active, not recruiting",Behavioral,AbbVie,54,31,False,False,False
+NCT2013001497,2020,Cardiovascular,Phase 3,Recruiting,Drug,Johnson & Johnson,219,18,False,True,False
+NCT2013001498,2022,Cardiovascular,Phase 2,Recruiting,Behavioral,University Hospital,41,22,False,False,True
+NCT2013001499,2021,Diabetes/Metabolic,N/A,Terminated,Device,Gilead,161,27,False,False,False
+NCT2013001500,2019,Oncology,Phase 3,Completed,Drug,Bayer,1052,31,False,False,False
+NCT2013001501,2015,Infectious Disease,Phase 3,"Active, not recruiting",Drug,Bayer,882,15,False,False,False
+NCT2013001502,2015,Other,Phase 4,Terminated,Drug,Sanofi,150,20,False,True,True
+NCT2013001503,2014,Cardiovascular,Phase 1,Terminated,Behavioral,Biotech Startup,23,46,False,False,True
+NCT2013001504,2017,Other,Phase 1,Completed,Drug,AstraZeneca,25,10,False,False,False
+NCT2013001505,2024,Neurology,Phase 1,Completed,Device,Boehringer Ingelheim,19,18,False,False,True
+NCT2013001506,2024,Neurology,Phase 1,"Active, not recruiting",Behavioral,University Hospital,95,85,True,False,True
+NCT2013001507,2015,Immunology/Autoimmune,Phase 3,"Active, not recruiting",Drug,Pfizer,185,17,False,False,False
+NCT2013001508,2018,Respiratory,N/A,Recruiting,Drug,Boehringer Ingelheim,181,11,False,False,False
+NCT2013001509,2014,Cardiovascular,Phase 3,Terminated,Other,Novartis,163,27,False,True,True
+NCT2013001510,2024,Mental Health,Phase 2,Completed,Biological,Sanofi,137,26,False,False,False
+NCT2013001511,2015,Cardiovascular,Phase 1,Terminated,Drug,Biotech Startup,54,29,False,True,False
+NCT2013001512,2017,Immunology/Autoimmune,Phase 2,Recruiting,Drug,Johnson & Johnson,74,5,False,False,False
+NCT2013001513,2024,Cardiovascular,Phase 1,Recruiting,Device,Bristol-Myers Squibb,23,10,False,False,True
+NCT2013001514,2023,Respiratory,Phase 3,Completed,Procedure,Boehringer Ingelheim,75,50,False,False,False
+NCT2013001515,2023,Infectious Disease,Phase 2,Completed,Drug,Academic Medical Center,67,43,True,True,False
+NCT2013001516,2013,Infectious Disease,Phase 1,Terminated,Drug,Bayer,48,8,False,False,False
+NCT2013001517,2013,Oncology,Phase 4,"Active, not recruiting",Drug,Bayer,28,9,False,False,True
+NCT2013001518,2022,Infectious Disease,Phase 3,Completed,Procedure,Johnson & Johnson,845,12,False,True,True
+NCT2013001519,2021,Oncology,Phase 1,Recruiting,Biological,Sanofi,60,27,False,False,True
+NCT2013001520,2019,Oncology,Phase 3,Completed,Drug,Merck,832,38,False,False,False
+NCT2013001521,2013,Oncology,Phase 2,Terminated,Other,AbbVie,91,19,False,False,True
+NCT2013001522,2024,Immunology/Autoimmune,Phase 1,Completed,Drug,Biotech Startup,16,31,False,False,False
+NCT2013001523,2020,Respiratory,Phase 1,"Active, not recruiting",Drug,University Hospital,8,20,False,False,False
+NCT2013001524,2015,Other,Phase 4,Completed,Biological,AstraZeneca,95,39,False,False,False
+NCT2013001525,2020,Diabetes/Metabolic,Phase 1,Completed,Drug,Roche,52,28,False,True,True
+NCT2013001526,2017,Cardiovascular,Phase 1,Recruiting,Biological,Biotech Startup,34,30,False,True,False
+NCT2013001527,2013,Other,Phase 2,Recruiting,Drug,Novartis,117,18,False,False,False
+NCT2013001528,2019,Diabetes/Metabolic,Phase 2,Unknown,Drug,Johnson & Johnson,93,29,True,True,False
+NCT2013001529,2017,Oncology,Phase 2,Recruiting,Drug,Bristol-Myers Squibb,111,19,False,False,True
+NCT2013001530,2018,Oncology,Phase 1,"Active, not recruiting",Drug,GSK,17,17,False,False,True
+NCT2013001531,2018,Cardiovascular,N/A,Recruiting,Drug,Bristol-Myers Squibb,519,14,True,False,False
+NCT2013001532,2020,Rare Disease,Phase 3,"Active, not recruiting",Drug,Regional Hospital,503,11,False,False,False
+NCT2013001533,2021,Infectious Disease,Phase 4,Recruiting,Procedure,Johnson & Johnson,9,56,False,False,True
+NCT2013001534,2014,Diabetes/Metabolic,Phase 2,Completed,Behavioral,Roche,93,54,False,True,False
+NCT2013001535,2021,Neurology,Phase 3,Recruiting,Biological,Sanofi,732,20,False,True,False
+NCT2013001536,2024,Cardiovascular,Phase 3,Recruiting,Procedure,Biotech Startup,2403,21,False,True,False
+NCT2013001537,2023,Respiratory,N/A,Recruiting,Other,GSK,200,6,False,False,False
+NCT2013001538,2022,Oncology,Phase 4,Recruiting,Device,Biotech Startup,15,36,False,False,True
+NCT2013001539,2021,Infectious Disease,Phase 3,Recruiting,Drug,AbbVie,442,24,False,False,False
+NCT2013001540,2022,Oncology,Phase 3,Recruiting,Device,Pfizer,412,21,True,True,False
+NCT2013001541,2022,Diabetes/Metabolic,Phase 2,Completed,Drug,Gilead,50,17,False,False,False
+NCT2013001542,2019,Oncology,Phase 1,Terminated,Device,AstraZeneca,22,28,False,False,False
+NCT2013001543,2013,Neurology,Phase 2,Completed,Drug,Novartis,50,23,False,False,False
+NCT2013001544,2019,Cardiovascular,Phase 1,"Active, not recruiting",Drug,Sanofi,71,14,False,False,True
+NCT2013001545,2022,Other,Phase 1,Recruiting,Drug,Amgen,45,21,False,False,False
+NCT2013001546,2017,Infectious Disease,Phase 3,Recruiting,Drug,Pfizer,31,17,False,False,False
+NCT2013001547,2018,Oncology,Phase 1,Withdrawn,Behavioral,Novartis,9,23,False,True,False
+NCT2013001548,2022,Immunology/Autoimmune,Phase 2,Completed,Device,Novartis,118,9,False,True,False
+NCT2013001549,2019,Other,Phase 2,"Active, not recruiting",Drug,Bayer,122,19,False,False,False
+NCT2013001550,2017,Oncology,Phase 1,Recruiting,Biological,Gilead,60,33,False,False,True
+NCT2013001551,2019,Oncology,Phase 2,Recruiting,Other,AstraZeneca,151,32,False,False,False
+NCT2013001552,2021,Cardiovascular,Phase 2,Completed,Biological,Roche,129,17,False,False,False
+NCT2013001553,2015,Respiratory,Phase 3,Recruiting,Other,AbbVie,325,12,True,False,True
+NCT2013001554,2020,Neurology,Phase 1,Completed,Drug,Bristol-Myers Squibb,48,24,False,True,False
+NCT2013001555,2014,Immunology/Autoimmune,Phase 4,"Active, not recruiting",Procedure,AstraZeneca,57,15,False,False,False
+NCT2013001556,2023,Neurology,Phase 2,"Active, not recruiting",Drug,Gilead,38,24,False,True,True
+NCT2013001557,2019,Oncology,Phase 2,Withdrawn,Drug,Roche,67,32,False,False,True
+NCT2013001558,2014,Cardiovascular,Phase 2,"Active, not recruiting",Biological,Roche,45,18,False,False,False
+NCT2013001559,2016,Cardiovascular,Phase 2,Completed,Device,Sanofi,39,23,False,False,False
+NCT2013001560,2019,Oncology,Phase 2,Completed,Device,Novartis,157,26,False,False,True
+NCT2013001561,2015,Infectious Disease,Phase 1,Completed,Drug,Biotech Startup,23,16,False,False,False
+NCT2013001562,2014,Infectious Disease,Phase 4,Completed,Device,Biotech Startup,141,16,False,True,True
+NCT2013001563,2023,Diabetes/Metabolic,N/A,Completed,Drug,Regional Hospital,35,18,True,True,True
+NCT2013001564,2022,Infectious Disease,Phase 2,Terminated,Drug,Academic Medical Center,85,11,False,False,False
+NCT2013001565,2019,Oncology,Phase 1,Completed,Biological,Johnson & Johnson,18,28,False,True,False
+NCT2013001566,2013,Diabetes/Metabolic,Phase 2,Terminated,Drug,Biotech Startup,240,16,False,False,True
+NCT2013001567,2020,Immunology/Autoimmune,Phase 2,"Active, not recruiting",Other,Amgen,35,10,False,True,False
+NCT2013001568,2015,Infectious Disease,Phase 2,Unknown,Drug,Merck,52,45,False,False,True
+NCT2013001569,2024,Cardiovascular,Phase 1,Completed,Other,Biotech Startup,35,7,False,False,False
+NCT2013001570,2024,Cardiovascular,Phase 1,Completed,Behavioral,GSK,31,8,False,True,False
+NCT2013001571,2014,Respiratory,Phase 2,Completed,Biological,Biotech Startup,258,21,False,True,False
+NCT2013001572,2015,Cardiovascular,Phase 1,Completed,Drug,Biotech Startup,34,34,True,False,False
+NCT2013001573,2017,Neurology,Phase 2,Completed,Drug,Amgen,325,8,False,True,True
+NCT2013001574,2023,Rare Disease,Phase 2,Completed,Other,Boehringer Ingelheim,58,30,False,False,False
+NCT2013001575,2020,Immunology/Autoimmune,Phase 1,Terminated,Drug,Boehringer Ingelheim,30,15,False,False,False
+NCT2013001576,2022,Rare Disease,Phase 3,"Active, not recruiting",Drug,Amgen,617,19,False,False,True
+NCT2013001577,2019,Oncology,Phase 2,Terminated,Biological,Novartis,26,49,False,False,False
+NCT2013001578,2019,Cardiovascular,Phase 2,Recruiting,Device,Academic Medical Center,88,18,False,False,True
+NCT2013001579,2024,Diabetes/Metabolic,Phase 1,Recruiting,Drug,Bayer,23,22,True,False,False
+NCT2013001580,2019,Oncology,Phase 2,"Active, not recruiting",Drug,GSK,124,14,False,False,True
+NCT2013001581,2020,Infectious Disease,Phase 2,Terminated,Device,Gilead,299,23,False,False,True
+NCT2013001582,2013,Oncology,Phase 2,Completed,Procedure,Boehringer Ingelheim,141,24,False,False,False
+NCT2013001583,2016,Rare Disease,Phase 3,Recruiting,Procedure,Bristol-Myers Squibb,213,28,True,False,True
+NCT2013001584,2018,Rare Disease,Phase 3,Recruiting,Device,Academic Medical Center,428,21,False,False,False
+NCT2013001585,2021,Mental Health,Phase 3,Recruiting,Device,AbbVie,738,14,False,False,False
+NCT2013001586,2014,Oncology,Phase 2,Completed,Procedure,Roche,168,25,False,False,False
+NCT2013001587,2013,Neurology,Phase 1,Recruiting,Drug,Novartis,51,23,False,False,False
+NCT2013001588,2022,Diabetes/Metabolic,Phase 2,"Active, not recruiting",Procedure,Academic Medical Center,52,27,False,False,False
+NCT2013001589,2024,Cardiovascular,Phase 1,Completed,Biological,Bristol-Myers Squibb,40,34,False,False,False
+NCT2013001590,2014,Oncology,Phase 3,Completed,Drug,Biotech Startup,71,12,False,True,True
+NCT2013001591,2019,Mental Health,Phase 2,Completed,Drug,Novartis,62,20,False,True,True
+NCT2013001592,2015,Cardiovascular,Phase 2,Recruiting,Drug,Bayer,49,23,False,True,False
+NCT2013001593,2022,Rare Disease,Phase 1,"Active, not recruiting",Behavioral,Regional Hospital,30,13,False,False,False
+NCT2013001594,2014,Other,Phase 2,Recruiting,Device,GSK,132,12,False,False,False
+NCT2013001595,2023,Rare Disease,Phase 2,Completed,Procedure,Bristol-Myers Squibb,131,24,False,False,True
+NCT2013001596,2019,Cardiovascular,Phase 1,"Active, not recruiting",Biological,AbbVie,77,13,False,False,True
+NCT2013001597,2014,Oncology,Phase 2,Completed,Device,Gilead,297,15,False,False,False
+NCT2013001598,2015,Infectious Disease,Phase 3,Completed,Drug,Gilead,520,19,False,True,True
+NCT2013001599,2023,Cardiovascular,Phase 4,"Active, not recruiting",Drug,Regional Hospital,118,24,True,True,True
+NCT2013001600,2019,Rare Disease,Phase 2,Completed,Biological,Johnson & Johnson,56,25,False,False,False
+NCT2013001601,2016,Neurology,Phase 3,Unknown,Biological,Biotech Startup,744,35,False,True,True
+NCT2013001602,2013,Respiratory,Phase 2,Completed,Drug,Novartis,118,47,False,False,True
+NCT2013001603,2017,Diabetes/Metabolic,Phase 2,Terminated,Behavioral,AstraZeneca,46,41,False,False,False
+NCT2013001604,2024,Infectious Disease,Phase 3,"Active, not recruiting",Drug,Roche,236,14,False,True,True
+NCT2013001605,2021,Cardiovascular,Phase 1,Completed,Drug,Merck,54,8,False,True,False
+NCT2013001606,2020,Oncology,Phase 1,"Active, not recruiting",Drug,Academic Medical Center,23,15,True,True,True
+NCT2013001607,2024,Cardiovascular,Phase 3,Completed,Procedure,Bayer,215,8,False,False,False
+NCT2013001608,2021,Cardiovascular,Phase 1,"Active, not recruiting",Device,Gilead,18,24,False,True,True
+NCT2013001609,2022,Neurology,Phase 1,Terminated,Biological,Pfizer,26,17,False,False,True
+NCT2013001610,2021,Neurology,Phase 4,Terminated,Biological,Novartis,17,13,False,True,False
+NCT2013001611,2019,Rare Disease,Phase 3,Recruiting,Biological,Bayer,281,16,False,False,True
+NCT2013001612,2016,Oncology,Phase 2,Unknown,Device,Novartis,83,35,False,False,True
+NCT2013001613,2017,Oncology,Phase 1,Completed,Drug,Boehringer Ingelheim,61,28,False,True,False
+NCT2013001614,2013,Neurology,Phase 3,Recruiting,Other,University Hospital,65,20,False,False,False
+NCT2013001615,2013,Respiratory,Phase 2,Recruiting,Behavioral,University Hospital,234,18,False,False,True
+NCT2013001616,2015,Rare Disease,Phase 1,Completed,Biological,Roche,38,24,False,True,True
+NCT2013001617,2020,Oncology,Phase 1,Completed,Drug,Biotech Startup,13,39,False,True,False
+NCT2013001618,2014,Mental Health,Phase 3,Completed,Other,Academic Medical Center,831,40,False,False,False
+NCT2013001619,2016,Respiratory,Phase 1,Recruiting,Drug,AbbVie,8,27,False,True,False
+NCT2013001620,2014,Infectious Disease,Phase 1,Completed,Drug,Academic Medical Center,18,19,True,False,False
+NCT2013001621,2017,Oncology,N/A,Unknown,Behavioral,Bristol-Myers Squibb,80,21,False,False,False
+NCT2013001622,2021,Immunology/Autoimmune,N/A,"Active, not recruiting",Other,Boehringer Ingelheim,137,21,True,False,False
+NCT2013001623,2013,Cardiovascular,Phase 1,Completed,Drug,Biotech Startup,82,8,False,True,False
+NCT2013001624,2017,Respiratory,Phase 3,Recruiting,Drug,Biotech Startup,184,60,False,False,True
+NCT2013001625,2021,Neurology,Phase 2,Completed,Biological,Gilead,35,17,True,False,True
+NCT2013001626,2013,Neurology,Phase 1,Completed,Behavioral,Amgen,26,56,False,False,False
+NCT2013001627,2021,Oncology,Phase 2,Recruiting,Behavioral,Sanofi,74,13,False,False,False
+NCT2013001628,2020,Infectious Disease,Phase 2,Recruiting,Other,Regional Hospital,143,9,False,False,False
+NCT2013001629,2016,Neurology,Phase 1,Unknown,Drug,Bayer,61,13,False,False,False
+NCT2013001630,2024,Cardiovascular,N/A,"Active, not recruiting",Drug,Amgen,218,13,False,False,False
+NCT2013001631,2023,Neurology,Phase 1,Unknown,Procedure,Academic Medical Center,66,6,False,False,True
+NCT2013001632,2022,Cardiovascular,Phase 1,Recruiting,Other,Bristol-Myers Squibb,23,18,False,True,True
+NCT2013001633,2017,Oncology,Phase 2,Recruiting,Drug,AbbVie,72,21,False,True,False
+NCT2013001634,2017,Mental Health,Phase 2,Recruiting,Biological,Bristol-Myers Squibb,165,28,False,False,False
+NCT2013001635,2023,Neurology,Phase 4,Completed,Other,Roche,151,36,False,False,False
+NCT2013001636,2024,Cardiovascular,Phase 3,Completed,Procedure,AbbVie,206,23,False,False,False
+NCT2013001637,2018,Diabetes/Metabolic,Phase 1,Completed,Device,Gilead,19,16,False,True,True
+NCT2013001638,2019,Immunology/Autoimmune,Phase 2,Terminated,Drug,AbbVie,56,23,False,False,True
+NCT2013001639,2020,Respiratory,Phase 1,"Active, not recruiting",Procedure,Novartis,22,10,True,False,True
+NCT2013001640,2020,Infectious Disease,Phase 2,Completed,Biological,Academic Medical Center,46,21,False,False,False
+NCT2013001641,2023,Cardiovascular,Phase 4,Terminated,Biological,GSK,236,10,False,False,True
+NCT2013001642,2014,Neurology,Phase 2,Withdrawn,Device,Roche,44,55,False,False,False
+NCT2013001643,2021,Diabetes/Metabolic,Phase 4,Completed,Biological,Amgen,432,13,False,False,False
+NCT2013001644,2019,Cardiovascular,Phase 4,Terminated,Drug,Johnson & Johnson,140,40,False,True,False
+NCT2013001645,2016,Infectious Disease,Phase 2,Terminated,Device,Boehringer Ingelheim,145,27,False,True,False
+NCT2013001646,2016,Infectious Disease,Phase 2,"Active, not recruiting",Other,Biotech Startup,43,20,False,True,False
+NCT2013001647,2023,Neurology,Phase 2,Withdrawn,Other,Gilead,68,25,False,True,False
+NCT2013001648,2020,Oncology,Phase 2,Recruiting,Drug,Boehringer Ingelheim,112,15,False,False,False
+NCT2013001649,2016,Cardiovascular,Phase 2,Completed,Device,Eli Lilly,184,17,False,True,False
+NCT2013001650,2018,Immunology/Autoimmune,Phase 1,Withdrawn,Drug,Academic Medical Center,12,11,False,False,False
+NCT2013001651,2017,Oncology,Phase 1,Completed,Procedure,Biotech Startup,39,49,False,False,False
+NCT2013001652,2015,Neurology,Phase 1,Terminated,Behavioral,Amgen,30,18,False,False,False
+NCT2013001653,2022,Cardiovascular,Phase 2,Recruiting,Drug,Gilead,120,17,False,True,False
+NCT2013001654,2023,Respiratory,Phase 1,Completed,Biological,Merck,17,16,True,False,True
+NCT2013001655,2014,Diabetes/Metabolic,Phase 1,Completed,Drug,Sanofi,47,9,False,False,False
+NCT2013001656,2021,Immunology/Autoimmune,Phase 2,Recruiting,Device,AbbVie,218,12,False,True,False
+NCT2013001657,2022,Immunology/Autoimmune,Phase 1,Recruiting,Drug,Novartis,48,26,False,False,False
+NCT2013001658,2021,Respiratory,Phase 1,"Active, not recruiting",Other,Roche,108,10,False,False,False
+NCT2013001659,2013,Immunology/Autoimmune,Phase 4,Recruiting,Drug,Merck,150,24,False,False,True
+NCT2013001660,2022,Mental Health,Phase 1,Completed,Drug,GSK,43,36,True,True,True
+NCT2013001661,2015,Rare Disease,Phase 1,"Active, not recruiting",Biological,AbbVie,25,8,False,False,False
+NCT2013001662,2020,Rare Disease,Phase 4,Recruiting,Procedure,Pfizer,25,23,False,False,True
+NCT2013001663,2018,Immunology/Autoimmune,N/A,Terminated,Biological,Biotech Startup,1051,30,False,False,True
+NCT2013001664,2017,Respiratory,Phase 1,Completed,Other,Bristol-Myers Squibb,9,12,False,True,False
+NCT2013001665,2017,Oncology,Phase 1,Completed,Device,Novartis,43,14,False,True,True
+NCT2013001666,2018,Cardiovascular,Phase 3,Terminated,Device,Eli Lilly,1637,10,False,False,True
+NCT2013001667,2019,Infectious Disease,Phase 2,Completed,Biological,Amgen,79,4,False,True,False
+NCT2013001668,2013,Neurology,Phase 2,Completed,Drug,Academic Medical Center,160,19,False,False,True
+NCT2013001669,2021,Neurology,Phase 2,Completed,Behavioral,GSK,234,33,False,False,True
+NCT2013001670,2015,Neurology,Phase 3,Completed,Biological,Sanofi,1138,13,False,False,False
+NCT2013001671,2016,Rare Disease,Phase 1,Completed,Drug,Gilead,53,32,False,False,False
+NCT2013001672,2022,Neurology,Phase 2,Withdrawn,Drug,Biotech Startup,137,45,False,True,False
+NCT2013001673,2013,Immunology/Autoimmune,Phase 2,"Active, not recruiting",Drug,Amgen,66,36,False,False,True
+NCT2013001674,2023,Neurology,Phase 1,Recruiting,Drug,Gilead,36,9,False,False,False
+NCT2013001675,2022,Oncology,Phase 3,Terminated,Behavioral,Roche,180,32,False,False,False
+NCT2013001676,2015,Oncology,Phase 4,Recruiting,Drug,Biotech Startup,119,11,False,False,True
+NCT2013001677,2014,Respiratory,Phase 1,Recruiting,Drug,Novartis,22,9,False,False,False
+NCT2013001678,2014,Oncology,Phase 3,Terminated,Device,Eli Lilly,211,24,False,True,True
+NCT2013001679,2013,Oncology,Phase 1,Completed,Procedure,Boehringer Ingelheim,25,9,False,True,False
+NCT2013001680,2020,Oncology,Phase 1,Unknown,Biological,Biotech Startup,18,23,False,True,True
+NCT2013001681,2015,Oncology,Phase 3,"Active, not recruiting",Drug,AstraZeneca,744,21,False,False,True
+NCT2013001682,2015,Cardiovascular,Phase 1,Completed,Drug,Biotech Startup,12,8,False,False,False
+NCT2013001683,2018,Immunology/Autoimmune,Phase 3,Unknown,Drug,Pfizer,481,28,False,True,True
+NCT2013001684,2020,Neurology,Phase 2,Recruiting,Biological,Biotech Startup,22,14,True,True,False
+NCT2013001685,2021,Immunology/Autoimmune,Phase 2,Unknown,Biological,Roche,54,28,False,False,False
+NCT2013001686,2021,Oncology,Phase 1,Recruiting,Drug,Gilead,26,23,False,True,False
+NCT2013001687,2016,Cardiovascular,Phase 4,Recruiting,Drug,Eli Lilly,205,11,True,False,False
+NCT2013001688,2017,Cardiovascular,Phase 2,Completed,Drug,Merck,153,6,False,False,False
+NCT2013001689,2014,Neurology,Phase 1,Withdrawn,Drug,Johnson & Johnson,50,21,False,False,False
+NCT2013001690,2023,Oncology,Phase 2,Unknown,Procedure,Biotech Startup,32,29,False,False,False
+NCT2013001691,2021,Rare Disease,Phase 1,Completed,Procedure,Bayer,23,12,False,True,True
+NCT2013001692,2020,Oncology,N/A,Completed,Drug,Amgen,59,11,False,False,True
+NCT2013001693,2015,Respiratory,Phase 3,"Active, not recruiting",Procedure,Johnson & Johnson,240,18,False,True,True
+NCT2013001694,2023,Infectious Disease,Phase 2,Terminated,Drug,Biotech Startup,95,18,False,False,False
+NCT2013001695,2024,Diabetes/Metabolic,Phase 3,"Active, not recruiting",Other,Bayer,141,23,False,False,False
+NCT2013001696,2021,Oncology,Phase 1,Completed,Drug,Regional Hospital,44,7,True,False,False
+NCT2013001697,2015,Mental Health,N/A,Completed,Device,Amgen,142,22,False,False,True
+NCT2013001698,2021,Oncology,Phase 4,Completed,Other,University Hospital,547,9,False,True,True
+NCT2013001699,2014,Diabetes/Metabolic,Phase 2,Completed,Drug,Bristol-Myers Squibb,35,19,False,False,False
+NCT2013001700,2024,Oncology,Phase 2,Recruiting,Biological,Biotech Startup,104,25,False,False,True
+NCT2013001701,2022,Cardiovascular,N/A,Completed,Drug,Roche,515,25,False,False,True
+NCT2013001702,2021,Other,Phase 1,Completed,Drug,Biotech Startup,28,12,False,True,False
+NCT2013001703,2020,Other,Phase 3,Completed,Drug,Eli Lilly,393,44,False,False,False
+NCT2013001704,2021,Mental Health,Phase 1,Recruiting,Biological,AbbVie,12,8,False,False,True
+NCT2013001705,2017,Other,Phase 4,Terminated,Behavioral,Biotech Startup,369,31,False,False,False
+NCT2013001706,2023,Diabetes/Metabolic,Phase 2,Withdrawn,Drug,AbbVie,125,27,False,True,True
+NCT2013001707,2023,Infectious Disease,Phase 4,Completed,Drug,Eli Lilly,491,23,False,True,False
+NCT2013001708,2014,Mental Health,N/A,Recruiting,Drug,Johnson & Johnson,147,21,False,True,False
+NCT2013001709,2020,Immunology/Autoimmune,Phase 1,Recruiting,Procedure,Gilead,24,17,False,False,False
+NCT2013001710,2024,Infectious Disease,Phase 2,Terminated,Device,AstraZeneca,210,19,False,True,False
+NCT2013001711,2018,Immunology/Autoimmune,Phase 3,"Active, not recruiting",Procedure,Bristol-Myers Squibb,1050,16,True,True,False
+NCT2013001712,2020,Cardiovascular,Phase 3,Withdrawn,Drug,University Hospital,176,38,False,True,False
+NCT2013001713,2023,Neurology,Phase 2,Terminated,Biological,Merck,176,33,False,False,True
+NCT2013001714,2017,Rare Disease,Phase 4,Recruiting,Drug,Sanofi,437,21,False,False,False
+NCT2013001715,2022,Respiratory,Phase 1,Completed,Drug,AbbVie,74,25,False,False,False
+NCT2013001716,2014,Cardiovascular,Phase 3,Recruiting,Drug,Boehringer Ingelheim,230,16,False,False,True
+NCT2013001717,2018,Rare Disease,Phase 2,Completed,Biological,Biotech Startup,28,14,False,False,True
+NCT2013001718,2017,Neurology,Phase 2,Completed,Biological,Biotech Startup,76,19,False,True,False
+NCT2013001719,2024,Oncology,Phase 2,"Active, not recruiting",Procedure,Bayer,72,42,False,True,True
+NCT2013001720,2024,Neurology,Phase 1,Completed,Drug,Eli Lilly,51,18,False,False,True
+NCT2013001721,2017,Oncology,Phase 2,Completed,Drug,Bristol-Myers Squibb,78,18,False,False,False
+NCT2013001722,2013,Cardiovascular,Phase 4,Recruiting,Drug,Novartis,272,16,False,True,True
+NCT2013001723,2014,Oncology,Phase 2,"Active, not recruiting",Other,Johnson & Johnson,69,30,False,False,True
+NCT2013001724,2020,Oncology,Phase 2,Unknown,Procedure,Sanofi,49,8,False,True,False
+NCT2013001725,2015,Oncology,Phase 3,Terminated,Procedure,Biotech Startup,115,10,False,False,True
+NCT2013001726,2022,Diabetes/Metabolic,N/A,Terminated,Drug,Johnson & Johnson,816,30,False,False,False
+NCT2013001727,2015,Respiratory,Phase 2,"Active, not recruiting",Drug,Biotech Startup,229,13,False,False,True
+NCT2013001728,2020,Respiratory,Phase 2,Completed,Drug,Biotech Startup,11,53,False,True,True
+NCT2013001729,2020,Neurology,N/A,Unknown,Device,Boehringer Ingelheim,232,10,True,False,False
+NCT2013001730,2014,Oncology,N/A,"Active, not recruiting",Drug,Eli Lilly,1036,19,False,True,True
+NCT2013001731,2020,Diabetes/Metabolic,Phase 2,Completed,Biological,GSK,74,30,False,False,False
+NCT2013001732,2023,Oncology,Phase 3,Completed,Drug,AbbVie,501,10,False,False,False
+NCT2013001733,2013,Rare Disease,Phase 1,Recruiting,Device,University Hospital,51,26,False,True,True
+NCT2013001734,2018,Neurology,Phase 2,"Active, not recruiting",Biological,Johnson & Johnson,96,20,True,False,False
+NCT2013001735,2020,Cardiovascular,N/A,"Active, not recruiting",Biological,Novartis,324,17,True,True,True
+NCT2013001736,2015,Cardiovascular,Phase 3,Terminated,Device,University Hospital,545,11,False,True,False
+NCT2013001737,2020,Diabetes/Metabolic,Phase 1,"Active, not recruiting",Biological,Sanofi,19,15,True,False,False
+NCT2013001738,2024,Oncology,Phase 2,Recruiting,Drug,Johnson & Johnson,36,24,False,False,False
+NCT2013001739,2013,Oncology,Phase 3,Completed,Drug,Gilead,512,36,False,False,False
+NCT2013001740,2023,Oncology,Phase 2,Completed,Drug,Amgen,124,19,False,False,True
+NCT2013001741,2023,Infectious Disease,Phase 1,Completed,Drug,Gilead,67,37,False,True,False
+NCT2013001742,2021,Rare Disease,Phase 3,Completed,Drug,GSK,703,9,False,False,True
+NCT2013001743,2023,Oncology,Phase 1,"Active, not recruiting",Biological,Merck,86,14,False,False,False
+NCT2013001744,2021,Neurology,Phase 2,Recruiting,Drug,Novartis,106,20,False,True,True
+NCT2013001745,2017,Oncology,Phase 2,Recruiting,Drug,Merck,103,9,False,True,True
+NCT2013001746,2022,Neurology,Phase 3,Recruiting,Drug,Eli Lilly,397,57,False,False,False
+NCT2013001747,2016,Cardiovascular,Phase 3,Recruiting,Drug,Biotech Startup,146,8,False,False,False
+NCT2013001748,2023,Oncology,N/A,Completed,Biological,Biotech Startup,212,21,False,True,False
+NCT2013001749,2018,Other,Phase 3,Unknown,Drug,Bristol-Myers Squibb,1006,12,False,False,True
+NCT2013001750,2024,Rare Disease,Phase 3,Completed,Other,AbbVie,812,17,False,False,False
+NCT2013001751,2019,Infectious Disease,Phase 2,Completed,Drug,Boehringer Ingelheim,52,22,False,False,True
+NCT2013001752,2017,Neurology,Phase 4,Recruiting,Drug,Amgen,59,22,False,False,True
+NCT2013001753,2023,Oncology,Phase 4,Recruiting,Biological,Johnson & Johnson,230,18,False,False,True
+NCT2013001754,2022,Other,Phase 2,Unknown,Drug,Bayer,33,19,False,False,False
+NCT2013001755,2021,Cardiovascular,Phase 2,Unknown,Drug,GSK,89,40,False,True,True
+NCT2013001756,2015,Oncology,N/A,Recruiting,Other,Bristol-Myers Squibb,385,26,False,False,True
+NCT2013001757,2019,Immunology/Autoimmune,Phase 1,"Active, not recruiting",Drug,AstraZeneca,79,24,True,True,True
+NCT2013001758,2022,Respiratory,Phase 2,Completed,Behavioral,Biotech Startup,26,22,False,False,False
+NCT2013001759,2022,Infectious Disease,Phase 1,"Active, not recruiting",Biological,AbbVie,20,39,True,False,False
+NCT2013001760,2023,Cardiovascular,Phase 1,Recruiting,Drug,Biotech Startup,28,18,False,False,True
+NCT2013001761,2017,Respiratory,Phase 2,Recruiting,Behavioral,AstraZeneca,116,20,True,False,True
+NCT2013001762,2019,Infectious Disease,Phase 1,Unknown,Drug,Johnson & Johnson,19,31,True,True,True
+NCT2013001763,2014,Diabetes/Metabolic,Phase 1,Unknown,Device,Bayer,11,14,False,False,True
+NCT2013001764,2016,Oncology,Phase 1,Unknown,Procedure,Bristol-Myers Squibb,25,32,False,False,False
+NCT2013001765,2014,Oncology,Phase 1,Unknown,Other,Merck,46,21,False,True,False
+NCT2013001766,2024,Immunology/Autoimmune,Phase 3,Completed,Drug,Novartis,783,12,False,False,False
+NCT2013001767,2019,Oncology,Phase 2,Recruiting,Drug,Bayer,26,23,False,False,False
+NCT2013001768,2014,Neurology,Phase 1,Recruiting,Drug,Gilead,28,32,False,True,True
+NCT2013001769,2023,Diabetes/Metabolic,Phase 3,Completed,Behavioral,Bayer,752,9,False,False,False
+NCT2013001770,2013,Neurology,Phase 1,Unknown,Drug,Academic Medical Center,27,18,False,True,False
+NCT2013001771,2021,Mental Health,Phase 2,Recruiting,Device,Novartis,56,28,False,False,False
+NCT2013001772,2013,Oncology,Phase 1,"Active, not recruiting",Drug,Bristol-Myers Squibb,24,8,False,False,False
+NCT2013001773,2020,Oncology,N/A,Recruiting,Drug,Roche,211,14,False,True,False
+NCT2013001774,2014,Oncology,Phase 3,Completed,Drug,Bristol-Myers Squibb,429,24,False,False,True
+NCT2013001775,2024,Oncology,Phase 1,"Active, not recruiting",Drug,Novartis,37,17,False,False,True
+NCT2013001776,2020,Cardiovascular,Phase 4,Completed,Behavioral,Bristol-Myers Squibb,340,33,False,False,False
+NCT2013001777,2015,Neurology,Phase 1,"Active, not recruiting",Other,Johnson & Johnson,42,42,False,False,False
+NCT2013001778,2018,Respiratory,Phase 2,Unknown,Drug,Merck,269,25,False,False,False
+NCT2013001779,2015,Diabetes/Metabolic,Phase 2,Terminated,Drug,AstraZeneca,83,11,False,False,True
+NCT2013001780,2019,Respiratory,Phase 3,Completed,Biological,Johnson & Johnson,110,20,True,False,False
+NCT2013001781,2022,Cardiovascular,Phase 3,"Active, not recruiting",Biological,Sanofi,805,31,False,False,True
+NCT2013001782,2021,Cardiovascular,Phase 4,"Active, not recruiting",Drug,Regional Hospital,129,17,False,False,False
+NCT2013001783,2014,Diabetes/Metabolic,N/A,Recruiting,Biological,Bristol-Myers Squibb,148,38,False,True,True
+NCT2013001784,2024,Oncology,Phase 3,"Active, not recruiting",Drug,Merck,2191,34,False,True,True
+NCT2013001785,2024,Oncology,Phase 3,Completed,Drug,University Hospital,291,18,False,False,True
+NCT2013001786,2017,Infectious Disease,Phase 2,Unknown,Drug,GSK,190,38,False,True,True
+NCT2013001787,2018,Oncology,Phase 1,Recruiting,Biological,Johnson & Johnson,14,29,False,False,False
+NCT2013001788,2016,Oncology,Phase 3,Recruiting,Behavioral,GSK,252,37,False,False,True
+NCT2013001789,2016,Oncology,Phase 1,Unknown,Drug,Bristol-Myers Squibb,26,11,False,False,False
+NCT2013001790,2016,Oncology,Phase 4,Completed,Drug,AbbVie,147,25,True,True,False
+NCT2013001791,2014,Respiratory,Phase 3,Recruiting,Drug,NIH,161,42,False,True,True
+NCT2013001792,2016,Diabetes/Metabolic,Phase 2,Recruiting,Drug,Johnson & Johnson,172,14,True,True,True
+NCT2013001793,2023,Neurology,Phase 3,Terminated,Other,Johnson & Johnson,1157,14,False,False,False
+NCT2013001794,2013,Oncology,Phase 3,Recruiting,Other,AbbVie,125,16,False,False,False
+NCT2013001795,2024,Respiratory,Phase 2,Unknown,Device,Amgen,43,12,False,False,True
+NCT2013001796,2018,Cardiovascular,Phase 3,Terminated,Drug,Sanofi,988,16,False,True,False
+NCT2013001797,2013,Immunology/Autoimmune,Phase 2,Recruiting,Procedure,Novartis,215,20,False,False,True
+NCT2013001798,2022,Immunology/Autoimmune,Phase 2,Recruiting,Other,NIH,46,8,False,True,True
+NCT2013001799,2018,Oncology,Phase 3,Completed,Behavioral,Biotech Startup,495,29,False,False,False
+NCT2013001800,2013,Rare Disease,Phase 3,Completed,Drug,AbbVie,429,39,False,False,True
+NCT2013001801,2018,Oncology,Phase 3,"Active, not recruiting",Device,Eli Lilly,879,10,False,False,False
+NCT2013001802,2022,Mental Health,Phase 2,Completed,Drug,University Hospital,49,12,False,True,False
+NCT2013001803,2020,Rare Disease,Phase 2,Completed,Drug,Roche,16,20,False,False,False
+NCT2013001804,2023,Cardiovascular,Phase 1,Terminated,Drug,University Hospital,68,28,True,False,False
+NCT2013001805,2014,Oncology,N/A,Unknown,Biological,Eli Lilly,93,8,False,False,False
+NCT2013001806,2014,Infectious Disease,Phase 2,Unknown,Behavioral,GSK,36,13,False,False,True
+NCT2013001807,2024,Other,N/A,Completed,Device,Biotech Startup,50,11,False,True,True
+NCT2013001808,2016,Neurology,Phase 1,Recruiting,Biological,Boehringer Ingelheim,75,16,False,True,False
+NCT2013001809,2023,Cardiovascular,Phase 2,"Active, not recruiting",Drug,Biotech Startup,42,11,False,False,True
+NCT2013001810,2015,Cardiovascular,Phase 2,Terminated,Biological,AbbVie,44,18,False,False,False
+NCT2013001811,2016,Infectious Disease,Phase 2,"Active, not recruiting",Drug,Johnson & Johnson,156,18,False,False,False
+NCT2013001812,2024,Mental Health,Phase 2,Unknown,Drug,Sanofi,138,14,False,False,False
+NCT2013001813,2019,Oncology,Phase 4,Completed,Drug,Biotech Startup,504,87,False,False,False
+NCT2013001814,2023,Immunology/Autoimmune,Phase 2,Completed,Drug,AstraZeneca,30,30,False,True,False
+NCT2013001815,2013,Oncology,Phase 1,Recruiting,Procedure,Regional Hospital,22,22,False,False,False
+NCT2013001816,2018,Infectious Disease,Phase 2,Recruiting,Drug,Bayer,44,23,False,False,True
+NCT2013001817,2015,Rare Disease,N/A,Recruiting,Drug,Eli Lilly,105,15,False,True,True
+NCT2013001818,2023,Infectious Disease,Phase 2,Completed,Drug,Academic Medical Center,116,38,True,False,False
+NCT2013001819,2022,Respiratory,Phase 3,Terminated,Drug,Biotech Startup,163,10,True,True,False
+NCT2013001820,2019,Oncology,Phase 3,"Active, not recruiting",Drug,Sanofi,372,25,False,True,False
+NCT2013001821,2022,Oncology,Phase 2,Completed,Drug,AstraZeneca,171,39,False,False,False
+NCT2013001822,2014,Rare Disease,Phase 2,Withdrawn,Drug,Merck,27,13,False,True,False
+NCT2013001823,2014,Infectious Disease,Phase 3,Recruiting,Drug,Sanofi,108,19,False,True,True
+NCT2013001824,2016,Oncology,Phase 1,Withdrawn,Drug,Boehringer Ingelheim,51,38,False,False,True
+NCT2013001825,2013,Neurology,Phase 4,Completed,Biological,Sanofi,167,30,False,False,False
+NCT2013001826,2015,Respiratory,Phase 1,"Active, not recruiting",Biological,Gilead,34,14,False,False,True
+NCT2013001827,2021,Infectious Disease,Phase 3,Terminated,Biological,GSK,660,21,False,False,True
+NCT2013001828,2019,Rare Disease,Phase 2,Completed,Drug,Regional Hospital,75,9,False,False,False
+NCT2013001829,2019,Oncology,Phase 2,Recruiting,Drug,Biotech Startup,60,22,False,False,True
+NCT2013001830,2023,Diabetes/Metabolic,N/A,Completed,Drug,Academic Medical Center,60,44,False,False,False
+NCT2013001831,2016,Oncology,Phase 4,Completed,Other,Sanofi,41,46,False,False,False
+NCT2013001832,2014,Oncology,Phase 2,Unknown,Other,Biotech Startup,48,43,False,False,False
+NCT2013001833,2016,Cardiovascular,Phase 3,Withdrawn,Drug,Regional Hospital,179,23,False,True,True
+NCT2013001834,2018,Immunology/Autoimmune,Phase 1,Completed,Drug,Pfizer,29,17,False,False,False
+NCT2013001835,2023,Immunology/Autoimmune,Phase 2,Completed,Drug,Johnson & Johnson,144,12,True,False,False
+NCT2013001836,2023,Cardiovascular,Phase 1,Completed,Drug,Boehringer Ingelheim,124,14,False,False,True
+NCT2013001837,2015,Oncology,Phase 2,Completed,Drug,GSK,75,12,False,True,False
+NCT2013001838,2013,Infectious Disease,Phase 2,Completed,Other,Academic Medical Center,171,15,False,False,True
+NCT2013001839,2024,Cardiovascular,Phase 2,Recruiting,Procedure,University Hospital,167,23,False,False,False
+NCT2013001840,2020,Oncology,Phase 2,Recruiting,Drug,Novartis,97,31,False,True,True
+NCT2013001841,2024,Cardiovascular,Phase 3,Withdrawn,Drug,Pfizer,1070,18,False,False,True
+NCT2013001842,2017,Neurology,N/A,Recruiting,Drug,Bristol-Myers Squibb,281,20,False,False,True
+NCT2013001843,2017,Infectious Disease,Phase 1,Terminated,Other,Amgen,42,17,False,True,True
+NCT2013001844,2023,Infectious Disease,Phase 2,Completed,Device,Bayer,176,19,True,False,False
+NCT2013001845,2016,Oncology,Phase 3,Recruiting,Device,Eli Lilly,96,37,False,False,False
+NCT2013001846,2018,Oncology,Phase 3,Terminated,Other,Eli Lilly,490,13,False,False,False
+NCT2013001847,2015,Oncology,Phase 4,Recruiting,Device,Johnson & Johnson,331,34,False,True,False
+NCT2013001848,2021,Respiratory,Phase 2,Unknown,Drug,Gilead,199,12,False,False,False
+NCT2013001849,2017,Oncology,Phase 1,Unknown,Biological,GSK,39,8,False,False,False
+NCT2013001850,2015,Diabetes/Metabolic,Phase 1,Recruiting,Drug,GSK,18,16,False,False,True
+NCT2013001851,2023,Cardiovascular,Phase 4,Withdrawn,Drug,Boehringer Ingelheim,1606,22,False,False,False
+NCT2013001852,2013,Cardiovascular,N/A,Completed,Drug,University Hospital,56,28,False,True,False
+NCT2013001853,2022,Oncology,Phase 2,Completed,Biological,Pfizer,101,9,False,False,True
+NCT2013001854,2024,Diabetes/Metabolic,Phase 2,Completed,Drug,Sanofi,184,19,False,True,True
+NCT2013001855,2018,Infectious Disease,Phase 4,Completed,Biological,Pfizer,1247,21,False,False,True
+NCT2013001856,2014,Infectious Disease,N/A,Terminated,Drug,Regional Hospital,65,11,False,False,True
+NCT2013001857,2015,Diabetes/Metabolic,Phase 4,Completed,Procedure,Johnson & Johnson,472,16,False,False,True
+NCT2013001858,2013,Oncology,Phase 1,Recruiting,Device,Regional Hospital,71,20,False,False,False
+NCT2013001859,2021,Other,Phase 2,"Active, not recruiting",Drug,GSK,113,14,False,False,False
+NCT2013001860,2020,Cardiovascular,Phase 2,Unknown,Procedure,Sanofi,43,29,True,True,True
+NCT2013001861,2024,Diabetes/Metabolic,Phase 2,Completed,Drug,Eli Lilly,321,35,True,True,False
+NCT2013001862,2014,Diabetes/Metabolic,Phase 3,"Active, not recruiting",Drug,Biotech Startup,715,26,False,True,True
+NCT2013001863,2024,Other,N/A,"Active, not recruiting",Other,Bristol-Myers Squibb,211,63,False,False,True
+NCT2013001864,2023,Cardiovascular,N/A,"Active, not recruiting",Drug,Amgen,329,20,False,False,False
+NCT2013001865,2020,Cardiovascular,Phase 1,Completed,Procedure,Merck,28,26,False,False,False
+NCT2013001866,2024,Oncology,Phase 1,Terminated,Biological,Gilead,37,21,False,False,True
+NCT2013001867,2021,Oncology,Phase 3,Terminated,Drug,GSK,388,15,False,False,False
+NCT2013001868,2013,Oncology,Phase 3,Completed,Drug,Amgen,675,20,False,False,True
+NCT2013001869,2017,Diabetes/Metabolic,Phase 1,Completed,Other,Bristol-Myers Squibb,57,9,False,False,True
+NCT2013001870,2020,Infectious Disease,Phase 3,Completed,Biological,Bristol-Myers Squibb,294,36,False,True,True
+NCT2013001871,2023,Oncology,Phase 1,Terminated,Drug,AbbVie,33,10,False,False,False
+NCT2013001872,2014,Respiratory,Phase 4,Withdrawn,Drug,Bayer,81,40,False,False,False
+NCT2013001873,2016,Infectious Disease,Phase 2,Terminated,Drug,Sanofi,132,20,False,True,True
+NCT2013001874,2019,Cardiovascular,Phase 2,Completed,Biological,Roche,328,34,False,True,True
+NCT2013001875,2015,Neurology,Phase 1,Unknown,Device,Bristol-Myers Squibb,24,21,False,True,True
+NCT2013001876,2024,Diabetes/Metabolic,N/A,"Active, not recruiting",Drug,Johnson & Johnson,134,34,False,False,True
+NCT2013001877,2017,Infectious Disease,Phase 3,"Active, not recruiting",Drug,Sanofi,392,14,False,True,True
+NCT2013001878,2020,Neurology,Phase 3,Unknown,Drug,Amgen,149,20,True,True,True
+NCT2013001879,2024,Infectious Disease,Phase 2,Recruiting,Drug,Bayer,57,31,False,False,False
+NCT2013001880,2022,Diabetes/Metabolic,Phase 2,Unknown,Drug,Sanofi,58,27,False,False,True
+NCT2013001881,2015,Oncology,N/A,Terminated,Drug,Roche,49,24,False,False,False
+NCT2013001882,2016,Rare Disease,Phase 2,"Active, not recruiting",Biological,Johnson & Johnson,172,11,False,False,False
+NCT2013001883,2021,Oncology,N/A,"Active, not recruiting",Drug,GSK,174,17,False,False,False
+NCT2013001884,2019,Oncology,N/A,Withdrawn,Device,Pfizer,54,22,False,False,True
+NCT2013001885,2013,Oncology,Phase 1,Recruiting,Drug,Bristol-Myers Squibb,18,11,False,True,True
+NCT2013001886,2024,Oncology,Phase 2,Unknown,Device,AbbVie,229,22,True,True,False
+NCT2013001887,2016,Oncology,Phase 4,"Active, not recruiting",Device,AstraZeneca,37,24,True,False,False
+NCT2013001888,2016,Oncology,Phase 3,"Active, not recruiting",Other,Biotech Startup,571,36,False,True,False
+NCT2013001889,2021,Mental Health,Phase 4,Recruiting,Drug,Roche,47,30,False,False,True
+NCT2013001890,2018,Oncology,Phase 3,"Active, not recruiting",Drug,Bristol-Myers Squibb,676,30,False,False,True
+NCT2013001891,2021,Mental Health,Phase 1,Unknown,Drug,AstraZeneca,32,6,False,False,True
+NCT2013001892,2024,Oncology,Phase 1,Completed,Drug,Bayer,12,22,False,True,True
+NCT2013001893,2018,Diabetes/Metabolic,N/A,Completed,Device,Biotech Startup,113,32,False,False,True
+NCT2013001894,2018,Oncology,Phase 3,Recruiting,Biological,Johnson & Johnson,1638,33,False,True,False
+NCT2013001895,2017,Rare Disease,Phase 2,"Active, not recruiting",Drug,Novartis,64,30,False,False,True
+NCT2013001896,2017,Oncology,Phase 2,Completed,Drug,Sanofi,129,15,False,False,False
+NCT2013001897,2014,Respiratory,Phase 3,Completed,Drug,Biotech Startup,372,20,False,False,False
+NCT2013001898,2020,Respiratory,N/A,Completed,Drug,University Hospital,687,42,False,True,True
+NCT2013001899,2020,Rare Disease,Phase 2,Recruiting,Procedure,Sanofi,127,20,False,True,False
+NCT2013001900,2023,Oncology,Phase 2,Completed,Biological,AstraZeneca,221,34,False,False,False
+NCT2013001901,2013,Other,Phase 2,Terminated,Biological,AstraZeneca,189,25,False,False,True
+NCT2013001902,2020,Cardiovascular,Phase 1,Completed,Behavioral,Boehringer Ingelheim,43,14,False,True,True
+NCT2013001903,2017,Respiratory,Phase 2,"Active, not recruiting",Drug,Bayer,135,7,False,True,True
+NCT2013001904,2014,Respiratory,Phase 2,"Active, not recruiting",Procedure,AstraZeneca,38,26,False,True,False
+NCT2013001905,2014,Oncology,Phase 2,Recruiting,Drug,AbbVie,191,16,False,False,False
+NCT2013001906,2018,Oncology,Phase 3,Terminated,Device,Bayer,548,12,False,True,False
+NCT2013001907,2023,Cardiovascular,Phase 2,Unknown,Drug,AbbVie,104,21,False,True,True
+NCT2013001908,2021,Oncology,Phase 1,Recruiting,Biological,AstraZeneca,78,22,False,True,True
+NCT2013001909,2013,Rare Disease,Phase 2,Recruiting,Drug,Bristol-Myers Squibb,153,18,False,False,False
+NCT2013001910,2024,Oncology,Phase 2,"Active, not recruiting",Drug,GSK,83,10,False,False,True
+NCT2013001911,2018,Diabetes/Metabolic,Phase 4,Completed,Behavioral,Gilead,364,17,True,True,False
+NCT2013001912,2021,Diabetes/Metabolic,Phase 3,Terminated,Biological,Merck,800,32,False,True,True
+NCT2013001913,2020,Oncology,Phase 3,"Active, not recruiting",Other,Boehringer Ingelheim,294,19,False,True,True
+NCT2013001914,2023,Oncology,Phase 1,Completed,Device,Biotech Startup,26,8,False,False,True
+NCT2013001915,2018,Respiratory,Phase 3,"Active, not recruiting",Other,AbbVie,521,13,False,True,False
+NCT2013001916,2015,Oncology,Phase 1,Terminated,Drug,Academic Medical Center,27,27,False,False,False
+NCT2013001917,2020,Immunology/Autoimmune,Phase 3,Completed,Drug,Amgen,260,18,False,True,True
+NCT2013001918,2021,Oncology,Phase 1,"Active, not recruiting",Behavioral,Pfizer,37,12,False,False,True
+NCT2013001919,2013,Oncology,Phase 1,Recruiting,Behavioral,AbbVie,35,34,False,False,True
+NCT2013001920,2024,Immunology/Autoimmune,Phase 4,Recruiting,Biological,Boehringer Ingelheim,238,29,False,False,True
+NCT2013001921,2021,Cardiovascular,Phase 2,Terminated,Drug,AbbVie,57,16,False,False,True
+NCT2013001922,2018,Oncology,Phase 1,Recruiting,Behavioral,AstraZeneca,78,44,True,False,True
+NCT2013001923,2018,Neurology,N/A,Recruiting,Drug,Biotech Startup,78,65,False,True,False
+NCT2013001924,2024,Infectious Disease,Phase 1,Recruiting,Drug,Amgen,33,19,True,False,False
+NCT2013001925,2016,Oncology,Phase 3,Completed,Behavioral,GSK,556,27,False,True,True
+NCT2013001926,2013,Cardiovascular,Phase 3,Completed,Drug,Pfizer,528,24,False,True,True
+NCT2013001927,2022,Oncology,Phase 3,Terminated,Behavioral,Bayer,1890,33,False,False,False
+NCT2013001928,2020,Oncology,Phase 3,Completed,Drug,Regional Hospital,316,15,False,False,False
+NCT2013001929,2014,Other,Phase 1,Terminated,Drug,Biotech Startup,13,19,False,True,False
+NCT2013001930,2024,Oncology,Phase 3,Recruiting,Drug,Biotech Startup,707,13,False,True,True
+NCT2013001931,2013,Cardiovascular,Phase 1,Recruiting,Biological,Gilead,17,27,False,False,False
+NCT2013001932,2014,Oncology,Phase 1,"Active, not recruiting",Behavioral,Gilead,82,18,True,True,True
+NCT2013001933,2013,Cardiovascular,Phase 1,Unknown,Device,Merck,35,23,False,True,False
+NCT2013001934,2013,Immunology/Autoimmune,Phase 2,Completed,Other,Biotech Startup,73,29,False,False,False
+NCT2013001935,2021,Immunology/Autoimmune,Phase 4,Terminated,Drug,Academic Medical Center,105,7,True,False,True
+NCT2013001936,2013,Neurology,Phase 2,Recruiting,Drug,AstraZeneca,11,16,False,False,False
+NCT2013001937,2016,Oncology,Phase 3,Terminated,Other,GSK,498,26,False,False,False
+NCT2013001938,2022,Oncology,Phase 2,Completed,Drug,Eli Lilly,39,28,False,True,False
+NCT2013001939,2018,Oncology,Phase 2,Completed,Biological,University Hospital,46,18,False,False,True
+NCT2013001940,2019,Cardiovascular,Phase 3,Recruiting,Drug,Boehringer Ingelheim,571,18,False,False,False
+NCT2013001941,2014,Other,Phase 2,"Active, not recruiting",Drug,Pfizer,18,19,False,False,False
+NCT2013001942,2018,Rare Disease,Phase 1,Withdrawn,Other,AbbVie,32,19,False,False,False
+NCT2013001943,2019,Oncology,Phase 3,Completed,Behavioral,Biotech Startup,1682,13,False,True,False
+NCT2013001944,2022,Neurology,Phase 3,Recruiting,Procedure,AstraZeneca,1629,9,True,True,True
+NCT2013001945,2022,Oncology,Phase 1,"Active, not recruiting",Biological,Novartis,21,11,False,False,False
+NCT2013001946,2014,Oncology,Phase 1,Completed,Drug,Bayer,23,35,False,False,True
+NCT2013001947,2014,Other,Phase 2,Terminated,Other,Gilead,44,9,False,False,False
+NCT2013001948,2022,Cardiovascular,Phase 2,Terminated,Behavioral,Sanofi,81,38,False,True,False
+NCT2013001949,2019,Cardiovascular,Phase 1,"Active, not recruiting",Procedure,Roche,34,16,False,False,True
+NCT2013001950,2024,Rare Disease,Phase 3,Recruiting,Other,Bayer,532,67,True,False,True
+NCT2013001951,2013,Oncology,Phase 2,Recruiting,Drug,Gilead,72,52,False,False,True
+NCT2013001952,2020,Infectious Disease,Phase 2,Completed,Drug,Gilead,155,21,False,False,True
+NCT2013001953,2023,Diabetes/Metabolic,N/A,Completed,Drug,Roche,222,31,True,False,True
+NCT2013001954,2015,Diabetes/Metabolic,Phase 4,Completed,Drug,Bristol-Myers Squibb,925,15,False,False,True
+NCT2013001955,2023,Neurology,Phase 3,"Active, not recruiting",Procedure,University Hospital,447,17,False,True,False
+NCT2013001956,2018,Cardiovascular,Phase 2,Completed,Procedure,GSK,103,16,False,False,False
+NCT2013001957,2021,Oncology,Phase 1,Recruiting,Drug,AbbVie,62,29,False,True,False
+NCT2013001958,2018,Oncology,Phase 3,Unknown,Biological,Amgen,1158,11,False,False,False
+NCT2013001959,2021,Oncology,Phase 2,Unknown,Biological,Gilead,101,30,False,True,False
+NCT2013001960,2019,Mental Health,Phase 1,Recruiting,Device,Biotech Startup,66,25,False,True,False
+NCT2013001961,2021,Oncology,N/A,Withdrawn,Drug,AstraZeneca,124,22,False,False,False
+NCT2013001962,2014,Diabetes/Metabolic,Phase 2,"Active, not recruiting",Drug,Sanofi,38,7,False,True,False
+NCT2013001963,2024,Cardiovascular,Phase 3,Terminated,Drug,GSK,784,28,False,False,False
+NCT2013001964,2020,Respiratory,Phase 3,Withdrawn,Device,Boehringer Ingelheim,451,30,True,False,False
+NCT2013001965,2020,Oncology,Phase 3,"Active, not recruiting",Drug,GSK,621,19,False,True,True
+NCT2013001966,2014,Mental Health,Phase 2,Completed,Biological,Gilead,244,21,False,False,False
+NCT2013001967,2024,Infectious Disease,Phase 2,"Active, not recruiting",Biological,AbbVie,69,11,False,False,True
+NCT2013001968,2016,Rare Disease,Phase 1,Recruiting,Drug,Merck,29,9,False,False,False
+NCT2013001969,2023,Diabetes/Metabolic,Phase 2,"Active, not recruiting",Drug,NIH,36,15,False,False,True
+NCT2013001970,2019,Oncology,Phase 2,Unknown,Drug,Sanofi,71,24,False,False,True
+NCT2013001971,2023,Cardiovascular,Phase 4,Completed,Biological,Sanofi,255,64,False,False,False
+NCT2013001972,2016,Oncology,Phase 2,Terminated,Biological,Boehringer Ingelheim,69,40,False,False,True
+NCT2013001973,2016,Diabetes/Metabolic,Phase 1,Completed,Drug,Novartis,28,22,False,False,True
+NCT2013001974,2018,Respiratory,Phase 2,Unknown,Other,Biotech Startup,83,29,False,False,False
+NCT2013001975,2022,Oncology,Phase 3,Completed,Other,Bayer,709,28,False,False,True
+NCT2013001976,2018,Cardiovascular,Phase 2,Completed,Drug,Amgen,31,10,False,False,True
+NCT2013001977,2022,Infectious Disease,Phase 1,Terminated,Drug,Amgen,14,12,False,False,True
+NCT2013001978,2015,Infectious Disease,N/A,Recruiting,Biological,Eli Lilly,670,13,False,False,False
+NCT2013001979,2021,Neurology,Phase 1,Completed,Drug,Johnson & Johnson,16,17,True,False,False
+NCT2013001980,2024,Respiratory,Phase 2,Unknown,Drug,Sanofi,20,17,False,False,False
+NCT2013001981,2022,Oncology,Phase 1,Completed,Biological,Roche,23,14,False,False,True
+NCT2013001982,2023,Oncology,Phase 1,Recruiting,Drug,Boehringer Ingelheim,43,32,False,False,True
+NCT2013001983,2014,Mental Health,Phase 1,Completed,Device,AbbVie,45,23,False,True,False
+NCT2013001984,2018,Respiratory,Phase 1,Terminated,Drug,Bayer,13,37,False,False,True
+NCT2013001985,2024,Rare Disease,Phase 1,Terminated,Drug,Academic Medical Center,54,23,False,False,False
+NCT2013001986,2019,Immunology/Autoimmune,Phase 3,Terminated,Drug,Biotech Startup,458,13,True,False,False
+NCT2013001987,2024,Respiratory,Phase 1,Terminated,Biological,AstraZeneca,19,17,True,False,False
+NCT2013001988,2021,Oncology,Phase 3,Unknown,Biological,Amgen,323,38,False,False,False
+NCT2013001989,2015,Cardiovascular,Phase 2,Unknown,Drug,Academic Medical Center,231,7,False,False,False
+NCT2013001990,2022,Immunology/Autoimmune,Phase 4,Recruiting,Drug,Roche,60,17,False,False,False
+NCT2013001991,2015,Respiratory,Phase 1,Recruiting,Device,Eli Lilly,24,29,False,False,True
+NCT2013001992,2019,Infectious Disease,N/A,Completed,Drug,Biotech Startup,61,52,False,False,False
+NCT2013001993,2016,Other,Phase 3,Completed,Biological,Boehringer Ingelheim,359,9,False,False,False
+NCT2013001994,2020,Respiratory,Phase 1,Withdrawn,Other,Biotech Startup,27,10,False,False,False
+NCT2013001995,2019,Diabetes/Metabolic,Phase 2,Completed,Drug,Roche,49,6,False,True,False
+NCT2013001996,2017,Oncology,Phase 1,Recruiting,Drug,Biotech Startup,38,24,False,False,False
+NCT2013001997,2019,Neurology,Phase 4,"Active, not recruiting",Drug,Biotech Startup,324,35,False,True,False
+NCT2013001998,2015,Rare Disease,Phase 2,Recruiting,Drug,AstraZeneca,129,16,False,True,True
+NCT2013001999,2024,Oncology,Phase 3,Recruiting,Drug,Biotech Startup,23,41,True,False,False
